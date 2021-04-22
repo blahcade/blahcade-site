@@ -17,7 +17,12 @@ video::azXRN_Bqcmc[youtube, width=560, height=315]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
-== Subscribe and listen
+== Watch and listen
+
+video::jt_q174Ys5Q[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
 <a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
