@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 219: Reacting to Epic Pinball FX News"
 author: jared
-categories: [ episode ]
+categories: [ episodes ]
 image: assets/images/zen-epic.png
 tags: [sticky]
 ---
@@ -17,7 +17,12 @@ video::azXRN_Bqcmc[youtube, width=560, height=315]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
-== Subscribe and listen
+== Watch and listen
+
+video::jt_q174Ys5Q[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
 <a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
@@ -36,13 +41,9 @@ You won’t see any real timing points here because if we added these in you mig
 
 Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
 So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show.
+If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
 
-Here’s the video of the episode if you want to respond on there.
-
-video::jt_q174Ys5Q[youtube, width=560, height=315]
-
-== Pinball FX3 Backbox Cabinet Mode Art
+== Pinball FX3 Backbox Cabinet Mode Art 
 
 Download as many as you want now for free!
 
