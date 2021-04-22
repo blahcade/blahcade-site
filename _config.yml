@@ -1,12 +1,11 @@
-name: Mundana
+name: BlahCade Pinball Podcast
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 baseurl: ''
 disqus: demowebsite
-email: wowthemesnet@gmail.com
-mailchimp-list: >-
-  https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+email: blahblahblahcade@gmail.com
+mailchimp-list: 
 include:
   - _pages
 permalink: '/:title/'
@@ -19,16 +18,16 @@ plugins:
 authors:
   chris:
     name: Chris Friebus
-    site: 'https://www.wowthemes.net'
-    avatar: /assets/images/chris.jpeg
+    site: 
+    avatar: /assets/images/chris.jpg
     bio: >-
-      Host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter
+      Host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter.
     email: shutyertraps@gmail.com
     twitter: 'https://twitter.com/shutyertraps'
   jared:
     name: Jared Morgan
     site: 'https://jaredleonmorgan.net'
-    avatar: /assets/images/jared.jpeg
+    avatar: /assets/images/jared.jpg
     bio: >-
       Co-host of the BlahCade Pinball Podcast, Technical Writer, VR junkie.
     email: jaredleonmorgan@gmail.com
@@ -39,7 +38,7 @@ defaults:
     values:
       layout: post
       author: jared
-      avatar: /assets/images/jared.jpeg
+      avatar: /assets/images/jared.jpg
   - scope:
       path: _pages
     values:
