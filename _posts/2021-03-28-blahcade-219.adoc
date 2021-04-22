@@ -7,13 +7,13 @@ image: assets/images/zen-epic.png
 tags: [sticky]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_ Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
 
 image::assets/images/zen-epic.png[]
 
 The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
 
-video::v=azXRN_Bqcmc[youtube, width=640]
+video::v=azXRN_Bqcmc[youtube, width=640, height=213]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
@@ -40,7 +40,7 @@ If anything resonates with you let us know in either the YouTube comments or sen
 
 Here’s the video of the episode if you want to respond on there.
 
-video::azXRN_Bqcmc[youtube, width=640]
+video::azXRN_Bqcmc[youtube, width=640, height=213]
 
 == Pinball FX3 Backbox Cabinet Mode Art
 
