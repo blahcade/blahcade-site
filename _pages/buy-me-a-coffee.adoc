@@ -10,5 +10,5 @@ We don't charge for the show, so we get a real buzz when people donate real mone
 Thank you so much!
 
 ++++
-<a class="btn btn-danger" href="https://www.paypal.me/blahcade/5">Caffeinate the hosts!</a>
+<a target="_blank" class="btn btn-danger" href="https://www.paypal.me/blahcade/5">Caffeinate the hosts!</a>
 ++++
