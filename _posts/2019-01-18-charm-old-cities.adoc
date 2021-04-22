@@ -4,7 +4,6 @@ title:  "Could we reinvent the charm of old cities"
 author: jared
 categories: [ episode, interview ]
 image: assets/images/home.jpg
-tags: [ sticky, featured ]
 ---
 
 This first sentence is the main intro para.
