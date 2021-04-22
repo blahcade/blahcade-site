@@ -11,36 +11,35 @@ include:
   - _pages
 permalink: '/:title/'
 plugins:
+  - jekyll-asciidoc
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
 authors:
-  sal:
-    name: Sal
+  chris:
+    name: Chris Friebus
     site: 'https://www.wowthemes.net'
-    avatar: /assets/images/avatar1.jpg
+    avatar: /assets/images/chris.jpg
     bio: >-
-      Hi, I am Sal, the author of Mundana, the theme you're currently
-      previewing. I hope you like it!
-    email: wowthemesnet@gmail.com
-    twitter: 'https://twitter.com/wowthemesnet'
-  jane:
-    name: Jane
-    site: 'https://www.wowthemes.net'
-    avatar: /assets/images/avatar2.jpg
+      Host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter
+    email: shutyertraps@gmail.com
+    twitter: 'https://twitter.com/shutyertraps'
+  jared:
+    name: Jared Morgan
+    site: 'https://jaredleonmorgan.net'
+    avatar: /assets/images/jared.jpg
     bio: >-
-      Blogger, fashionista, love to explore new ideas and write on my morning
-      coffee!
-    email: fakemail@gmail.com
-    twitter: 'https://twitter.com/wowthemesnet'
+      Co-host of the BlahCade Pinball Podcast, Technical Writer, VR junkie.
+    email: jaredleonmorgan@gmail.com
+    twitter: 'https://twitter.com/jaredmorgs'
 defaults:
   - scope:
       path: _posts
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: jared
+      avatar: /assets/images/jared.jpg
   - scope:
       path: _pages
     values:
