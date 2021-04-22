@@ -13,7 +13,7 @@ image::zen-epic.png[]
 
 The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
 
-video::azXRN_Bqcmc[youtube, width=640, height=480]
+video::azXRN_Bqcmc[youtube, width=720, height=480]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
