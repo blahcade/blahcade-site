@@ -41,11 +41,7 @@ You won’t see any real timing points here because if we added these in you mig
 
 Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
 So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show.
-
-Here’s the video of the episode if you want to respond on there.
-
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
 
 == Pinball FX3 Backbox Cabinet Mode Art
 
