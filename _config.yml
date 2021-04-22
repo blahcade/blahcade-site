@@ -46,7 +46,7 @@ defaults:
 markdown: kramdown
 asciidoctor:
   attributes:
-    - imagesdir: /assets/images
+    imagesdir: /assets/images
 highlighter: rouge
 paginate: 10
 exclude:
