@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 219: Reacting to Epic Pinball FX News"
 author: jared
 categories: [ episode ]
-image: zen-epic.png
+image: assets/images/zen-epic.png
 tags: [sticky]
 ---
 
@@ -47,7 +47,7 @@ video::azXRN_Bqcmc[youtube, width=640, height=213, start=1]
 Download as many as you want now for free!
 
 .This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::assets/images/afm-backglass.png[Attack From Mars backglass image]
+image::afm-backglass.png[Attack From Mars backglass image]
 
 ++++
 <iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
