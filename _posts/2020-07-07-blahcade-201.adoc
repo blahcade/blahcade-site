@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "BlahCade 201: Arcade 1UP Interview Thoughts"
+author: jared
+categories: [ episodes ]
+image: assets/images/zen-epic.png
+---
+
+In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+
+image::zen-epic.png[]
+
+The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+
+video::azXRN_Bqcmc[youtube, width=560, height=315]
+
+It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+
+== Watch and listen
+
+video::jt_q174Ys5Q[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Reacting to Epic Pinball FX News
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really apprreciate you doing it!
+
+== Show notes
+
+This episode summary is a bit different from the other ones we typically put out.
+You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+
+Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
+So sit back, relax, and listen with an open mind and ear. 
+If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+
+== Pinball FX3 Backbox Cabinet Mode Art 
+
+Download as many as you want now for free!
+
+.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
+image::afm-backglass.png[Attack From Mars backglass image]
+
+.Google Drive FX Box Preview
+++++
+<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
+++++
+
+Don't forget to donate to the show if you use them in your build. 
+And make sure you send us pics! 
