@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "BlahCade 219: Reacting to Epic Pinball FX News"
+subtitle: "It’s time to get down and give our take on the pretty controversial news that Mel shared with everyone on The Pinball Show Ep. 3."
 author: jared
 categories: [ episodes ]
 image: assets/images/zen-epic.png
