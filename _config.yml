@@ -1,6 +1,6 @@
 name: BlahCade Pinball Podcast
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: assets/images/logo.png
+description: 'The premier commercial digital pinball podcast'
+logo: assets/images/logo-large.png
 favicon: assets/images/favicon.ico
 baseurl: ''
 disqus: blahcade
@@ -21,7 +21,7 @@ authors:
     site: 
     avatar: /assets/images/chris.jpg
     bio: >-
-      Host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter.
+      Co-host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter.
     email: shutyertraps@gmail.com
     twitter: 'https://twitter.com/shutyertraps'
   jared:
