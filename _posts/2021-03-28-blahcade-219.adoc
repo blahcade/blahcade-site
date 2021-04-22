@@ -40,7 +40,7 @@ If anything resonates with you let us know in either the YouTube comments or sen
 
 Here’s the video of the episode if you want to respond on there.
 
-video::jt_q174Ys5Q[youtube, width=640, height=480]
+video::jt_q174Ys5Q[youtube, width=560, height=315]
 
 == Pinball FX3 Backbox Cabinet Mode Art
 
