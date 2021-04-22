@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 219: Reacting to Epic Pinball FX News"
 author: jared
-categories: [ episode ]
+categories: [ episodes ]
 image: assets/images/zen-epic.png
 tags: [sticky]
 ---
