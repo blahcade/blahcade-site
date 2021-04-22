@@ -4,7 +4,7 @@ title:  "BlahCade 209: Pre-order This!"
 author: jared
 categories: [ episodes ]
 image: assets/images/zen-epic.png
-tags: [ featured ]
+tags: [featured]
 ---
 
 In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
