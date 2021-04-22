@@ -1,0 +1,14 @@
+---
+title: "Support the show"
+permalink: "/support-the-show.html"
+---
+
+If you want to shout us a coffee to say thanks for the show, you can send a donation through https://www.paypal.me/blahcade/5[PayPal]. 
+
+We don't charge for the show, so we get a real buzz when people donate real money to us. 
+
+Thank you so much!
+
+++++
+<a class="btn btn-danger" href="https://www.paypal.me/blahcade/5">Caffeinate the hosts!</a>
+++++
