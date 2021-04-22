@@ -13,7 +13,7 @@ image::assets/images/zen-epic.png[]
 
 The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
 
-video::v=azXRN_Bqcmc[youtube, width=640, height=480]
+video::v=azXRN_Bqcmc[youtube, width=640]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
@@ -38,9 +38,9 @@ Because we are breaking down quotes from an interview, you need to listen to the
 So sit back, relax, and listen with an open mind and ear. 
 If anything resonates with you let us know in either the YouTube comments or send us an email to the show.
 
-Here’s the video of the episode if you want to respond on there:
+Here’s the video of the episode if you want to respond on there.
 
-video:azXRN_Bqcmc[youtube, width=640, height=480]
+video::azXRN_Bqcmc[youtube, width=640]
 
 == Pinball FX3 Backbox Cabinet Mode Art
 
