@@ -3,18 +3,22 @@ layout: post
 title:  "BlahCade 207: Pinball cabinet wars 2020"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/207-legends-renders.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+The heat is on in the lead up to Christmas when it comes to virtual pinball cabinets!
 
-image::zen-epic.png[]
+👀Well, that escalated quickly!👀
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+Zen Studios and AtGames got into a bit of argy-bargy when AtGames allegedly breached the Zen Studios EULA conditions. 
+Chris Friebus and I dive into the EULA and try to shed light on what might be causing the stoush.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
+Now that AtGames has actually released details of their product, Chris and I can have a (somewhat) intelligent conversation about it for your benefit.
 
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Volume 6 is now properly out and people have had a chance to experience it themselves. 
+Chris and I talk through what we reckon about the three-pack of tables.
+
+Plenty to get excited about in this episode: EULA love it! 😛
 
 == Watch and listen
 
@@ -24,8 +28,8 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/pinball-cabinet-wars-2020-97312" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Pinball Cabinet Wars 2020
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -35,12 +39,72 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 05:30— Mini BlahCade segments
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Chris has been busy slicing up the last episode into segments called Mini BlahCade episodes.
+
+Let us know what you reckon about the segments and what you like and don’t like.
+They are all linked below in each segment for you to check out.
+
+=== 10:00 — Volume 6 reactions
+
+video::UXotAyrTlRA[youtube, width=560, height=315]
+
+Volume 6 is out and people have had a chance to play it and cast their judgment on the offerings.
+
+Chris and I go through each table and tell you our thoughts about each table.
+In particular, we reveal which table wins out with the digital effects Zen has added.
+
+But what about you? 
+What do you think of this new era of alpha-numeric tables in Pinball FX3?
+
+=== 23:30 — Legends pinball cab design reaction
+
+video::Y8UDUfBNMIo[youtube, width=560, height=315]
+
+Now that we have decent renders of the product, we can actually talk about it with some authority.
+
+image::207-legends-renders.jpeg[Photo of the AtGames Legends Pinball cabinet prototype sitting in a room]
+
+There’s a glass cover over the screen which is nice. 
+And there is a video backglass screen and DMD. 
+Even nicer!
+
+The unit does have an accelerometer but since recording the show we’ve learned that the physical tilt is only available on the built-in tables (that is Farsights’s Gottlieb tables) 😢.
+
+The unit will have an option for tilt buttons like the Toyshock cabinet does for those people wanting to play their Steam pinball collection on the unit.
+There is no official word whether you will be able to use the DMD on games like FX3 when you play it through a PC connected to a cabinet.
+
+=== 36:00 — Legends pinball games and specifications reaction
+
+video::DWNXS3cmZ7k[youtube, width=560, height=315]
+
+The cab will be running in 1080p in 60FPS, but that may only be for the native titles on the cabinet. 
+That amounts to all Gottlieb and Alvin G tables, with the exception of Big Hurt and the EM version of El Dorado.
+
+Eventually, the custom Taito tables will allegedly be running at these specs and will be offered as DLC items.
+You can also stream Visual Pinball X (VPX) tables that are user-created.
+
+The other advantage is that you get all the other AtGames ecosystem benefits: leaderboards and tournaments. 
+And the BYOG and subscription game streaming services are available for a growing range of titles.
+
+What many people are forgetting is that unless you can stream FX3 in portrait mode you’re going to be playing it in landscape orientation. 
+Hopefully, there’s a way to set your BYOG HDMI streaming to portrait, otherwise it’s not going to be good.
+
+=== 47:00 — You’ll love the EULA breakdown
+
+video::hqlkG9ri7K0[youtube, width=560, height=315]
+
+Zen swiftly released a statement once AtGames announced their product and Mel was kind enough to make sure no one misunderstood the intent of the official tweet.
+
+++++
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you are wondering what this is about, <a href="https://twitter.com/AtGamesGaming?ref_src=twsrc%5Etfw">@AtGamesGaming</a> pinball is violating our EULA and we do not support their hardware or BYOG platform.<br>Let me know if you have any questions. <a href="https://t.co/t2YqSrI0pq">https://t.co/t2YqSrI0pq</a></p>&mdash; mel_g_kirk (@Mel_G_Kirk) <a href="https://twitter.com/Mel_G_Kirk/status/1319389811342540800?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+That being said we couldn’t help go through the EULA, which you can read on http://blog.zenstudios.com/eula.html. 
+There is plenty of caveats in this chat relating to streaming games and heaps of other stuff that don’t seem to be in favor of anyone trying to use the AtGames platform to play FX3.
+
+After we finish cross-examining the details of the EULA, we speculate on what the next steps for these companies could be regarding generation two of their products.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
