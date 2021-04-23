@@ -3,29 +3,28 @@ layout: post
 title:  "BlahCade 209: Pre-order This!"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/afm-backglass.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Mandalorian and more digital pin-cab news.
 
-image::zen-epic.png[]
+With news about Disney+ “The Mandalorian” being graced with a Zen Pinball release, Chris and I get stuck into what this might look like on the show.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+It’s another week and that means that there is more news to tease apart about the pinball cabinet products vying for your dollar this holiday season.
+We also take some time to look into Zaccaria Pinball a bit deeper than normal (by request).
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Let us know what you think on Twitter or YouTube.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::gWvEyV-JUB4[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/pre-order-this-97803" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Pre-order This!
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -35,60 +34,78 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 01:00 — Intro and show errata
+=== 03:50 — The Mandalorian announcement
 
-Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+video::IX_cPtQPnLk[youtube, width=560, height=315]
 
-=== 06:30— The Pinball Show premieres
+What is the Mandalorian going to shape up to be?
 
-Zen Studios has its own show now called The Pinball Show.
+Will it be a single pack or three-pack offering or will it be something else.
 
-video::_IU_RCOl83w[youtube, width=560, height=315]
+Chris reckons there might not be the scope for an offshoot table considering that there aren’t that many characters developed enough yet to do a spin-off.
 
-In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+=== 14:30 — Zen originals are coming back
 
-=== 12:00 — The Announcement
+video::qQSyrug9ebg[youtube, width=560, height=315]
 
-The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+Why? Because they are profitable for them. 😉
 
-video::CtDB12Z4X1U[youtube, width=560, height=315]
+They don’t need to pay for the Scientific Games license for Bally Williams tables.
 
-We break down each part of the interview and comment individually.
+What may also happen is that the Zen originals tables (think Tesla or V12) may become padding for more licensed Arcade 1UP cabinets in the future.
 
-=== 24:30 — Backwards compatibility and new IPs
+=== 22:00 — Cabinet news updates
 
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+video::qQSyrug9ebg[youtube, width=560, height=315]
 
-video::CNUEqbUkE4s[youtube, width=560, height=315]
+Is Toyshock going to bother with their second-generation product now that AtGames has trumped them with a dual-screen?
+Will the AtGames second monitor be a feature on all competitor cabinets moving forward?
+Will all v2 cabinets have WiFi and leaderboards?
+Will the lack of backglass be a blocker for games like JunkYard’s “Window Shopping” mode.
 
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+video::OCSw2GQA6Oc[youtube, width=560, height=315]
 
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+Will Well-played Arcade be able to keep up with the other two main players?
+Chris and I speculate on all these questions and more in this latest cut of information.
 
-News about physics as well. 😉
+=== 42:00 — Well-played Games and Zaccaria
 
-=== 41:00 — New engine and physics across all tables
+We decided to do a bit of analysis on the Zaccaria tables and how this package stacks up with the other competitors.
 
-Why is a new engine good news for consumers?
+The offering is not going to be the original solid-state tables, but the remake (DMD) tables.
 
-video::Q6vknXaw_-0[youtube, width=560, height=315]
+=== 53:00 — Zaccaria Deluxe (video screens)
 
-It means easier and faster game development and better quality control for cross-platform releases.
-But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+video::YQlajvxEyGI[youtube, width=560, height=315]
 
-=== 49:00 — Battle Royale
+Zaccaria has been forging ahead with their Deluxe tables over the last few months.
+These tables have imaginative layouts however the sound package and video screen just don’t add anything much to the overall “story” that the table is trying to convey.
 
-The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+All these tables feel like you’re playing very early builds of these tables and it’s so frustrating. Because these tables are really unique and interesting. I really want them to be better and really give players a taste of what is possible with these tables.
 
-video::PNQAbcvcWUg[youtube, width=560, height=315]
+Even tables like Centaur or Gorgar with only five or six callouts tell more narrative story that these Zaccaria tables. 😦
 
-Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+=== 66:00 — Star Wars tables aren’t that awesome
 
-If you’ve not seen this game, it looks a bit like this.
+Now that we know what tables are on Star Wars Pinball Cabs, it turns out that the first wave titles are really not that attractive.
 
-image::216-tetris99.jpeg[Tetris 99 screenshot]
+Hopefully, they release the others on a wave 2 cabinet because that will be a much better offering.
 
-Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+=== 67:00 — RTFM on Zen original tables
+
+I decided to read the table instructions on the Zen originals and my games dramatically improved after doing so.
+
+Read 👏 The 👏 Instructions 👏 folks.
+
+=== 70:00 — Pinball university and LWI(D)P
+
+Chris is now a professor because he has a course on how to understand the wonderful world of digital pinball.
+
+https://www.thisweekinpinball.com/beginners-guide-virtual-pinball-chris-friebus/[A Beginner's Guide to Virtual Pinball - by Chris Friebus - This Week in Pinball]
+
+Also, check out the Last Week In (Digital) Pinball posts that Chris is putting together.
+
+https://www.thisweekinpinball.com/new-feature-last-week-in-digital-pinball-by-chris-friebus/[Last Week in (Digital) Pinball | Zen Releases Williams Volume 6...Finally | Magic Pixel's Zaccaria Pinball Releases…]
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
