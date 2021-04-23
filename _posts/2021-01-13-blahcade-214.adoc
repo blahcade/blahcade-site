@@ -2,31 +2,29 @@
 layout: post
 title:  "BlahCade 214: We can’t just push reset?"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
+categories: [episodes]
+image: assets/images/214-movie-theatre.jpeg
 tags: [featured]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+This year has already started out a bit dodgy, but surely it can only get better starting from now.
 
-image::zen-epic.png[]
+In this episode, we ask a favor of YouTube content creators who received their pinball cabinets from At Games and Arcade 1UP.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+In other news we talk about real pinball and whether it is better to go with trying to touch-up a bad paint job, or whether you should just take a deep breath and sand off the playfield art so you can lay down what’s known as a “hard-top” playfield overlay.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+To round out this episode Chris gives us his 2020 movie reviews and ratings and you might be surprised what gets into the Best Movie category this year.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::OY0-IPBALik[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/we-cant-just-push-reset-98832" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - We can't just push reset?
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -36,60 +34,64 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 01:00 — Intro and show errata
+=== 08:55 — Review frustrations and suggestions
 
-Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+We’re a bit frustrated by the reviews by other YouTubers for the AtGames and Arcade 1Up pinball cabinets because all they are doing is focusing on the hardware and not the software.
+Hopefully, our pleas will be answered and we’ll start getting some software-based reviews about what these cabinets are offering from their built-in titles compared with Steam.
 
-=== 06:30— The Pinball Show premieres
+=== 19:08 — Concerns over solenoids versus transducers
 
-Zen Studios has its own show now called The Pinball Show.
+video::H85TPOfnYZ4[youtube, width=560, height=315]
 
-video::_IU_RCOl83w[youtube, width=560, height=315]
+And speaking of hardware reviews, there is some debate on the lifecycle of the solenoids used in Arcade 1UP versus the transducers in AtGames.
+Solenoids (or contactors) as they are called in the pinball cabinet world are different beasts from regular flipper mechanisms. They are designed to run with little to no maintenance.
 
-In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+Arcade 1UP has positioned four contactor modules around the cabinet so you get a different sensation of where the hits are coming from on a table.
+AtGames have positioned their transducers right on the main control panel area with routed out holes so they are as close as possible to your hands.
 
-=== 12:00 — The Announcement
+Their design opted for two transducers instead of four. Is that going to be enough in comparison
 
-The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+=== 30:00 — Focus on the software, dear content creators
 
-video::CtDB12Z4X1U[youtube, width=560, height=315]
+video::6acSL67OXKs[youtube, width=560, height=315]
 
-We break down each part of the interview and comment individually.
+What is the aversion to focusing on the software being offered in these packages?
 
-=== 24:30 — Backwards compatibility and new IPs
+What is the advantage of buying these machines when you can just play them in vertical mode through your PC?
 
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+What we’d both like to see is a deep comparison of the software experience between the cabinets and Steam (or Android if that is considered closer).
 
-video::CNUEqbUkE4s[youtube, width=560, height=315]
+=== 31:00 — To paint or install a hardtop?
 
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+video::7dJLKG2n1ds[youtube, width=560, height=315]
 
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+Chris has a pretty hammered Firepower playfield. 
+Those who know this playfield know that it has tricky areas on it from a touch-up perspective.
 
-News about physics as well. 😉
+So Chris is pondering whether he should sand down the playfield to bare wood and then install what is basically a fancy playfield overlay on the top.
 
-=== 41:00 — New engine and physics across all tables
+http://www.planetarypinball.com/mm5/merchant.mvc?Screen=PROD&Product_Code=PPS-HTOP-FPOWER[Planetary Pinball has one for sale]
 
-Why is a new engine good news for consumers?
+Chris is daunted by the process, but just take a look at how well this guy does it!
 
-video::Q6vknXaw_-0[youtube, width=560, height=315]
+video::Ktli8NACmQ0[youtube, width=560, height=315]
 
-It means easier and faster game development and better quality control for cross-platform releases.
-But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+=== 52:15 — Chris’ movie list for 2020
 
-=== 49:00 — Battle Royale
+video::4hU20UtxOFI[youtube, width=560, height=315]
 
-The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+Even though we went through one of the worst years for the movie industry, 2020 still had some great movies.
+Chris managed to watch a total of 86 movies. Sixteen movies on the lists were made specifically for Netflix. Chris only saw one of the 86 movies in the cinema, for obvious reasons.
 
-video::PNQAbcvcWUg[youtube, width=560, height=315]
+image::214-movie-theatre.jpeg[Photo by Felix Mooneeram on Unsplash]
 
-Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+Most cinemas looked like this during 2020.
 
-If you’ve not seen this game, it looks a bit like this.
+Often the list is used by Chris to shop for BluRay that he wants to add to his collection, but not one movie got added to this list this year. 😢
 
-image::216-tetris99.jpeg[Tetris 99 screenshot]
-
-Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+Listen in for the rest of the show for a pretty solid list of movies to check out on your streaming services.
+I even got to catch up on some movies this year so I had some opinions to offer in this segment. 
+I think this might’ve been a first since we started recording. 😜
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
