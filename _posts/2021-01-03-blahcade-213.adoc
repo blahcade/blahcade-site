@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 213: End of year free-for-all"
 author: jared
-categories: [ episodes ]
+categories: [episodes]
 image: assets/images/213-led-zeppelin.png
 tags: [featured]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 211: 105 Reasons Why"
 author: jared
-categories: [ episodes ]
+categories: [episodes]
 image: assets/images/211-pac-man-a1up.jpeg
 tags: [featured]
 ---

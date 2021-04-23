@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 200: Arcade 1UP Interview"
 author: jared
-categories: [ episodes ]
+categories: [episodes]
 image: assets/images/zen-epic.png
 ---
 

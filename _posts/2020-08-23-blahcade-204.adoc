@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 204: The Other Pin Cabs"
 author: jared
-categories: [ episodes ]
+categories: [episodes]
 image: assets/images/zen-epic.png
 ---
 

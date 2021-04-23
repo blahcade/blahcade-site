@@ -2,8 +2,8 @@
 layout: post
 title:  "BlahCade 210: Acquisitions and Redesigns"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
+categories: [episodes]
+image: assets/images/210-aliens.png
 tags: [featured]
 ---
 
@@ -85,6 +85,8 @@ But it might also mean better opportunities with Arcade 1UP with more advanced p
 === 54:00 — Backglass art
 
 A reminder that the second wave of Arcade 1UP cabinets with the full backglass would look really great on those second screens. 😉
+
+image::210-aliens.png[Aliens backglass image]
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 

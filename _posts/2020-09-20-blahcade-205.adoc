@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 205: Same sh*t, different day"
 author: jared
-categories: [ episodes ]
+categories: [episodes]
 image: assets/images/zen-epic.png
 ---
 
