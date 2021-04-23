@@ -22,8 +22,8 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/zens-mel-kirk-holiday-2020-qa-97360" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen's Mel Kirk Holiday 2020 Q&A
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
