@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlahCade 208: Zen’s Mel Kirk Holiday 2020 Q&A"
+title:  "BlahCade 208: Zen’s Mel Kirk Holiday 2020 Q and A"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/208-mel-kirk-marvel.png
