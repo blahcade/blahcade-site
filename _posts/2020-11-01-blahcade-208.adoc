@@ -2,23 +2,21 @@
 layout: post
 title:  "BlahCade 208: Zen’s Mel Kirk Holiday 2020 Q&A"
 author: jared
-categories: [episodes]
-image: assets/images/zen-epic.png
+categories: [episodes, interviews]
+image: assets/images/208-mel-kirk-marvel.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Mel Kirk joins us for a retrospective on 2020 and a tantalizing preview of what’s coming up next
 
-image::zen-epic.png[]
+Right on the heels of #207, we set up an interview with Mel Kirk, COO of Zen Studios, to take us through how 2020 shook down from a studio perspective.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+Of course, we couldn’t resist asking him all the burning questions you have about the Arcade 1UP Marvel Pinball cabinet. Luckily for us, Mel practically answered every single question for you.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+image::208-mel-kirk-marvel.png[Mel Kirk standing in front of his Arcade 1Up cab]
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::7GN5uLrjf5Y[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
@@ -35,12 +33,57 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 01:30 — EULA clarification
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+It turns out that the EULA is there to protect us as users so that the licensors don’t come down on us hard if we screw up.
+And yes it is also there to protect Zen for companies that don’t go through official channels.
+
+The Arcade Factory is a licensed partner building the large-scale Dave ’n’ Buster's redemption cabinets and there are others also doing it right.
+AtGames does not currently hold such a license at the time of recording.
+
+=== 04:50 — Volume 6 challenges
+
+video::nPQiK2_yv2A[youtube, width=560, height=315]
+
+The original release date for Volume 6 was quarter-four 2019. It’s now Q4 2020. So, yep there was a little bit of slippage. 😛
+The alpha-numeric titles were by far the hardest pinball-related thing the studio has done. Ever.
+The good news is that the team has a huge amount of lessons learned so expect the development to be a bit faster in the future.
+
+=== 09:40 — Mandalorian table
+
+video::I_ucOaJnBoE[youtube, width=560, height=315]
+
+We can expect it in the first quarter of 2021.
+There are some other secrets and surprises with the Mandalorian table which you’ll find out at another time.
+
+Where does this put Zen with restarting original development? 
+There is an original three-pack in the works which you’ll most likely see the first quarter of 2021.
+
+The good news is that the new original tables will definitely have the Williams physics applied to them. 
+Basically, expect everything coming out from now to have the new physics.
+
+=== 15:00 — Arcade 1UP Marvel Pinball cabinet
+
+video::7GN5uLrjf5Y[youtube, width=560, height=315]
+
+Mel went into exceptional detail about the cabinet, and how Arcade 1Up engineered an upgradeable, future-proofed machine.
+
+The tables are running at 60FPS at 720p. This was deliberate to get the FPS at the desired speed. 
+The build is a high-end custom Android build unique to these tables.
+The Williams table will not have any Zen visual effects applied so it will feel more like the original tables. 
+
+All Williams tables will have the latest pro physics by default. 
+All tables are uncensored due to a lack of rating limitations on physical products.
+
+You can also turn off the ball-trails, and pop-up scores, and other animated features.
+The camera has been customized for the 30 tables which will make a difference to the presentation of the games.
+One bit of news is that you can turn off the solenoids if you find them too noisy or want to play the cabinet at night.
+
+=== 41:00 — What is happening at 2021
+
+Expect some very big news later this year about what to expect in 2021 (and 2022).
+
+There isn’t a lot Mel can’t say but you can just tell that he is incredibly excited about the next few years.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
