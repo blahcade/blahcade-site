@@ -7,6 +7,8 @@ image: assets/images/219-zen-epic.png
 tags: [sticky, featured]
 ---
 
+It’s time to get down and give our take on the pretty controversial news that Mel shared with everyone on The Pinball Show #3.
+
 In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
 
 image::219-zen-epic.png[Zen Studios Epic games store]

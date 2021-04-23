@@ -7,7 +7,9 @@ image: assets/images/216-pinballfx-logo.jpeg
 tags: [featured]
 ---
 
-Zen Studios announced that they will be releasing a brand new Pinball FX app this year. Not Pinball FX4, just Pinball FX.
+Zen Studios announced that they will be releasing a brand new Pinball FX app this year. 
+
+Not Pinball FX4, just Pinball FX.
 
 image::216-pinballfx-logo.jpeg[The new Pinball FX logo]
 

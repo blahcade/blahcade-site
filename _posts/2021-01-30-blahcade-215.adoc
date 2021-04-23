@@ -7,6 +7,8 @@ image: assets/images/215-godrays.jpeg
 tags: [featured]
 ---
 
+It has taken us way too many years to be able to do this episode, but good things come to those who (patiently) wait.
+
 In this episode, we talk about Virtual Reality as it relates to pinball. The entire show focuses on every aspect that we could think of when you are considering playing commercial pinball games in VR.
 
 We talk about hardware differences, gameplay differences, UI differences, and the overall “feeling” of bashing around a pinball in VR.

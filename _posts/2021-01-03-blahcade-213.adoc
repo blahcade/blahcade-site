@@ -53,7 +53,7 @@ This was the same as Data East machines until they introduced end-of-stroke swit
 There doesn’t seem to be a lot to love on the Led Zeppelin table recently announced by Stern Pinball.
 If you put this beside a Guns ’n’ Roses from JJP, the differences are staggering (as is the price of course).
 
-image::213-led-zeppelin.jpeg[The cabinet art looks OK, but the playfield and features are pretty pedestrian.]
+image::213-led-zeppelin.png[The cabinet art looks OK, but the playfield and features are pretty pedestrian.]
 
 The real bummer is that the only cool feature on this table is not on the Pro model (not surprisingly).
 It got Chris and me thinking of what some Bally/Williams tables would look like if you had to remove parts to fit a Pro model bill of materials (BoM).
