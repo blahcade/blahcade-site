@@ -7,26 +7,23 @@ image: assets/images/zen-epic.png
 tags: [featured]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Zen has been acquired, and AtGames has done a cabinet revamp.
 
-image::zen-epic.png[]
+The big news this episode is that Zen Studios was acquired by Embracer Group. 
+We go into detail about the situation and give our take on what this means for the studio.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+The other news is that AtGames has done some redesigns to their cabinet that make the product more attractive and better overall.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::mvVv0-7yQzM[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/acquisitions-and-redesigns-97930" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Acquisitions and Redesigns
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -36,37 +33,45 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 01:00 — Intro and show errata
+=== 01:30 — Zen Studios acquired by Embracer Group
 
-Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+The huge news this episode is that Zen Studios has been acquired by a larger organization called Embracer Group and their subsidiary Saber Interactive.
 
-=== 06:30— The Pinball Show premieres
+video::9BsvPGkjWmA[youtube, width=560, height=315]
 
-Zen Studios has its own show now called The Pinball Show.
+We look into this announcement and speculate what it might mean for the studio moving forward.
 
-video::_IU_RCOl83w[youtube, width=560, height=315]
+In short, we think it makes a lot of sense and can’t see anything really negative about the acquisition.
 
-In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+Time will tell whether we are correct or not.
 
-=== 12:00 — The Announcement
+=== 16:00 — AtGames refreshes their cabinet design
 
-The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+At Games has done some design tweaks to their cabinet and overall it’s all great news.
 
-video::CtDB12Z4X1U[youtube, width=560, height=315]
+video::ao432VMEqH8[youtube, width=560, height=315]
 
-We break down each part of the interview and comment individually.
+This segment focuses on the attributes of the cabinet and the back screen. 
+There are some positives and some negatives to the changes, but the good news is that most of the changes are for the better.
 
-=== 24:30 — Backwards compatibility and new IPs
+Nice work AtGames!
 
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+=== 27:00 — AtGames ports and backglass display
 
-video::CNUEqbUkE4s[youtube, width=560, height=315]
+We’re both a bit disappointed that the interface panel is stuck on the top of the cabinet.
 
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+video::kriMuWoUUWY[youtube, width=560, height=315]
 
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+AtGames lined up a Toyshock and their cabinet side-by-side and the comparisons are rather stark.
 
-News about physics as well. 😉
+=== 43:00 — AtGames software difficulties
+
+This segment focuses on the software FarSight provided and what AtGames should show us next.
+
+video::g715QYM5Yug[youtube, width=560, height=315]
+
+There are some visual challenges with some of these tables when it comes to the Farsight software.
+Hopefully, some iterations are planned for the software shipped by Farsight.
 
 === 41:00 — New engine and physics across all tables
 
@@ -77,19 +82,9 @@ video::Q6vknXaw_-0[youtube, width=560, height=315]
 It means easier and faster game development and better quality control for cross-platform releases.
 But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
 
-=== 49:00 — Battle Royale
+=== 54:00 — Backglass art
 
-The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
-
-video::PNQAbcvcWUg[youtube, width=560, height=315]
-
-Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
-
-If you’ve not seen this game, it looks a bit like this.
-
-image::216-tetris99.jpeg[Tetris 99 screenshot]
-
-Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+A reminder that the second wave of Arcade 1UP cabinets with the full backglass would look really great on those second screens. 😉
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 211: 105 Reasons Why"
 author: jared
 categories: [ episodes ]
-image: assets/images/211-pac-man-a1up.png
+image: assets/images/211-pac-man-a1up.jpeg
 tags: [featured]
 ---
 
@@ -14,17 +14,6 @@ We explore this news and ask which cabinet would you buy if you had to choose?
 
 Based on some discussion in community forums, we decide to peek into the world of software licensing again and see if it is actually legal to offer access to Visual Pinball X (VPX as it is known in the community) on commercial products. 
 The results may surprise you.
-
-
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
-
-image::zen-epic.png[]
-
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::gugXm20ceiw[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
 == Watch and listen
 
