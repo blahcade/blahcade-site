@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 215: Pinball in VR"
 author: jared
 categories: [episodes]
-image: assets/images/godrays.jpeg
+image: assets/images/215-godrays.jpeg
 tags: [featured]
 ---
 
@@ -68,18 +68,6 @@ Chris tells us what it is like using a physical pinball controller in VR.
 As a side note, Mel mentioned on a recent Arcade 1UP weekly show that VR is in the future for Zen Studios.
 
 With that in mind, and because we now both have a way to play VR, we needed to get up to speed.
-
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
-
-=== 26:00 — Why are we talking about VR now?
-
-video::CNUEqbUkE4s[youtube, width=560, height=315]
-
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
-
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
-
-News about physics as well. 😉
 
 === 29:30 - The UI and menus of Zen, Zacc, and Stern
 
