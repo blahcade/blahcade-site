@@ -2,48 +2,78 @@
 layout: post
 title:  "BlahCade 217: AtGames, hear us out"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
+categories: [episodes]
+image: assets/images/217-at-games-cabinets.jpeg
 tags: [featured]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+We are seeing a lot of chatter about AtGames as they begin shipping cabinets out. But there are some things that no one is talking about.
 
-image::zen-epic.png[]
+image::217-at-games-cabinets.jpeg[AtGames Legends Pinball cabinets]
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+This whole episode is about our thoughts concerning AtGames and their Legends Pinball cabinet (referred to in forums as “ALP” for short).
+Well, nearly all of it. 
+There is a bit of information about Arcade 1UP cabinet issues that we need to comment about as well. 😉
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+For this episode, I’ve put the BlahCade Mini episodes as a rough guide only. 
+They will become available to view from here progressively. 
+It may not be in audio order. 
+If that bothers you, let me know.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::wrL4mCLEZBU[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/atgames-hear-us-out-99632" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - AtGames, hear us out
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
-We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts].
 
 Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== The bright side of too much demand
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+video::pQuXKU2MiYQ[youtube, width=560, height=315]
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+There’s a lot of woe among people who have pre-ordered pinball cabs from both AtGames and Arcade 1Up. 
+Shipments have been coming in only at a trickle. 
+We look at this and a few hiccups with the devices, but also find the silver lining on what so much demand might mean for the future.
+
+=== Pinball software costs
+
+video::pMtW947YXn0[youtube, width=560, height=315]
+
+AtGames sells pinball packs for Gottlieb and Zaccaria tables. 
+Some cost similar to what they do on other platforms, some are wildly more expensive. 
+The question is, will consumers think it’s worth it?
+
+=== Pinball accessory costs
+
+video::RQdpyyPUjLE[youtube, width=560, height=315]
+
+AtGames has shown off some of the add-on accessories coming to their Legends Pinball cab.
+
+image::217-atgames-panel.jpeg[AtGames control panel]
+
+They’ve also announced pricing, and it comes with some sticker shock. 
+Are they asking too much or is it just right?
+
+=== User research is good!
+
+video::YWO0H-VjvD0[youtube, width=560, height=315]
+
+AtGames recently put out a survey for what potential future products might be like for Legends Pinball. 
+We take the survey and compare the results.
+
+== Pinball FX3 Backbox Cabinet Mode Art
 
 Download as many as you want now for free!
 
@@ -55,5 +85,5 @@ image::afm-backglass.png[Attack From Mars backglass image]
 <iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
 ++++
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Don't forget to donate to the show if you use them in your build.
+And make sure you send us pics!
