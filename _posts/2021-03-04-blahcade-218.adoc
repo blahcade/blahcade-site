@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 218: Star Wars Pinball VR"
 author: jared
 categories: [ episodes ]
-image: assets/images/zen-epic.png
+image: assets/images/218-swpvr.png
 tags: [featured]
 ---
 
