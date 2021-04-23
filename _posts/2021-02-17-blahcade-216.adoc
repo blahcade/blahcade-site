@@ -3,33 +3,26 @@ layout: post
 title:  "BlahCade 216: Zen Pinball FX News Unpacked"
 author: jared
 categories: [ episodes ]
-image: assets/images/zen-epic.png
+image: assets/images/216-pinballfx-logo.jpeg.png
 tags: [featured]
 ---
 
-We are seeing a lot of chatter about AtGames as they begin shipping cabinets out. But there are some things that no one is talking about.
+Zen Studios announced that they will be releasing a brand new Pinball FX app this year. Not Pinball FX4, just Pinball FX.
 
-image::217-at-games-cabinets.jpeg[AtGames Legends Pinball cabinets]
+image::216-pinballfx-logo.jpeg[The new Pinball FX logo]
 
-This whole episode is about our thoughts concerning AtGames and their Legends Pinball cabinet (referred to in forums as “ALP” for short).
-Well, nearly all of it. 
-There is a bit of information about Arcade 1UP cabinet issues that we need to comment about as well. 😉
-
-For this episode, I’ve put the BlahCade Mini episodes as a rough guide only. 
-They will become available to view from here progressively. 
-It may not be in audio order. 
-If that bothers you, let me know.
+There is only one thing we can do with news like this: tease it apart and analyze the inside line of the news.
 
 == Watch and listen
 
-video::wrL4mCLEZBU[youtube, width=560, height=315]
+video::_IU_RCOl83w[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/atgames-hear-us-out-99632" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - AtGames, hear us out
+<a href="https://shoutengine.com/BlahCadePodcast/zen-pinball-fx-news-unpacked-99295" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen Pinball FX News Unpacked
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -39,72 +32,60 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 04:15 — A correction… sort of
+=== 01:00 — Intro and show errata
 
-In the last show, we discussed how pricing is a bit hard to find on the AtGames website. It turns out that the pricing is available on the site, but as we show it is still kind of obfuscated and kludgy.
+Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
 
-=== 12:00 — CoolToy and converting Arcade 1UP pinball to a Steam
+=== 06:30— The Pinball Show premieres
 
-Doug from CoolToy covers how to convert an Arcade 1UP into a custom pinball cabinet.
+Zen Studios has its own show now called The Pinball Show.
 
-video::rt8fj3Ui_XU[youtube, width=560, height=315]
+video::_IU_RCOl83w[youtube, width=560, height=315]
 
-The point here is that if your cabinet dies for some reason, you can turn it into something else.
-But if you are looking to buy this just to gut it for a custom pinball cabinet, don’t do it.
+In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
 
-=== 16:30 — Zen Studios reveal Star Wars VR
+=== 12:00 — The Announcement
 
-image::218-swpvr.png[Star Wars Pinball VR title cards]
+The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
 
-The release trailer above pays homage to the original Star Wars.
-This part of the episode is quite visual so you might want to check out our YouTube video so you can tell what we’re talking about.
+video::CtDB12Z4X1U[youtube, width=560, height=315]
 
-image::218-swpvr-collectibles-1.jpeg[Star Wars Collectibles table]
+We break down each part of the interview and comment individually.
 
-Gorgeous “life under glass” shots here.
+=== 24:30 — Backwards compatibility and new IPs
 
-image::218-swpvr-collectibles-2.jpeg[Mandalorian table]
+A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
 
-The game is not going to be available on FX3. But if you have Steam VR you will be able to get access to it. PlayStation VR players are also going to get it.
+video::CNUEqbUkE4s[youtube, width=560, height=315]
 
-=== 28:45 — Will all the VR apps be separated?
+Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
 
-The fact this app is going to be released as a stand-alone app may not be to everyone’s tastes.
-But when you consider the storage constraints on the Quest 2 it starts to make more sense.
+Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
 
-We also speculate on what a separated app ecosystem could look like, and what this could mean for brand-specific experiences on VR.
+News about physics as well. 😉
 
-=== 36:00 — Will we get rich environment changes in SWPVR?
+=== 41:00 — New engine and physics across all tables
 
-image::218-swpvr-environment-fancave.jpeg[Wide shot of the virtual fan cave]
+Why is a new engine good news for consumers?
 
-In FX2VR we get complete environment switches when you go into a table VR experience.
+video::Q6vknXaw_-0[youtube, width=560, height=315]
 
-image::218-swpvr-environment-jabba.jpeg[Jabba the Hutt under the stairs]
+It means easier and faster game development and better quality control for cross-platform releases.
+But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
 
-We speculate whether we’ll get this type of deep integration in SWPVR, and why we might not see this.
+=== 49:00 — Battle Royale
 
-=== 40:00 — Star Wars Collectibles table
+The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
 
-We talk about the other Zen original table coming with the SWPVR package: Classic Collectibles.
+video::PNQAbcvcWUg[youtube, width=560, height=315]
 
-video::KmLhgvBehLA[youtube, width=560, height=315]
+Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
 
-The table seems to revolve around collecting licensed Kenner figurines (12 apparently).
-There’s an X-Wing loopy ramp that appears to move and a direct homage to Pinbot and Jackbot in the Tie Fighter ramp.
+If you’ve not seen this game, it looks a bit like this.
 
-The licensing on this one is definitely interesting, so we go into speculation about this aspect as well.
+image::216-tetris99.jpeg[Tetris 99 screenshot]
 
-=== 54:00 — Holding out for Pinball FX
-
-People are not happy about having to wait for Pinball FX given that these tables do not seem to be available through FX3.
-
-We challenge the thinking out there with an opinion that Zen may actually be doing us a favor here. It may be that they are deliberately not offering them for sale because the tables may not be transferrable from FX3 to Pinball FX 😑
-
-Will these tables come to FX3 eventually? Maybe after an initial exclusivity period on Pinball FX? We really don’t know, but we seem to think that FX3 will be dead after Pinball FX is released.
-
-On mobile, I think you can expect that Pinball FX is going to be split up into brands. But the PC and console (not Nintendo Switch) audiences are most likely going to get a stand-alone Pinball FX app like FX3.
-
+Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
