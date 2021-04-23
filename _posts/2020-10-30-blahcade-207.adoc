@@ -97,11 +97,9 @@ video::hqlkG9ri7K0[youtube, width=560, height=315]
 
 Zen swiftly released a statement once AtGames announced their product and Mel was kind enough to make sure no one misunderstood the intent of the official tweet.
 
-++++
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you are wondering what this is about, <a href="https://twitter.com/AtGamesGaming?ref_src=twsrc%5Etfw">@AtGamesGaming</a> pinball is violating our EULA and we do not support their hardware or BYOG platform.<br>Let me know if you have any questions. <a href="https://t.co/t2YqSrI0pq">https://t.co/t2YqSrI0pq</a></p>&mdash; mel_g_kirk (@Mel_G_Kirk) <a href="https://twitter.com/Mel_G_Kirk/status/1319389811342540800?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-++++
+https://twitter.com/Mel_G_Kirk/status/1319389811342540800?ref_src=twsrc%5Etfw[^]
 
-That being said we couldn’t help go through the EULA, which you can read on http://blog.zenstudios.com/eula.html. 
+That being said we couldn’t help go through the EULA, which you can read on http://blog.zenstudios.com/eula.html[^]. 
 There is plenty of caveats in this chat relating to streaming games and heaps of other stuff that don’t seem to be in favor of anyone trying to use the AtGames platform to play FX3.
 
 After we finish cross-examining the details of the EULA, we speculate on what the next steps for these companies could be regarding generation two of their products.
