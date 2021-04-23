@@ -3,9 +3,18 @@ layout: post
 title:  "BlahCade 211: 105 Reasons Why"
 author: jared
 categories: [ episodes ]
-image: assets/images/zen-epic.png
+image: assets/images/211-pac-man-a1up.png
 tags: [featured]
 ---
+
+Zaccaria Pinball is coming to AtGames.
+
+There’s more good news for AtGames fans in the form of Zaccaria pinball games being available natively on the cabinet from mid-2021. 
+We explore this news and ask which cabinet would you buy if you had to choose?
+
+Based on some discussion in community forums, we decide to peek into the world of software licensing again and see if it is actually legal to offer access to Visual Pinball X (VPX as it is known in the community) on commercial products. 
+The results may surprise you.
+
 
 In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
 
@@ -13,7 +22,7 @@ image::zen-epic.png[]
 
 The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
+video::gugXm20ceiw[youtube, width=560, height=315]
 
 It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
 
@@ -25,8 +34,8 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/105-reasons-why-98092" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - 105 Reasons Why
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -36,60 +45,71 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 01:00 — Intro and show errata
+=== 02:45 — Black Friday TVs and Arcade 1UP screens
 
-Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+It’s interesting to hear how flat-panel TVs are made, and this flows into the screen sizes we’re seeing on some commercial home arcade systems.
 
-=== 06:30— The Pinball Show premieres
+video::uy-yty1WjNk[youtube, width=560, height=315]
 
-Zen Studios has its own show now called The Pinball Show.
+It turns out that the screens we’re seeing in cabinets today may be years old in storage, just waiting for a bulk buy.
 
-video::_IU_RCOl83w[youtube, width=560, height=315]
+=== 10:30 — Arcade 1UP hits Australia
 
-In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+A big container load of A1UP gear has landed in Australia but it isn’t pinball.
 
-=== 12:00 — The Announcement
+video::a_kdSSnASqQ[youtube, width=560, height=315]
 
-The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+The Pac-Man cabinet didn’t come with much notice for the folks at Costco North Lakes.
 
-video::CtDB12Z4X1U[youtube, width=560, height=315]
+image::211-pac-man-a1up.jpeg[Pac Man cabs at Costco North Lakes]
 
-We break down each part of the interview and comment individually.
+I was able to help out wide-eyed folks work out what they could (and couldn’t) do with it.
 
-=== 24:30 — Backwards compatibility and new IPs
+image::211-pac-man-price.jpeg[Pac Man prices are not cheap]
 
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+I originally predicted that the pinball machines in Australia would be about A$800. 
+I think they are going to be more like A$1200 down in Australia.
 
-video::CNUEqbUkE4s[youtube, width=560, height=315]
+=== 21:34 — AtGames Legends Pinball gets Zaccaria (in mid-2021)
 
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+AtGames released official news that Magic Pixel has partnered with AtGames to offer local Zaccaria tables on the ALP.
 
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+video::vQYyV8WKxUI[youtube, width=560, height=315]
 
-News about physics as well. 😉
+There’s going to be over 100 tables in addition to the Farsight Gottlieb tables.
 
-=== 41:00 — New engine and physics across all tables
+=== 37:00 — VPX and Legends Pinball
 
-Why is a new engine good news for consumers?
+How can you play Visual Pinball X (VPX) on your AtGames cabinet? 
+The answer is streaming them from ArcadeNet.
 
-video::Q6vknXaw_-0[youtube, width=560, height=315]
+video::hnS5rSTIGCs[youtube, width=560, height=315]
 
-It means easier and faster game development and better quality control for cross-platform releases.
-But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+But don’t get too excited: you can only play the VPX tables that AtGames offers through their own servers.
 
-=== 49:00 — Battle Royale
+There has been some debate about the legalities of running VPX on commercial machines like AtGames.
+I decided to delve into the software licenses and found a precedent that may suggest there is nothing to worry about.
 
-The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+There is probably a justified reason why the VPX community would be a bit nervous about this agreement.
+The more attention that is given to open source pseudo-legal platforms like MAME and VPX, the more chance that the pseudo-legal aspects become cease and desist aspects.
 
-video::PNQAbcvcWUg[youtube, width=560, height=315]
+=== 49:00 — Which cabinet would you choose
 
-Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+If it comes down to the crunch, which cabinet would you choose?
 
-If you’ve not seen this game, it looks a bit like this.
+video::ZiKA9XXsVDo[youtube, width=560, height=315]
 
-image::216-tetris99.jpeg[Tetris 99 screenshot]
+I’m leaning into AtGames but Chris is leaning into Arcade 1Up.
+There are always two sides to the story so we try to offer a balanced view about why each cabinet might be suitable for you.
 
-Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+=== 63:00 — Our plea to marketing departments
+
+Don’t forget the hardcore pinball players who want to know specific facts.
+
+video::V0iIM7ZHbBA[youtube, width=560, height=315]
+
+If you don't supply us enough facts up-front, we draw our own conclusions. 
+That isn't good for your product sales or your business.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
