@@ -45,7 +45,7 @@ In the last show, we discussed how pricing is a bit hard to find on the AtGames 
 
 Doug from CoolToy covers how to convert an Arcade 1UP into a custom pinball cabinet.
 
-video::rt8fj3Ui_XU&t[youtube, width=560, height=315]
+video::rt8fj3Ui_XU[youtube, width=560, height=315]
 
 The point here is that if your cabinet dies for some reason, you can turn it into something else.
 But if you are looking to buy this just to gut it for a custom pinball cabinet, don’t do it.
