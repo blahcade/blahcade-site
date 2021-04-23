@@ -3,30 +3,27 @@ layout: post
 title:  "BlahCade 213: End of year free-for-all"
 author: jared
 categories: [ episodes ]
-image: assets/images/zen-epic.png
+image: assets/images/213-led-zeppelin.png
 tags: [featured]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+It’s the end of 2020 so it's time to have a break-up party episode.
 
-image::zen-epic.png[]
+With the year drawing to a close, it’s time to take a break from all the serious PinCab discussion and look at some other stuff that’s been happening that isn’t strictly what we normally cover on the show.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+This episode was recorded live in front of a YouTube audience, so we also took some cues from the folks in the chat about what to talk about.
+Enjoy, thanks for your support in 2020, and we’ll see you in the new year.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::0Nc64G8DMME[youtube, width=560, height=315]
 
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+You can jump straight to any BlahCade Minis in the <<show-notes>> section if available.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/end-of-year-free-for-all-98637" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - End of year free-for-all
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
@@ -36,60 +33,96 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-=== 01:00 — Intro and show errata
+=== 04:00 — Pinball cab news
 
-Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+Thankfully the Arcade 1UP cabinets did not end up in the ocean after the container ship incident we reported in the last episode.
 
-=== 06:30— The Pinball Show premieres
+=== 06:30 — Spooky pinball and the odd flipper feel
 
-Zen Studios has its own show now called The Pinball Show.
+After talking to Dave at Netherworld about the odd flipper behavior on Rick and Morty, I found out that the reason why some Spooky Pinball games have an odd flipper feel is that they are “two lugs” coils.
 
-video::_IU_RCOl83w[youtube, width=560, height=315]
+image::213-rick-and-morty.jpeg[Rick and Morty pinball is awesome! Except for the flipper feel.]
 
-In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+That means that they don’t have a hold winding in them: the hold voltage is CPU controlled.
 
-=== 12:00 — The Announcement
+Total Nuclear Annihilation also suffers from this as well.
+This was the same as Data East machines until they introduced end-of-stroke switches in Last Action Hero.
 
-The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+=== 13:40 — Led Zeppelin table thoughts
 
-video::CtDB12Z4X1U[youtube, width=560, height=315]
+There doesn’t seem to be a lot to love on the Led Zeppelin table recently announced by Stern Pinball.
+If you put this beside a Guns ’n’ Roses from JJP, the differences are staggering (as is the price of course).
 
-We break down each part of the interview and comment individually.
+image::213-led-zeppelin.jpeg[The cabinet art looks OK, but the playfield and features are pretty pedestrian.]
 
-=== 24:30 — Backwards compatibility and new IPs
+The real bummer is that the only cool feature on this table is not on the Pro model (not surprisingly).
+It got Chris and me thinking of what some Bally/Williams tables would look like if you had to remove parts to fit a Pro model bill of materials (BoM).
 
-A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+=== 18:00 — Creature from the Black Lagoon as a Pro model
 
-video::CNUEqbUkE4s[youtube, width=560, height=315]
+The Creature doesn’t have much you can take off from this game. But the large whirlpool ramp would definitely go.
+And you can probably wave bye-bye to the hologram as well.
 
-Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+=== 21:50 — Fish Tales as a Pro model
 
-Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+The fishing reel lock mechanism would be gone, and the up-kicker would be a virtual lock for sure.
 
-News about physics as well. 😉
+=== 25:00 — The Addams Family as a Pro model
 
-=== 41:00 — New engine and physics across all tables
+Say goodbye to Thing Flips.
 
-Why is a new engine good news for consumers?
+But how would you work around something as integral as the Thing mechanism?
+We both think the VAULT turntable would remain as would the subway to the right kick out.
 
-video::Q6vknXaw_-0[youtube, width=560, height=315]
+The magnets that make The Power function would also go in a Pro model.
 
-It means easier and faster game development and better quality control for cross-platform releases.
-But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+=== 29:20 — Doctor Who as a Pro model
 
-=== 49:00 — Battle Royale
+The mini-playfield is kind of the whole game, so downsizing it would be really tricky.
 
-The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+=== 30:40 — Twilight Zone as a Pro model
 
-video::PNQAbcvcWUg[youtube, width=560, height=315]
+Yikes, there is a lot of stuff to cut from this game. Steve Ritchie really did go to town with the toys on this game.
 
-Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+=== 32:00 — Bride of Pinbot as a Pro model
 
-If you’ve not seen this game, it looks a bit like this.
+You might be able to change how the faces work on that game to save costs.
+You might be able to change the way the skill shot works on that game and make locks virtual.
 
-image::216-tetris99.jpeg[Tetris 99 screenshot]
+=== 37:40 — Oculus Quest 2 VR headset talk
 
-Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+I’ve been messing around with an Oculus Quest 2 and I have to say it’s pretty cool.
+I go into some of my early thoughts about the headset and what experiences I’ve tried out.
+
+This headset packs a huge amount of value into a small package.
+
+The neat thing is because the Quest is Android-based, plenty of smart folks have come up with ways of sideloading legit apps through a third-party marketplace called https://sidequestvr.com/setup-howto[SideQuest].
+
+I’ve been playing a beta version game called https://sidequestvr.com/app/1672[Beat Smith] which I can only describe as drummania in VR. 
+It is very good for beta and I can’t wait to see what happens with it as it gets closer to release.
+
+=== 51:00 — KFConsole is a thing
+
+You can buy a PC that uses the heat generated from the cooling system to warm your purchased dirty bird.
+
+https://landing.coolermaster.com/kfconsole/[Introducing the KFConsole | Cooler Master]
+
+Forged from the fires of the KFC ovens and built by Cooler Master from the ground up, there has never been a tastier way to experience the latest titles in stunning 4k, 240fps. 😆
+
+=== 56:00 — Christmas game gifts
+
+Chris finally gets to play Spider-Man and Last of Us 2 and he gives his unbiased review on both.
+
+Chris loves the web-slinging and fighting aspects of Spider-Man. 
+You can just enjoy the game and swing around the city (which seems very close to a real-scale New York City) or hunt down the collectibles that are well sign-posted on the map.
+
+Last of Us 2 has all the swears in it (not one for the kiddies). 
+You know you’re in for a treat when the tutorial seamlessly integrates the onboarding aspects into an early story arc.
+
+=== 69:00 – 3D movies in VR
+
+Why aren’t more animated movies like Pixar’s recent release Soul available directly on VR headsets? 
+It would be awesome to get a full 3D experience for all the cool digital content on offer.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
