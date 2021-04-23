@@ -2,24 +2,22 @@
 layout: post
 title:  "BlahCade 215: Pinball in VR"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
+categories: [episodes]
+image: assets/images/godrays.jpeg
 tags: [featured]
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+In this episode, we talk about Virtual Reality as it relates to pinball. The entire show focuses on every aspect that we could think of when you are considering playing commercial pinball games in VR.
 
-image::zen-epic.png[]
+We talk about hardware differences, gameplay differences, UI differences, and the overall “feeling” of bashing around a pinball in VR.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+If you are a podcast listener, you may want to skip listening and jump right into watching this episode. 
+We have included a lot of gameplay footage comparing FX2 PC to FX2 Quest 2 that might be interesting. 
+We also have actual footage of Zaccaria Pinball VR and Stern Pinball Arcade VR pinball in action.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::mI9QKsZyTHs[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
@@ -36,12 +34,76 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 01:00 — Intro to our VR hardware
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+video::CRB0i8QOhuY[youtube, width=560, height=315]
+
+In this part, we go into what we are using to play VR and what the general experience is like between the physical hardware.
+
+=== 9:35 — Godrays and screendoors
+
+video::iEC_Mz92Yjw[youtube, width=560, height=315]
+
+The video has demonstrations of what these two common artifacts are in VR.
+
+image::215-screendoor.png[Screendoor effect in VR headsets]
+
+“Godrays” are those rays that shoot out from behind clouds. 
+Also known as crepuscular rays or just sunbeams. 
+In VR they are very distracting blurriness around high-contrast text and images. 
+They are not good on Rift, but the Oculus 2 has not got any noticeable ones from what I can tell.
+
+image::215-godrays.jpeg[Godrays]
+
+=== 18:20 — Controllers and PinSim
+
+We talk about how we control pinball in VR.
+
+video::lMoEYhyuVdU[youtube, width=560, height=315]
+
+Chris tells us what it is like using a physical pinball controller in VR.
+
+=== 26:00 — Why are we talking about VR now?
+
+As a side note, Mel mentioned on a recent Arcade 1UP weekly show that VR is in the future for Zen Studios.
+
+With that in mind, and because we now both have a way to play VR, we needed to get up to speed.
+
+A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+
+=== 26:00 — Why are we talking about VR now?
+
+video::CNUEqbUkE4s[youtube, width=560, height=315]
+
+Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+
+Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+
+News about physics as well. 😉
+
+=== 29:30 - The UI and menus of Zen, Zacc, and Stern
+
+video::I0I8JYSVQNE[youtube, width=560, height=315]
+
+=== 54:10 — Gameplay
+
+We go into what it’s like to play in regular 2D, to 3D on a TV, to VR and the differences in gameplay.
+
+video::UALEsK3C5d4[youtube, width=560, height=315]
+
+Here we talk about the feeling of being in VR and playing pinball along with actual gameplay experience.
+
+video::OqOGbmZwDL8[youtube, width=560, height=315]
+
+Here is actual gameplay footage of the Pinball FX2 VR experience powered by my RTX2060 PC compared with the built-in Android Snapdragon XR2 experience on Quest 2.
+
+=== 68:35 — Pros and cons all three games
+
+video::zkZlHyzlz2Q[youtube, width=560, height=315]
+
+This segment covers what we think are the strengths and the weaknesses of all three games are.
+
+We also cover the final analysis in this segment including the “most immersive” way of playing pinball from an experience perspective.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 

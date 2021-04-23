@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 216: Zen Pinball FX News Unpacked"
 author: jared
 categories: [ episodes ]
-image: assets/images/216-pinballfx-logo.jpeg.png
+image: assets/images/216-pinballfx-logo.jpeg
 tags: [featured]
 ---
 

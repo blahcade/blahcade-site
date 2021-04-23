@@ -36,12 +36,60 @@ Don't forget to leave us a review: we really apprreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 01:00 — Intro and show errata
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
+
+=== 06:30— The Pinball Show premieres
+
+Zen Studios has its own show now called The Pinball Show.
+
+video::_IU_RCOl83w[youtube, width=560, height=315]
+
+In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
+
+=== 12:00 — The Announcement
+
+The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+
+video::CtDB12Z4X1U[youtube, width=560, height=315]
+
+We break down each part of the interview and comment individually.
+
+=== 24:30 — Backwards compatibility and new IPs
+
+A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+
+video::CNUEqbUkE4s[youtube, width=560, height=315]
+
+Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+
+Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+
+News about physics as well. 😉
+
+=== 41:00 — New engine and physics across all tables
+
+Why is a new engine good news for consumers?
+
+video::Q6vknXaw_-0[youtube, width=560, height=315]
+
+It means easier and faster game development and better quality control for cross-platform releases.
+But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+
+=== 49:00 — Battle Royale
+
+The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+
+video::PNQAbcvcWUg[youtube, width=560, height=315]
+
+Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+
+If you’ve not seen this game, it looks a bit like this.
+
+image::216-tetris99.jpeg[Tetris 99 screenshot]
+
+Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
 
 == Pinball FX3 Backbox Cabinet Mode Art 
 
