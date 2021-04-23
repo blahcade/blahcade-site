@@ -56,4 +56,4 @@ exclude:
   - Gruntfile.js
   - Gruntfile.coffee
   - node_modules
-url: ''
+url: 'https://blahcadepinball.com/'
