@@ -3,56 +3,143 @@ layout: post
 title:  "BlahCade 204: The Other Pin Cabs"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/203-marvel-cabinet.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+While the hype for Arcade 1UP is high, Toyshock is pumping out products you can buy now!
 
-image::zen-epic.png[]
+Everyone is excited about what Zen Studios and Arcade 1UP are doing with Marvel Pinball, Star Wars Pinball, and Williams Pinball. 
+But what about Toyshock and AtGames?
+Both of these companies announced they are releasing products this year, so let us take a closer look at what’s going on in the other product camps.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+This episode also has some community thoughts about the Zen Studios Volume 6 announcement. 
+We also cover other products that are coming out in the home arcade market.
 
 == Watch and listen
 
 video::jt_q174Ys5Q[youtube, width=560, height=315]
 
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
-
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/the-other-pin-cabs-95706" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - The Other Pin Cabs
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 03:50 — The Mandalorian announcement
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+=== 05:00 — Reaction to Volume 6
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+After the announcement, Chris and I have been listening to reactions from people.
 
-Download as many as you want now for free!
+image::205-vol6-key-art.jpeg[Mixed reactions]
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+There is plenty of excitement for the pack, but people are frustrated about no release date announcement, which is an unusual play for Zen Studios.
+We think it could have something to do with console releases.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+Feedback about Dr. Dude is mixed. 
+The party tables in this table trilogy are The Party Animal, Dr. Dude, and Party Zone. 
+We think that people are thinking of Party Zone when they are thinking of Dr. Dude.
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Chris also gave us a tip about using the hot-seat mode to keep the ROM state between players and get closer to getting Super Dude in Dr. Dude.
+Funhouse is a welcome addition, and everyone agrees it was screaming out for some love.
+
+Space Station seems a bit cool, but it is probably because no one has played it before. 
+It’s not a game you see that often on-site.
+
+=== 20:30 — How does Arcade Expo manage game eras
+
+We got to talking about the different game chips used in pinball (super nerdy, so it isn’t timestamped).
+
+That got me asking how places like Arcade Expo order their tables.
+
+=== 25:30 — Toy Shock v1.2 update
+
+The folks at Toy Shock have released an update for people who have purchased the v1.0 cabinet.
+You can get a replacement PCB for free (you pay to ship) from Toy Shock to upgrade the launch bugs like poor framerate, flipper lag, and high-scores not saving.
+Here is a summary of the announcement.
+
+video::ZBRTs54qx7E[youtube, width=560, height=315]
+
+We picked up another interesting fact revealed in an interview with Jeff Falke from Toy Shock (its long and you’ll want to skip through it).
+
+video::pLDye0Epo_w[youtube, width=560, height=315]
+
+Jeff announced that they are releasing a bartop model for the European market. 
+What was interesting is that market research suggested that due to import duty and taxes, the EU market wouldn’t accept a product like this for the 30% price hike.
+
+That makes me skeptical whether we’ll see the three-quarter size pinball machine in markets outside the US and Canada.
+The fact that this product doesn’t have any accelerometer tilt mechanism removes any advantage of having the thing on legs, so maybe Toy Shock is onto something here.
+
+video::n4-Wo_WkJ7A[youtube, width=560, height=315]
+
+This YouTube Video is the game running on v1.2, so check it out and see what you think.
+
+=== 40:45 — Marvel Pinball cabinet assembled at Mel’s joint
+
+Mel was lucky enough to set a cabinet up in his home.
+
+image::203-marvel-cabinet.jpeg[Marvel Pinball cabinet prototype at Mel Kirk's place]
+
+That apron is pretty huge.
+
+=== 43:00 — AtGames? Anybody? Bueller?
+
+AtGames are still in radio silence with their Legends Pinball product.
+It would be nice to see a render of the cabinet, at least. 
+Or something?!
+
+Just throw us a bone, folks.
+
+=== 65:00 — iiRcade Kickstarter
+
+If you want to play the difficult to find Dragon’s Lair, this is for you.
+
+image::203-iircade-double-dragon.png[iiRcade Double Dragon cabinet art is dope!]
+
+This product is shipping to the USA, Canada, and South Korea only.
+It looks pretty cool, though.
+
+What this says about the home arcade machine market is that it is going to become very hot in the coming years.
+
+=== 55:20 — People still hanging onto Pinball Arcade
+
+It seems that some folks are still holding onto the memory of Pinball Arcade.
+Time to let it go like a big 💩.
+
+Farsight is only going to make pinball machines again if someone puts money upfront to make them.
+
+=== 59:50 — Digital pinball players basing physics accuracy on digital-only
+
+Many folks have opinions about the physics in Pinball FX3.
+But you might be surprised to learn that some people offering these opinions have never played the tables in real life.
+
+For these folks, they noted that the challenge decreased between pinball packs. 
+But less challenge _does not_ equal physics inaccuracy.
+
+=== 71:00 — Epic games yanked from Google and Apple
+
+What we found out as part of this stoush is that Apple and Google hit developers with 30% royalty for any money that passes through their stores. 
+This percentage cut is also the case for Valve’s Steam platform.
+
+So when you consider that Zen has been releasing games exclusively through the Epic game store, it starts to make logical sense. 
+More money for the studio and less ongoing fees seems reasonable.
+
+So what about all those licensed DMDs that we’re waiting for patiently? 
+How would a reduced app store cut affect the possibility of getting these titles produced?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

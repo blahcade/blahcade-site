@@ -3,56 +3,119 @@ layout: post
 title:  "BlahCade 202: Let’s ride bikes!"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/202-arcade1up-render.jpeg
 ---
+In anticipation of California Extreme 2020, we go off on tangents.
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Before the anticipated awesomeness of California Extreme 2020 happening on August 1st, 2020, Chris and I go off on tangents (hence the title) about all the stuff floating around since we last recorded.
 
-image::zen-epic.png[]
-
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+This show format has a surprising ability to turn out great and you’ll get a lot for your money in this episode.
+Consider it a warm-up act for August 1st!
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
-
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+video::RPaQStj08Go[youtube, width=560, height=315]
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/lets-ride-bikes-95020" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Let's ride bikes!
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 04:30 — Predictions for California Extreme
+Chris and I try to guess what is going to be revealed at http://www.caextreme.org/[California Extreme 2020].
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Most probably it will revolve around the Arcade 1UP tables and new table packs.
+Stay tuned on August 1st for the full tamale.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+=== 07:20 — Safe Cracker massive score
 
-Download as many as you want now for free!
+I managed a rather large score on Safe Cracker and knocked off a talented player and friend of the show PinballWiz45b?
+I’m sure it won’t be for long.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+I share a few strategy tips about what worked for me in the game.
+See if you can beat the score (85 others already have because that’s my leaderboard position) 😉
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+=== 13:30 — Reddit Pinball tournament
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Chris gives us an update about the Reddit pinball tournament that uses Classic Arcade physics in Pinball FX3.
+The tournament has been pretty competitive and there are some very good players playing each round.
+
+Don’t let that put you off though: if you don’t like the hardcore physics, there’s another one running that uses Single Player (Zen) physics.
+
+Visit https://www.reddit.com/r/PinballFX3/comments/eme27z/announcing_the_pinballfx3_reddit_pinball_league/[the Reddit league post] for more details.
+
+=== 20:00 — Chris has been watching Netflix
+
+Because Chris is bored at the moment, he’s been gorging on Netflix series.
+Check out the shows that Chris recommends in this segment.
+
+=== 30:00 — This Week In Pinball
+
+If you aren’t already, do check out https://www.thisweekinpinball.com/[This Week In Pinball] for anything that’s worth knowing about real pinball news.
+
+=== 32:00 — American Pinball’s “Oktoberfest” remote play
+
+You can play Oktoberfest through a site called https://www.surrogate.tv/game/oktoberfest[Surrogate.tv].
+
+I have tried to give it a go since recording the show and as predicted the latency is horrific from down here in Australia. 
+Maybe in Finland — where the machine is located — it would be better.
+
+=== 34:00 — Games we’re playing
+
+Chris and I have been playing a whole bunch of games and here are some of my highlights.
+
+https://store.steampowered.com/app/377870/DARIUSBURST_Chronicle_Saviours/[DARIUSBURST on Steam]
+
+This is a really great SHMUP if you love a challenging but achievable game.
+The DLC available through the game also lets you purchase some retro SHMUPS like RayStorm which are worth checking out.
+
+https://store.steampowered.com/app/610410/PAWARUMI/[PAWARUMI on Steam]
+
+Pawarumi is a modern shoot'em up set in a retro futuristic sci-fi pre-Columbian universe.
+This is an interesting SHMUP where you have three weapons that correspond to different colored enemies.
+
+Match the color to charge your shield more. Match the opposite color spectrum to your enemy to inflict more damage and build your “bomb” meter.
+Incredible graphics using Unity and a great sound package.
+
+https://store.steampowered.com/app/719930/Super_High_Ball/[Super High Ball on Steam]
+
+Super High Ball is a unique blend between a Pinball and a Platformer game! 
+An interesting take on the pinball mechanic in a twitch-style physics puzzler.
+
+You know what you’re in for when you receive Steam achievements for dying lots. 😉
+You need an analog trigger controller because the flippers are not just on-off in nature. You have degrees of angle that are important in the game.
+You’ll die a lot.
+
+=== 45:55 — Arcade 1UP shenanigans
+
+Chris goes into great detail about the games he’s installed on his mate’s Arcade 1UP cabinet.
+There’s some great 80’s titles that we talk about in this section so check it out if you like your arcade games brutal and hungry.
+
+=== 78:00 — Button mashers
+
+Chris did not install Track ’n’ Field on his cabinet to preserve the buttons.
+I then shared a Japanese game called Hyper Bishi Bashi Champ (I referred to it as “Bishi Bashi Special” which in fact was the PS1 release).
+
+https://www.highwaygames.com/arcade-machines/hyper-bishi-bashi-champ-arcade-machine-8129/[Hyper Bishi Bashi Champ Arcade Machine]
+
+Hyper Bishi Bashi Champ is a multi-player, mini-game arcade machine from Konami that contains 27 mini-games!
+
+BISH BASH!! 😀
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

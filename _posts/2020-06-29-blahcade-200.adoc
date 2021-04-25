@@ -2,26 +2,22 @@
 layout: post
 title:  "BlahCade 200: Arcade 1UP Interview"
 author: jared
-categories: [episodes]
-image: assets/images/zen-epic.png
+categories: [episodes, interviews]
+image: assets/images/202-arcade1up-render.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Look, everyone! We have guests! A party isn’t a party without friends to help us celebrate our 200th episode in style.
 
-image::zen-epic.png[]
+🎂Happy 200th Birthday 🎂
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+For our 200th episode, we call in the big guns.
+This entire show is back to back interviews with David and John from Arcade 1UP and live tidbits from Mel about what we should expect from Zen Studios for the next decade.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+It’s Pinball Everywhere 2.0™️!
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
-
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+video::dePBcFjk6to[youtube, width=560, height=315]
 
 ++++
 <a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
@@ -31,28 +27,155 @@ BlahCade Podcast - Reacting to Epic Pinball FX News
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== David McIntosh from Arcade 1Up Interview
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Before you ask, all three pinball table models will be coming out this fall in the US. 🎆
+As for other markets, there might also be a Christmas release.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+David gives us a pretty interesting introduction to Arcade 1UP and the genesis of the three-quarter arcade product line.
+The pinball line has been about a year in the making, and it would not have been possible without the partnership with Zen Studios.
+Zen and Arcade 1UP are both really going “all in” on this venture.
 
-Download as many as you want now for free!
+==== 07:10 — Arcade 1UP Pinball
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+David goes into what information he can talk to us about.
+They take the “movie release” approach to product releases and only trickle out info on the project. 
+Therefore there is no official announcement about what tables are going to be on the Marvel Pinball.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+==== 09:20 — Online leaderboards?
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+In the latest video, there is a hint of score-chasing on the resized eight-inch DMD.
+But unfortunately, online leaderboards are not going to be on the first iteration.
+You do get a proper digital plunger, and that's confirmed for all three cabinets!
+The screen will have bespoke animations on the DMD to replace the score pop-ups.
+
+==== 12:00 — Upgrades
+
+You can update through USB, but only for emergencies in the code such as bugs and other major issues.
+They learned their lesson from the issues with PCB-A issues with earlier arcade models.
+
+==== 13:20 — Buttons
+
+Microswitches for reliability, but the upshot is the haptic feedback with solenoids.
+It seems there will be one solenoid per flipper button. So two in total.
+
+==== 14:40 — Pinball legs
+
+The legs are not “real” size legs, however they are adjustable. The legs are about 80% to scale.
+
+==== 15:20 — Software
+
+Will there be an adjustable view?
+Probably not, because Zen is custom-designing the games to be compatible with the pinball cabinet.
+
+This is definitely not a port of any of the platforms: it is bespoke software just for this pinball cabinet.
+Haptic feedback and accelerometer support are not just “plug-and-play” so treat that as an idea of quality and engineering for these units.
+David deferred a few of the more technical questions for Mel, later in the episode.
+
+==== 18:00 — Availability of units
+
+At the moment, the fall release is for US customers only according to David.
+However, John D later in the interview suggested that some international regions may also be seeing units under their trees for Christmas.
+
+Retail partners have not yet been announced so check out the Arcade 1UP website for the latest details.
+The price point is still between $500 and $600 range.
+
+==== 20:00 — About competition in the affordable digital pinball space
+
+David holds no punches with the notion of competition in this space at the moment.
+Arcade 1UP was alerted to other vendors trying to ahem plunge their balls before they got started.
+
+The way Arcade 1UP is going about the venture with Zen makes it very hard for competitors to get a leg-up with the type of product coming to market.
+💥 Shots fired about intellectual property and licensing! 💥
+
+==== 25:00 — Licensing avenues and partnering with Zen
+
+Zen has made a huge difference in negotiating licensing agreements.
+The contract is exclusive, however the licensing does not make the deal feel restrictive.
+
+=== Interview with John Diamonon (Senior VP for Arcade 1UP) and Mel Kirk from Zen Studios
+
+[NOTE]
+====
+We did have some problems with audio sources and echo in the first bit of the session with John D so it sounds like John is answering questions without context. 
+I’ll try to explain the backstory in the sections.
+====
+
+==== 28:00 — Units in Australia by Fall 2020
+
+When asked when units would be available down in Australia, John suggested that Australia might see units arrive in time for Christmas 2020 in regions outside of the US.
+John also reaffirms that retail is still incredibly important for Arcade 1UP.
+
+John also goes into some of the backstories to collaborating with Mel and Zen Studios.
+If the first wave sells well, expect to see more cabinets.
+
+==== 30:50 — The arcade rooms and the lengths folks go to make them authentic
+
+Chris talked about how folks go to all sorts of lengths to make their home arcades look authentic and this comment is in response to this line of questioning.
+
+==== 32:10 — Gun shooters
+
+While Chris was pulling in Mel’s audio I asked a filler question about gun shooters and John told us that they solved the issue of light guns and LCDs.
+
+We started talking about Point Blank and Time Crisis and John suggested that they are working on solenoid recoil.
+
+==== 35:00 — The future of Zen Studios: 10x Pinball!
+
+Mel candidly talks about the future of the pinball announcement he made on Twitter shortly before the show.
+IN 2010 Mel was in Budapest and they wrote on a whiteboard “Pinball Everywhere”. 
+
+Now it is 2020, it’s time for Pinball Everywhere 2.0.
+New licenses, licenses that are familiar to you. 
+There is a colossal effort to re-frame what pinball looks like now and into the next decade.
+
+==== 38:20 — Software questions answered by Mel
+
+Mel confirms that table views are heavily optimized for the specific screen size, however, there may be some minimal changes available based on viewing height.
+Some of the wide views just don’t make sense so the views are being tuned for the form factor.
+
+==== 40:00 — No FX3 style challenge modes or leaderboards
+
+5-ball challenges are out like you see in FX3.
+This is a pure offline, stand-alone pure pinball experience.
+
+Following on from this questioning, Mel confirmed that the DMD will not display any challenge score info and leaderboards are local only.
+Leaderboards in these cabinets are next-level ← this wording was emphasized, so note it for the future.
+
+==== 44:50 — First iteration, but more to follow (most likely)
+
+Mel and John confirm this first round is really a chance for the community to provide feedback about this platform line.
+
+Interestingly, Mel doubled-down on the USB aspect mentioned by David, in the same breath as acknowledging how folks love to mod their cabinets.
+So there is definitely something brewing.
+
+==== 50:00 — How about making streaming easy from the cabinets
+
+John confirms that they are investigating how to make content creators access the video feeds in the games. 
+But Mel confirms that DCMA in pinball feeds has and will continue to be a problem for licensed music.
+
+So it looks like the streaming possibilities are definitely there but there are caveats.
+
+==== 52:30 — Table development in Budapest
+
+Mel confirms that the team in Hungary can return to the office from July 1.
+
+He’s also confirmed that the whole work-from-home has worked really well for the studio, and folks have been able to enter the office during lockdown with limited access.
+
+==== 54:00 – 1UP sales are only going up
+
+John confirms the year-to-year uplift is most definitely real, and why it seems to be such a growth area at the moment.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

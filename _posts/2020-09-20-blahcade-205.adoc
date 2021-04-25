@@ -3,56 +3,99 @@ layout: post
 title:  "BlahCade 205: Same sh*t, different day"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/205-vol6-key-art.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+The wait for new digital pinball content is starting to wear many pinball fans out and this is leading to conspiracy theories.
 
-image::zen-epic.png[]
+It certainly must feel frustrating when you are starving for content and no one is dishing it out to you. 
+This is how many Zen Pinball fans are feeling about 2020 because Zen has not released any tables since early this year.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+Fear not! 
+This does not mean that Zen Studios are in trouble. 
+Nor does it mean that they are losing the Williams license. 
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Listen in as we unpack the year to date and help you understand why releasing pinball tables has not been the focus of the studio.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
-
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+video::evh8FfFcR48[youtube, width=560, height=315]
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/same-sht-different-day-96405" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Same sh*t, different day
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 05:30 — Is Zen in trouble?
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+So many folks think that because Zen Studios are not releasing many tables this year that they are in financial trouble. 👀
+Remember, Zen had a 10-year plan in place that they have been working from up until late 2019.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+This year, Zen has been doing the back-of-house planning for the next decade and that takes time.
+You can also bet they are preparing everything for the new console releases coming up this year.
 
-Download as many as you want now for free!
+==== Departmental poaching
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+This just doesn’t happen at Zen. 
+Each department has a pre-determined headcount that doesn’t really change. 
+Zen doesn’t need to poach resources from teams. 
+Mel himself confirmed this in a past interview.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+==== Asian markets
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Mel has suggested that new Asian markets are a huge focus for the studio and there are some exciting prospects from a licensing perspective in this area.
+
+==== Alpha-numeric emulation
+
+Running emulated tables on modern gaming hardware is a challenge to get right.
+CPU clock speeds of old pinball hardware were in the megahertz (Mhz) so slowing down emulation software to this level, then orchestrating this across sound and display animations is no mean feat.
+
+It caused Farsight Studios no end of trouble getting this right, and even today it’s still not quite right.
+Zen being Zen, they don’t release stuff that isn’t their best, so getting this framework correct now for future tables is very important.
+Because these older tables also stream the audio from the MIDI Yamaha FM chip, making the sounds accurate is also much more difficult than you might think.
+
+All the Bally Williams tables that use the Digital Compression System (DCS) essentially recorded studio audio and compressed it down to about 64 Mhz, then played it like an MP3. That’s different from rendering the audio on the fly using MIDI. That is not easy to emulate.
+
+==== Arcade 1UP
+
+Zen and Arcade 1UP are still getting ready to release these tables into the market.
+Nothing has changed.
+
+=== 26:00 — How long will Williams Pinball be developed?
+
+image::205-vol6-key-art.jpeg[Williams Pinball Volume 6 key art]
+
+You can expect that at some point Williams tables will stop being made by Zen.
+Could we expect that Stern pinball could be the follow-up act in the next 10 years?
+
+=== 29:00 — Digital pinball cabinet poker
+
+Every company that has announced a physical cabinet is sitting on the information like poker players.
+My feeling is that all these companies will announce everything from October onwards to align with the Christmas purchasing.
+
+The other factor is that all the new consoles (A$750 approx) are due to come out for Christmas 2020.
+
+=== 33:00 — Sport or skill
+
+Steve Mason from 710ESPN runs a podcast called Culture Pop.
+The radio show Steve Mason has been running for years now is what inspired the format for our show.
+
+With this in mind, let's interrupt our regularly scheduled pinball with a bit of a quiz.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

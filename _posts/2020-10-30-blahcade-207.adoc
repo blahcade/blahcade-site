@@ -35,7 +35,7 @@ BlahCade Podcast - Pinball Cabinet Wars 2020
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
@@ -104,17 +104,13 @@ There is plenty of caveats in this chat relating to streaming games and heaps of
 
 After we finish cross-examining the details of the EULA, we speculate on what the next steps for these companies could be regarding generation two of their products.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+== Thanks for listening
 
-Download as many as you want now for free!
+Thanks for watching or listening to this episode: we hope you enjoyed it.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

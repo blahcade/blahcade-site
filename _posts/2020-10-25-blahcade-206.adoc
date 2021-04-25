@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 206: New content bonanza!"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/206-vol6-space-station.png
 ---
 
 The wait for new digital pinball content is over!
@@ -32,7 +32,7 @@ BlahCade Podcast - New content bonanza
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
@@ -60,7 +60,6 @@ They are called “Well played” and their cabinet is an interesting shape.
 
 Taito announced they have partnered with “someone” to create original Taito properties into virtual pinball games.
 That someone is of course FarSight. 
-
 So how are they going to be able to turn around original tables? 
 The answer of course is reskinned tables (probably Gottlieb).
 
@@ -104,7 +103,7 @@ But you only get about half the songs in family mode. 😜
 
 Thanks for watching or listening to this episode: we hope you enjoyed it.
 
-If you liked the episode, please consider leaving a review about the podcast on Apple Podcasts or Spotify Podcasts. 
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 Reviews matter, and we appreciate the time you invest in writing them.
 
 https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.

@@ -3,56 +3,80 @@ layout: post
 title:  "BlahCade 201: Arcade 1UP Interview Thoughts"
 author: jared
 categories: [episodes]
-image: assets/images/zen-epic.png
+image: assets/images/202-arcade1up-render.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+It’s time to reflect on the news we are privy to from the interview.
 
-image::zen-epic.png[]
-
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Its time to unpack all that juicy Arcade 1UP news we heard about in our 200th episode.
+This entire show is about the information that was (and wasn’t) said in the interview, and what that might mean for the upcoming releases we see from Arcade 1UP and AtGames.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
-
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+video::Yaj0FH41ym0[youtube, width=560, height=315]
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/arcade-1up-interview-thoughts-94497" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Arcade 1UP Interview Thoughts
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 07:30 — Post 1UP interview thoughts
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Chris and I reflect on the interviews and what information stuck out.
+What stuck out the most from the feedback about the episode is the whole issue of WiFi connectivity on the first round of cabinets.
+Given that the cabinets are shipping with a USB port, getting software updates onto the cabinets is definitely a possibility.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+The other stand-out item that stood out for me was the sheer confidence about the brand and product direction.
+For Chris, the way Zen Studios is customizing the software to suit the monitor size is the attractive part, along with deeply integrating with the haptics into the game.
+I’m not convinced that modders will be able to exploit the force feedback board, which makes it difficult to understand what they would be able to retrofit.
 
-Download as many as you want now for free!
+=== 25:40 — Paralysis of choice
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+Sometimes having too many things to choose from makes it hard to decide.
+Could there be merit in keeping the table selection low on these cabinets to allow you to get to know the tables (if you’re new to them)?
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+=== 30:00 — The mystery of AtGames
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+From the little information we know about AtGames Legends Pinball, we learned that the company has partnered with Farsight to allegedly deliver a streaming game service of their Gottlieb tables.
+How would a streaming game service that relies on low latency work with something like pinball?
+
+How does this deal affect the standing arrangement with Toyshock and their Gottlieb Premier deal? 
+I reckon the thin line Farsight is treading here is that Farsight is offering software to AtGames and a more embedded solution to Toyshock.
+
+And let’s not forget historically that Farsight also had a partnership with Arcooda to integrate with their cabinet. 
+If you look at the features that Arcooda’s system offered (plug anything into it and use it as a TV and controller), you can certainly draw some parallels to the AtGames offering. 😅
+
+Neither Chris nor I can really tell you because the company doesn’t seem interested in talking with us. 
+We both hope this changes soon so we can get you some facts, rather than have to rely on feature spreadsheets and forum chatter.
+
+=== 42:30 — Simultaneous, baby
+
+So the Toyshock 1.2 iteration, Arcade 1UP, and AtGames products are all going to be releasing about the same time (estimated about September).
+So based on what you have read and heard, which one would you buy?
+
+The trick is to focus on what you want in a digital pinball cabinet.
+Or you can wait until the product line goes into discount mode in the retailers.
+
+=== 59:00 — Find a space
+
+I’m looking around my room and I reckon I could fit an Arcade 1UP cabinet into the “studio”.
+And that is the beauty of this product. 
+You have almost instant access to these games once you switch them on in a form factor that can almost fit anywhere.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
