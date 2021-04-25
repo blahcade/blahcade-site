@@ -1,11 +1,12 @@
 ---
-title: "Zen Pinball Cabinet Backglasses"
+title: "Zen Pinball Cabinet Backbox Images"
 permalink: "/backglass.html"
 ---
 
 Download as many as you want now for free!
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
+This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
+
 image::afm-backglass.png[Attack From Mars backglass image]
 
 .Google Drive FX Box Preview
@@ -13,5 +14,5 @@ image::afm-backglass.png[Attack From Mars backglass image]
 <iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
 ++++
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Don't forget to consider donating to the show if you use them in your build. 
+And make sure you tweet us or send us pics! 

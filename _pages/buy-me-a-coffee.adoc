@@ -16,6 +16,7 @@ Thank you so much!
 
 ++++
 <a target="_blank" class="btn btn-danger" href="https://www.paypal.me/blahcade/5">Caffeinate the hosts!</a>
+</p>
 ++++
 
 == Buy some sweet merch?
@@ -28,6 +29,7 @@ Every cent.
 
 ++++
 <a target="_blank" class="btn btn-danger" href="https://www.redbubble.com/shop/ap/33899008">Grab some threads!</a>
+</p>
 ++++
 
 == Become a show sponsor!
