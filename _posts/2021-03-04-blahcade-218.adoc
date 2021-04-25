@@ -4,7 +4,6 @@ title:  "BlahCade 218: Star Wars Pinball VR"
 author: jared
 categories: [episodes]
 image: assets/images/218-swpvr.png
-tags: [featured]
 ---
 
 We get to go to a virtual pinball galaxy far, far away in April 2021.

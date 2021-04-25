@@ -4,7 +4,6 @@ title:  "BlahCade 212: Let’s predict 2021"
 author: jared
 categories: [episodes]
 image: assets/images/212-containers.png
-tags: [featured]
 ---
 
 What is in store for us in 2021? Let's do some guessing.

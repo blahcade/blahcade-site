@@ -4,7 +4,6 @@ title:  "BlahCade 217: AtGames, hear us out"
 author: jared
 categories: [episodes]
 image: assets/images/217-at-games-cabinets.jpeg
-tags: [featured]
 ---
 
 We are seeing a lot of chatter about AtGames as they begin shipping cabinets out. But there are some things that no one is talking about.

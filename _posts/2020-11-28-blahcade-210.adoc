@@ -4,7 +4,6 @@ title:  "BlahCade 210: Acquisitions and Redesigns"
 author: jared
 categories: [episodes]
 image: assets/images/210-aliens.png
-tags: [featured]
 ---
 
 Zen has been acquired, and AtGames has done a cabinet revamp.

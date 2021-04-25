@@ -4,7 +4,6 @@ title:  "BlahCade 214: We can’t just push reset?"
 author: jared
 categories: [episodes]
 image: assets/images/214-movie-theatre.jpeg
-tags: [featured]
 ---
 
 This year has already started out a bit dodgy, but surely it can only get better starting from now.

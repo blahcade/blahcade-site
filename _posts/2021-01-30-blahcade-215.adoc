@@ -4,7 +4,6 @@ title:  "BlahCade 215: Pinball in VR"
 author: jared
 categories: [episodes]
 image: assets/images/215-godrays.jpeg
-tags: [featured]
 ---
 
 It has taken us way too many years to be able to do this episode, but good things come to those who (patiently) wait.

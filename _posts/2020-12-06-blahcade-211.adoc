@@ -4,7 +4,6 @@ title:  "BlahCade 211: 105 Reasons Why"
 author: jared
 categories: [episodes]
 image: assets/images/211-pac-man-a1up.jpeg
-tags: [featured]
 ---
 
 Zaccaria Pinball is coming to AtGames.

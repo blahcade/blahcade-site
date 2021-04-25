@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 204: The Other Pin Cabs"
 author: jared
 categories: [episodes]
-image: assets/images/203-marvel-cabinet.png
+image: assets/images/203-marvel-cabinet.jpeg
 ---
 
 While the hype for Arcade 1UP is high, Toyshock is pumping out products you can buy now!

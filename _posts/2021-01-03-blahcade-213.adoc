@@ -4,7 +4,6 @@ title:  "BlahCade 213: End of year free-for-all"
 author: jared
 categories: [episodes]
 image: assets/images/213-led-zeppelin.png
-tags: [featured]
 ---
 
 It’s the end of 2020 so it's time to have a break-up party episode.

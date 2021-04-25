@@ -4,7 +4,6 @@ title:  "BlahCade 216: Zen Pinball FX News Unpacked"
 author: jared
 categories: [episodes]
 image: assets/images/216-pinballfx-logo.jpeg
-tags: [featured]
 ---
 
 Zen Studios announced that they will be releasing a brand new Pinball FX app this year. 
