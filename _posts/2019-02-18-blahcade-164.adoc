@@ -3,7 +3,7 @@ layout: post
 title: "BlahCade 164: Zen Studios design interview"
 author: jared
 categories: [episodes, interviews]
-image: assets/images/164-afm-mobile-screen.jpeg
+image: assets/images/164-afm-mobile-screen.png
 tags: [featured]
 ---
 
