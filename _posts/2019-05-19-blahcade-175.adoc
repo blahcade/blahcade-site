@@ -1,0 +1,106 @@
+---
+layout: post
+title: "BlahCade 175: Williams Pinball Vol. 4 announcement with Mel Kirk"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/175-volume-4-key-art.jpeg
+tags: [featured]
+---
+
+It’s time to reveal the latest three tables that will arrive in Williams Pinball on May 28th 2019!
+
+Here we go, folks. 
+It’s the moment you’ve been waiting for when Mel Kirk joins Chris for his regular Williams Pinball release announcement chat.
+
+This time there are three tables on offer: Hurricane, Roadshow, and Whitewater.
+
+So pull down the episode and listen to what’s in store for you all for Vol. 4, and into the future.
+
+== Watch and listen
+
+video::h5IcPVsy5Dk[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/williams-pinball-vol-4-announcement-79964" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Williams Pinball Vol. 4 Announcement
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+This entire show is dedicated to the interview Chris did with Mel Kirk, Vice President of Publishing at Zen Studios about Williams Pinball Volume 4.
+
+=== 01:00 — Williams Pinball Announcement and Platform Discussion
+
+Chris and Mel discussed the three tables released as part of the Volume 4 pack. 
+
+image::175-vol4-hurricane.jpeg[Hurricane cabinet view]
+
+There was a host of other content that relates to other stuff that has happened since we last got the opportunity to speak with Mel at the Volume 3 announcement.
+
+image::175-vol4-roadshow.jpeg[Roadshow cabinet view]
+
+The tables are revealed (of course), plus Chris asks Mel a few questions about some of the ancillary activities.
+
+image::175-vol4-whitewater.jpeg[Whitewater cabinet view]
+
+=== 19:00 — Star Wars Celebration in Chicago
+
+Chris asks Mel what it was like to be at the Star Wars Celebration from a vendor perspective.
+It’s going to be in Anaheim next year, so get your tickets booked.
+
+The Switch release is discussed and the reasons why the release date was so far out from the announcement date. 
+It turns out that doing a retail release is very different to doing a DLC release.
+
+Zen Studios is the first game company that has released Star Wars content on the Switch, which is a huge deal.
+
+=== 26:00 — Deluxe Arcade Cabinet (officially named the “LED Commercial Prototype”)
+
+Chris has been gagging to find out more about the LED Commercial Prototype that Zen Studios debuted at the Star Wars Celebration. 
+Mel goes into great detail about the fourth iteration of Zen’s cabinet product experiments. 
+He gives us a great insight into the plans for this piece of commercial arcade equipment.
+
+The arrangement is not limited to the Fantasy tables either. 
+Williams Pinball tables will get game slots on this. 
+The whole platform will be deeply integrated with mobile platforms.
+
+eSport was mentioned, which makes the Zen Arcade Experience basically like Golden Tee golf.
+
+=== 36:30 — Zen and Stern News
+
+Mel goes into some detail about what the deal was with this tweet.
+
+https://twitter.com/Mel_G_Kirk/status/1116912940769214464[Pinball. Stern. Zen Studios. Future (on Twitter)]
+
+=== 39:00 — VR and Stern 😎
+
+Mel talks about Occulus Quest and VR in general.
+
+What needs to happen for Zen to go full on into VR land?
+
+=== 44:00 — What about the Zen originals and other games?
+
+Turns out that those Zen originals discussed are not going to be happening in 2019.
+
+So what else is happening at the studio? Expect an announcement about a new game before E3. 
+There will be a total of three full game releases that are not pinball related coming in 2019. 😆
+
+=== 48:30 — Williams Mobile Discussion
+
+Williams Mobile is going to be getting some large upgrades in the future.
+Mel talks about some of the freemium aspects of the game from the studio’s perspective.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

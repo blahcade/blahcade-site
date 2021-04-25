@@ -1,0 +1,81 @@
+---
+layout: post
+title: "BlahCade 155: Williams Pinball Vol. 2 announcement with Mel Kirk"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/155-medieval-madness.png
+tags: [featured]
+---
+
+Mel Kirk joins us again for a retrospective on Volume One and drops some terrific news about Volume Two!
+
+We told you didn’t we! When news is quiet, there are things-a-brewing. 
+And sure enough, we get a huge announcement from Zen Studios about what to expect in Volume Two of FX3 Williams Pinball.
+
+Join us for a session with Mel Kirk from Zen Studios. 
+This is a pure interview and nothing else so sit back and get comfy: you’ve got a lot of great things about to be pumped into your ears about FX3.
+
+== Watch and listen
+
+video::-a6ZJ8ABYHM[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/mel-kirk-interview-volume-two-69090" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Mel Kirk Interview: Volume Two
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+No real notes for the interview segment. 
+The timing points will help you get to the part of the interview you need.
+
+00:30 — How was Vol 1 received?
+
+03:10 — FX3 players may not have grown up with Pinball
+
+05:00 — Multiplayer aspects are just scratching the surface
+
+05:40 — Have there been any surprises with the release?
+
+07:50 — How will censorship be handled in the game going forward (PC
+for now)
+
+10:10 — Building cabinets with Zen’s roadmap in mind
+
+13:00 — What will be in the Vol 2 pack?
+
+14:10 — Party Zone is a welcome surprise!
+
+16:10 — Black Rose will have lots of remastered action
+
+16:50 — Attack From Mars is going to go off!
+
+18:00 — Animations in remastered versions
+
+19:50 — Are mods on the Remastered tables taken from real life?
+
+21:55 — Is there now a physics baseline now?
+
+23:45 — Cinematics toggle available
+
+24:50 — December release for Vol 2
+
+25:00 — Custom tournament flipper angle fix
+
+26:30 — Will new physics be applied to all tables?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

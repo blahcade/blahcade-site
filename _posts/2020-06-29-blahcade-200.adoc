@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlahCade 200: Arcade 1UP Interview"
+title: "BlahCade 200: Arcade 1UP Interview"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/202-arcade1up-render.jpeg

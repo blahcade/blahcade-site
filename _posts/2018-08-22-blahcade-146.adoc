@@ -1,0 +1,71 @@
+---
+layout: post
+title: "BlahCade 146: Interview with Mart from Magic Pixel"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/146-space-shuttle-zaccaria.jpeg
+tags: [featured]
+---
+
+We have a great chat with Mart, the Community Manager for Magic Pixel.
+
+Out of the blue, we get a request to talk digital pinball with a game studio. 
+Of course we’re going to say “hell yes” to that.
+
+Mart gives us some welcome news about what’s in store for fans of Magic Pixel‘s Zaccaria Pinball.
+
+== Watch and listen
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/mart-from-magic-pixel-64646" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Mart from Magic Pixel
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+No real notes for the interview segment. 
+The timing points will help you get to the part of the interview you need.
+
+03:00 — Zaccaria on Nintendo Switch announcement
+
+04:50 — Portrait Mode announcement
+
+05:25 — Flip Grip compatibility announcement
+
+07:25 — Steam Collection Update announcement
+
+08:45 — About Remakes
+
+11:00 — About Retro Tables (de-makes)
+
+11:55 — About UI Quality and Table Customisations
+
+15:35 — New Tables announcement
+
+18:40 — Zaccaria Table Editor announcement
+
+20:00 — About Studio Size
+
+21:50 — Cabinet Support announcement
+
+23:08 — How many Zaccaria machines were produced?
+
+24:25 — Mobile App announcement
+
+26:45 — New support platform: https://www.facebook.com/magicpixeldev[Facebook]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

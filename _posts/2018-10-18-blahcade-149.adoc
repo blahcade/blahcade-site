@@ -1,0 +1,145 @@
+---
+layout: post
+title: "BlahCade 149: Williams Pinball Vol. 1 announcement with Mel Kirk"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/155-medieval-madness.png
+tags: [featured]
+---
+
+We have unlimited access to Mel Kirk from Zen Studios where we talk about the new Remastered mode in Williams Pinball and a pile of other stuff.
+
+In this podcast, we have a huge chat with Mel Kirk from Zen Studios.
+Nothing is really off-limits in the interview and we use that to our advantage to ask questions that have been burning a hole in our minds for years now.
+
+There’s nothing more to say really, apart from getting on with the job of listening.
+
+== Watch and listen
+
+video::V5bgQUPU4cE[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/zen-studios-interview-with-mel-kirk-65901" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen Studios Interview with Mel Kirk
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+No real notes for the interview segment. 
+The timing points will help you get to the part of the interview you need.
+
+=== Interview opening
+
+02:42 — How has Williams Collection been received?
+
+03:40 — Facebook and core Zen fans.
+
+=== Announcement: Williams Pinball Pricing
+
+04:18 — October 9 for Volume 1
+
+04:44 — Fish Tales is the free table
+
+05:28 — Pricing is $9.99 for Volume 1
+
+=== Announcement : Zen Pinball FX3 Williams Collection Remastered Versions
+
+The Zen Pinball dynamic animated experience you’ve grown to love is also available for Williams Pinball tables.
+And you can toggle between Remastered Look and Classic Look with a button press anytime in the game, regardless of what difficulty mode (physics settings) you’re using.
+You’re in total control!
+
+06:00 — Zen Remastered Versions included.
+
+08:11 — Why the Remaster Toggle?
+
+08:28 — How does the Remaster version play?
+
+09:06 — How crazy is too crazy with Zen effects?
+
+10:30 — Possibilities for Remaster effects?
+
+=== Questions Without Notice
+
+10:59 — Would Zen make DMDs for Alpha-numerics?
+
+11:10 — No rule rewrites.
+
+12:18 — Licenses affect making new vs changing existing.
+
+13:06 — Essentially, three different difficulty modes: Zen, Standard, and Tournament
+
+14:02 — Can you apply Williams physics to the Zen Studios tables?
+
+15:20 — The challenge of applying physics retroactively.
+
+16:35 — What about non-DMD Bally and Williams?
+
+17:25 — Fan Service is a big consideration for Zen.
+
+20:08 — Zen still assessing the direction to take with Williams Pinball.
+
+21:10 — The challenges of adding adjustable lighting controls to the Zen Platform.
+
+23:15 — Was FX3 specifically designed for Williams Pinball?
+
+24:38 — How much freedom is Scientific Games giving Zen Studios?
+
+26:56 — Changing the way Zen announces Williams tables.
+
+27:48 — Third party licensing and how this affects table packs.
+
+29:30 — ESRB Ratings, and why it’s not as easy as you think.
+
+37:36 — Has Williams Pinball invigorated creativity with the designers?
+
+40:08 — Deep was responsible for Williams physics.
+
+40:50 — How do you balance community feedback with the direction of Zen?
+
+45:12 — What should we expect with release schedules?
+
+=== Star Wars Solo Pack
+
+47:16 — How does Zen manage voice actors for Star Wars tables?
+
+49:30 — How does Zen manage music licensing for Star Wars tables?
+
+50:22 — The challenges with developing tables for Theatrical releases.
+
+52:48 — Interpretation of the Star Wars universe.
+
+=== Sequels, Mobile, Cabinet and VR
+
+55:16 — Has Zen considered doing sequels to Zen Tables?
+
+56:40 — What are the plans for Mobile customers and Williams Pinball?
+
+58:28 — Will Zen support official backglass images for FX3
+
+59:06 — Cabinet mode is going to be a big thing in the near future.
+
+60:00 — Will Zen give more control to cabinet players?
+
+61:25 — Will Williams Pinball be in VR
+
+62:52 — Flipper controller support
+
+66:00 — How long does it take to digitise tables?
+
+68:00 — What should folks expect with the Zen Studios Tour in Budapest
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
