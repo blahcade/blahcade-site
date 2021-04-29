@@ -2,58 +2,120 @@
 layout: post
 title:  "BlahCade 209: Pre-order This!"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
-tags: [featured]
+categories: [episodes]
+image: assets/images/afm-backglass.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Mandalorian and more digital pin-cab news.
 
-image::zen-epic.png[]
+With news about Disney+ “The Mandalorian” being graced with a Zen Pinball release, Chris and I get stuck into what this might look like on the show.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+It’s another week and that means that there is more news to tease apart about the pinball cabinet products vying for your dollar this holiday season.
+We also take some time to look into Zaccaria Pinball a bit deeper than normal (by request).
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Let us know what you think on Twitter or YouTube.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::gWvEyV-JUB4[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/pre-order-this-97803" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Pre-order This!
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 03:50 — The Mandalorian announcement
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+video::IX_cPtQPnLk[youtube, width=560, height=315]
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+What is the Mandalorian going to shape up to be?
 
-Download as many as you want now for free!
+Will it be a single pack or three-pack offering or will it be something else.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+Chris reckons there might not be the scope for an offshoot table considering that there aren’t that many characters developed enough yet to do a spin-off.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+=== 14:30 — Zen originals are coming back
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+video::qQSyrug9ebg[youtube, width=560, height=315]
+
+Why? Because they are profitable for them. 😉
+
+They don’t need to pay for the Scientific Games license for Bally Williams tables.
+
+What may also happen is that the Zen originals tables (think Tesla or V12) may become padding for more licensed Arcade 1UP cabinets in the future.
+
+=== 22:00 — Cabinet news updates
+
+video::OCSw2GQA6Oc[youtube, width=560, height=315]
+
+Is Toyshock going to bother with their second-generation product now that AtGames has trumped them with a dual-screen?
+
+Will the AtGames second monitor be a feature on all competitor cabinets moving forward?
+
+Will all v2 cabinets have WiFi and leaderboards?
+
+Will the lack of backglass be a blocker for games like JunkYard’s “Window Shopping” mode.
+
+Will Well-played Arcade be able to keep up with the other two main players?
+
+Chris and I speculate on all these questions and more in this latest cut of information.
+
+=== 42:00 — Well-played Games and Zaccaria
+
+We decided to do a bit of analysis on the Zaccaria tables and how this package stacks up with the other competitors.
+
+The offering is not going to be the original solid-state tables, but the remake (DMD) tables.
+
+=== 53:00 — Zaccaria Deluxe (video screens)
+
+video::YQlajvxEyGI[youtube, width=560, height=315]
+
+Zaccaria has been forging ahead with their Deluxe tables over the last few months.
+These tables have imaginative layouts however the sound package and video screen just don’t add anything much to the overall “story” that the table is trying to convey.
+
+All these tables feel like you’re playing very early builds of these tables and it’s so frustrating. Because these tables are really unique and interesting. I really want them to be better and really give players a taste of what is possible with these tables.
+
+Even tables like Centaur or Gorgar with only five or six callouts tell more narrative story that these Zaccaria tables. 😦
+
+=== 66:00 — Star Wars tables aren’t that awesome
+
+Now that we know what tables are on Star Wars Pinball Cabs, it turns out that the first wave titles are really not that attractive.
+
+Hopefully, they release the others on a wave 2 cabinet because that will be a much better offering.
+
+=== 67:00 — RTFM on Zen original tables
+
+I decided to read the table instructions on the Zen originals and my games dramatically improved after doing so.
+
+Read 👏 The 👏 Instructions 👏 folks.
+
+=== 70:00 — Pinball university and LWI(D)P
+
+Chris is now a professor because he has a course on how to understand the wonderful world of digital pinball.
+
+https://www.thisweekinpinball.com/beginners-guide-virtual-pinball-chris-friebus/[A Beginner's Guide to Virtual Pinball - by Chris Friebus - This Week in Pinball]
+
+Also, check out the Last Week In (Digital) Pinball posts that Chris is putting together.
+
+https://www.thisweekinpinball.com/new-feature-last-week-in-digital-pinball-by-chris-friebus/[Last Week in (Digital) Pinball | Zen Releases Williams Volume 6...Finally | Magic Pixel's Zaccaria Pinball Releases…]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "BlahCade 220: Mel Kirk interview for Spring 2021"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/219-zen-epic.png
+tags: [sticky, featured]
+---
+
+This episode is a massive interview with Mel Kirk, COO of Zen Studios.
+
+We have a pile of questions as follow-ups to what was said in Zen's The Pinball Show #3, and Mel doesn't flinch from any of them.
+
+You are definitely going to want to watch the entire interview. 
+
+== Watch and listen
+
+video::jt_q174Ys5Q[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/mel-kirk-interview-for-spring-2021-100653" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Mel Kirk interview for Spring 2021
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== New hires and new tables for Pinball FX
+
+video::P4muJhJm-CI[youtube, width=560, height=315]
+
+Mel tells us about increasing the staff size at Zen, the number of new tables we can expect, and other stuff Pinball FX related.
+
+=== Arcade 1Up Updates and Wishes
+
+video::4Q7qBLWFweI[youtube, width=560, height=315]
+
+Mel updates us on what is going on with the cabs, what kind of issues the studio faces on the software side of things, and what his hopes are for future generations of cabs.
+
+=== Pinball FX and mobile's future
+
+video::m0ncJLriaXI[youtube, width=560, height=315]
+
+Mel gives us information about what PinFX means for the future of Zen on mobile devices.
+
+=== Virtual reality and Pinball FX?
+
+video::rgzuxhlrYws[youtube, width=560, height=315]
+
+Lots of people have questions about VR for Zen, so we took this opportunity to speak at length to Mel about what to expect from them on the VR front, and how Pinball FX will integrate with VR moving forward.
+
+=== Pinball FX on PS4 and XBone?
+
+video::O_0OTb4S7XA[youtube, width=560, height=315]
+
+We ask Mel about plans for Pinball FX coming to the PS4 and XBox One. 
+We also ask whether there is any hope of defunct titles from the past coming back to PinFX?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

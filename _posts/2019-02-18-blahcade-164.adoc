@@ -1,0 +1,93 @@
+---
+layout: post
+title: "BlahCade 164: Zen Studios design interview"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/164-afm-mobile-screen.png
+tags: [featured]
+---
+
+Zen Studios has lent us some time to chat about Williams Pinball and other Zen questions.
+
+Akos, Thomas and Mel take time out of their work evening to chat with us about how Zen goes about engineering their tables, and the experience that goes along with designing the premiere mobile pinball experience.
+
+It’s a short but oh so sweet interview and will fill the gap you have between the slightly longer episodal gap we’ve been having of late.
+Enjoy, and let us know what you reckon.
+
+== Watch and listen
+
+video::es2oOubxLDw[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/williams-pinball-vol-3-interview-74920" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Williams Pinball Vol 3 Interview
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+No real notes for the interview segment. 
+The timing points will help you get to the part of the interview you need.
+
+* 02:00 — How was the mobile experience designed?
+
+* 04:30 — How has mobile engagement been with the game?
+
+* 05:30 — Is some community heat a good thing?
+
+* 08:40 — Pinball Engine is constantly being engineered.
+
+* 09:10 — Navigation in mobile was initially challenging.
+
+* 10:20 — Will there be release date delays on mobile?
+
+* 10:40 — Will earning duplicate table parts be addressed?
+
+* 12:20 — How smart is the game and its segmentation?
+
+* 12:55 — Were Bethesda and Aliens apps prototypes for Pinball FX3 on Mobile?
+
+* 14:37 — How does Skillz affect gameplay dynamics?
+
+* 16:15 — What is the future looking like with Skillz?
+
+* 19:40 — Skillz digital tournaments on Steam?
+
+* 20:00 — How has interacting with the community changed after the Williams app was released?
+
+* 22:25 — Are there any Zen Original that could be made into a physical table?
+
+* 23:30 — How does a game like Adventure Land come to be?
+
+* 25:10 — What are your favourite physical tables?
+
+* 25:50 — What type of table body is preferred for Zen originals?
+
+* 26:10 — How is dealing with a licensor when designing a pinball table?
+
+* 30:00 — Are some licensors more “hands-on” than others?
+
+* 31:20 — How much rope is Scientific Games giving Zen with the Williams Pinball license?
+
+* 32:00 — What are some grail licenses for the team?
+
+* 33:00 — How much involvement does Thomas C have with the “Zenified” enhancements?
+
+* 34:00 — What tables will get the “full monty” on the Zenified enhancements?
+
+* 37:15 — How was Tom’s first-time experience with AFM Strobe Multiball 😆?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

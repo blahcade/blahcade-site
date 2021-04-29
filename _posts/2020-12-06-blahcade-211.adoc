@@ -2,20 +2,17 @@
 layout: post
 title:  "BlahCade 211: 105 Reasons Why"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
-tags: [featured]
+categories: [episodes]
+image: assets/images/211-pac-man-a1up.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Zaccaria Pinball is coming to AtGames.
 
-image::zen-epic.png[]
+There’s more good news for AtGames fans in the form of Zaccaria pinball games being available natively on the cabinet from mid-2021. 
+We explore this news and ask which cabinet would you buy if you had to choose?
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+Based on some discussion in community forums, we decide to peek into the world of software licensing again and see if it is actually legal to offer access to Visual Pinball X (VPX as it is known in the community) on commercial products. 
+The results may surprise you.
 
 == Watch and listen
 
@@ -25,35 +22,90 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/105-reasons-why-98092" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - 105 Reasons Why
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 02:45 — Black Friday TVs and Arcade 1UP screens
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+It’s interesting to hear how flat-panel TVs are made, and this flows into the screen sizes we’re seeing on some commercial home arcade systems.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+video::uy-yty1WjNk[youtube, width=560, height=315]
 
-Download as many as you want now for free!
+It turns out that the screens we’re seeing in cabinets today may be years old in storage, just waiting for a bulk buy.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+=== 10:30 — Arcade 1UP hits Australia
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+A big container load of A1UP gear has landed in Australia but it isn’t pinball.
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+video::a_kdSSnASqQ[youtube, width=560, height=315]
+
+The Pac-Man cabinet didn’t come with much notice for the folks at Costco North Lakes.
+
+image::211-pac-man-a1up.jpeg[Pac Man cabs at Costco North Lakes]
+
+I was able to help out wide-eyed folks work out what they could (and couldn’t) do with it.
+
+image::211-pac-man-price.jpeg[Pac Man prices are not cheap]
+
+I originally predicted that the pinball machines in Australia would be about A$800. 
+I think they are going to be more like A$1200 down in Australia.
+
+=== 21:34 — AtGames Legends Pinball gets Zaccaria (in mid-2021)
+
+AtGames released official news that Magic Pixel has partnered with AtGames to offer local Zaccaria tables on the ALP.
+
+video::vQYyV8WKxUI[youtube, width=560, height=315]
+
+There’s going to be over 100 tables in addition to the Farsight Gottlieb tables.
+
+=== 37:00 — VPX and Legends Pinball
+
+How can you play Visual Pinball X (VPX) on your AtGames cabinet? 
+The answer is streaming them from ArcadeNet.
+
+video::hnS5rSTIGCs[youtube, width=560, height=315]
+
+But don’t get too excited: you can only play the VPX tables that AtGames offers through their own servers.
+
+There has been some debate about the legalities of running VPX on commercial machines like AtGames.
+I decided to delve into the software licenses and found a precedent that may suggest there is nothing to worry about.
+
+There is probably a justified reason why the VPX community would be a bit nervous about this agreement.
+The more attention that is given to open source pseudo-legal platforms like MAME and VPX, the more chance that the pseudo-legal aspects become cease and desist aspects.
+
+=== 49:00 — Which cabinet would you choose
+
+If it comes down to the crunch, which cabinet would you choose?
+
+video::ZiKA9XXsVDo[youtube, width=560, height=315]
+
+I’m leaning into AtGames but Chris is leaning into Arcade 1Up.
+There are always two sides to the story so we try to offer a balanced view about why each cabinet might be suitable for you.
+
+=== 63:00 — Our plea to marketing departments
+
+Don’t forget the hardcore pinball players who want to know specific facts.
+
+video::V0iIM7ZHbBA[youtube, width=560, height=315]
+
+If you don't supply us enough facts up-front, we draw our own conclusions. 
+That isn't good for your product sales or your business.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

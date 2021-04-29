@@ -1,0 +1,75 @@
+---
+layout: post
+title: "BlahCade 166: Williams Pinball Vol. 3 announcement with Mel Kirk and Thomas Crofts"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/166-vol3-key-art.jpeg
+tags: [featured]
+---
+
+Zen Studios have joined the show to announce what will be in the Williams Pinball Volume 3 release coming out very soon.
+
+Now that the Williams Pinball Vol 1 and Vol 2 Beta has run its course on iOS and Android, it’s time for Zen to talk about the latest Williams Pinball DLC drop across all platforms.
+
+video::us-rF2iOQvg[youtube, width=560, height=315]
+
+Hear Mel Kirk and Thomas Crofts (apologies from Akos Györkei who had to bail early to get Zen’s Twitch stream set up) lay down what we can expect from Volume 3.
+
+For those forensic fans out there, one of the tables will not be a surprise. 
+But there may be a couple of tables in Volume 3 that have come out of left field.
+
+There’s also some (now somewhat old, but nonetheless) awkward and uncomfortable news about Magic Pixel’s Zaccaria Pinball app on Android at the end of the show.
+
+== Watch and listen
+
+video::P3qCm_CtHRE[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/williams-pinball-vol-3-interview-74920" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Williams Pinball Vol 3 Interview
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+No real notes for the interview segment. 
+The timing points will help you get to the part of the interview you need.
+
+* 07:40 — Vol 3 is the next table pack out.
+
+* 08:25 — Theatre of Magic, Safe Cracker, and The Champion Pub
+
+* 08:50 — How did translating Safe Cracker go?
+
+* 09:30 — How will Safe Cracker be “enhanced”?
+
+* 10:45 — How will tokens be handled?
+
+* 11:28 — How will Theatre of Magic be “enhanced”?
+
+* 12:13 — How will The Champion Pub be lit?
+
+* 13:30 — What is the “questionable content” on The Champion Pub?
+
+* 15:50 — What are some of Thomas’s favourite tables?
+
+* 16:30 — Could Zen step into modern light-shows for Zen originals (like Jersey Jack)
+
+* 17:30 — What will the release cadence be for Williams Pinball?
+
+* 20:00 — How does early feedback through beta testing affect decisions?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

@@ -2,57 +2,147 @@
 layout: post
 title:  "BlahCade 203: Williams Pinball Volume 6 Reveal"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
+categories: [episodes]
+image: assets/images/203-iircade-double-dragon.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+After nearly half a year’s wait, it’s time for new pinball from Zen Studios!
 
-image::zen-epic.png[]
+We can now officially talk about this pack that has been months in the making. 
+Well, it felt ready to release months ago but Zen being who they are held back until they were very confident it was ready. 👍
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
-
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+This episode centers around all the news announced at the California Extreme (CAX) 2020 show about Zen Studios and Arcade 1UP. 
+There is news from Zen about the tables you can expect in Volume 6 as well as news from Arcade 1UP.
 
 == Watch and listen
 
 video::jt_q174Ys5Q[youtube, width=560, height=315]
 
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
-BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
-
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/williams-pinball-volume-6-reveal-95310" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Williams Pinball Volume 6 Reveal
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 01:00 — Tales of the Arabian Nights Tourney
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Chris talks about the tourney that ran for ToTAN and how all you really need to do is one thing to win massively on that table.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+=== 05:00 — Mechanical action of the drop targets in FX3 Williams Pinball
 
-Download as many as you want now for free!
+I noticed that on Safe Cracker and Attack from Mars there seems to be some sort of “animation” happening on the drop targets that makes them seem like they are motor-driven not gravity-driven.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+Have you noticed this as well?
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+=== 08:50 — Williams Volume 6
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+image::205-vol6-key-art.jpeg[Volume 6 Key art]
+
+Dr Dude, Funhouse, and Space Station are the next three tables from Zen Studios!
+
+image::205-vol6-funhouse.png[Funhouse enhanced playfield]
+
+If you’re used to how Funhouse plays in Pinball Arcade, be prepared for a shock.
+It. Is. HARD. And that’s really good news for die-hard fans of this table (of which there are many).
+
+You’ll need to play around with the camera angles to get a good view of the upper flipper so you can make the cellar shots accurately.
+The enhanced mode on this table is probably the weakest of all the tables in this collection. 
+Some weird choices on enhanced stuff like the animated stairs which really aren’t necessary for the game.
+
+image::205-vol6-dr-dude.png[Dr. Dude enhanced playfield]
+
+It’s going to be interesting to see how Zen solves the problem of the alpha-numeric display types like Dr. Dude on smaller screens. 
+Our guess is they will adapt the display stacking to the screen size you’re using.
+This is another table that really has benefitted from a Zen makeover. 
+The enhanced mode on this table is fantastic and actually enhances the game.
+
+The railroads we had in TPA are gone. Completely.
+The ball is totally wild and it changes the game completely. Bravo, Zen. 👏
+
+Like other games in the Williams Pinball collection, the ROM state doesn’t carry over, which makes getting Super Dude practically impossible.
+Someone in the twitch chat suggested that you might be able to start a four-player hot seat game and see if you can get Super Dude that way.
+Hopefully Zen fix ROM feature carry-over between games because it really matters on some games like Dr. Dude and Safe Cracker.
+
+image::205-vol6-space-station.png[Space Station enhanced playfield]
+
+Space Station is going to be very interesting to see how players adapt to the gameplay without the https://www.thisweekinpinball.com/understanding-the-italian-bottom/[Italian Bottom] present. 
+You can definitely trap up but it takes some skill.
+
+This table is definitely a richer layout than Space Shuttle with a three-ball multiball and some interesting ways you lock balls.
+The astronaut in enhanced mode and the overall enhanced theme looks great, and getting the jackpot on this table is very cool with the new effects.
+
+The unique general illumination of this game that changes colour (controlled GI) is also a great feature of this table and is well implemented in Zen’s version.
+
+=== 32:16 — Zen Studios slot at CAX2020
+
+The biggest thing that Mel Kirk was talking about is new markets like Asia, and how licensing needs to fit into that market.
+If that means Anime and perhaps Korean pop culture that could mean some very diverse tables.
+
+He also talked about how Zen does physics in Williams Pinball. 
+They tune tables to their own physical studio tables, so unless you can go to Budapest and play their own table yourself, don’t think you can critique how their digital pinball simulation should play based on your experience.
+
+Augmented Reality (not Virtual Reality) was also mentioned in passing so that is very interesting. 
+How AR would fit into pinball is unclear.
+Expect to see the new tables maybe by the end of August 2020 given Zen’s usual track record with releases.
+
+=== 38:00 — Arcade 1UP Pinball update
+
+Jason Maddern from Arcade 1UP was on the job for the announcement.
+There will be a total of four haptic feedback mechanisms in the table: two at the flippers and two mid-field.
+Specifically, Jason announced that the feedback mechanisms will portray ball roll as well.
+
+That says to me that the haptic feedback mechanism will not be using solenoids. 
+Instead, the system will use transducers, which makes a lot more sense from a maintenance perspective.
+I go deep into this tech and it turns out this technology is fantastic. 
+Twitch user “davevp” confirmed that he installed exciters and bass transducers in his cabinets to replace the contactors (solenoids) as the feedback mechanism. 
+He couldn’t recommend them more strongly over solenoids, so that is good news!
+
+=== 47:00 — Alpha-numerics is now a “thing” in FX3
+
+This is terribly exciting news for the future of the platform. 
+Just imagine what tables this paves the way for in the game.
+Most importantly, there are so many System 9 and System 11 tables that didn’t make it into Pinball Arcade. 
+
+It was about 1986 when the first true alpha-numerics started to be released in numbers. 
+For the Zen audience, this era onwards seems to make the most sense to focus on.
+Now the ROM kinks have mostly been worked out for the tables and Zen has the workflows for production, lets hope that table releases start to flow more frequently.
+
+=== 58:52 — Stern soon?
+
+Yeah, probably not because Zen needs to exploit the Bally Williams license, right?
+They need to get the existing Bally Williams tables over into the product so they can get a return on their licensing investment.
+
+Stern also carries hefty licensing costs. 
+However, if the licensing costs also covered Zen original tables, that would be super cool.
+
+Let’s wait and see what Zen manages with the more heavily licensed tables in the Bally Williams era and then draw some conclusions based on evidence.
+It is possible that Stern will turn the corner on digital when they see how well the Arcade 1UP cabinets perform in the market.
+
+=== 65:00 — Linux is not a gaming platform
+
+I opened up a bit of a can ‘o’ worms when I rationally responded to someone asking for Linux Proton support for Zen Studios.
+The response I got was, well, interesting…
+
+http://www.digitalpinballfans.com/showthread.php/14177-Williams-Collection-Volume-6-guesses?p=294541&viewfull=1#post294541[DPF post on Williams Pinball Guesses^]
+
+Unfortunately, this is the reason why folks tend to shy away from Linux even though it is a great platform for development and open source communities. 
+And I know this because I used to work for Red Hat.
+
+Until folks can reliably connect a webcam and headset to common Linux distributions and it actually works the first time during a video call will be the time I change my tune about Linux as a platform that game companies should consider devoting resources to support.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

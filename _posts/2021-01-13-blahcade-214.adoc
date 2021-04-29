@@ -2,58 +2,103 @@
 layout: post
 title:  "BlahCade 214: We can’t just push reset?"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
-tags: [featured]
+categories: [episodes]
+image: assets/images/214-movie-theatre.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+This year has already started out a bit dodgy, but surely it can only get better starting from now.
 
-image::zen-epic.png[]
+In this episode, we ask a favor of YouTube content creators who received their pinball cabinets from At Games and Arcade 1UP.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+In other news we talk about real pinball and whether it is better to go with trying to touch-up a bad paint job, or whether you should just take a deep breath and sand off the playfield art so you can lay down what’s known as a “hard-top” playfield overlay.
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+To round out this episode Chris gives us his 2020 movie reviews and ratings and you might be surprised what gets into the Best Movie category this year.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::OY0-IPBALik[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/we-cant-just-push-reset-98832" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - We can't just push reset?
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 08:55 — Review frustrations and suggestions
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+We’re a bit frustrated by the reviews by other YouTubers for the AtGames and Arcade 1Up pinball cabinets because all they are doing is focusing on the hardware and not the software.
+Hopefully, our pleas will be answered and we’ll start getting some software-based reviews about what these cabinets are offering from their built-in titles compared with Steam.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+=== 19:08 — Concerns over solenoids versus transducers
 
-Download as many as you want now for free!
+video::H85TPOfnYZ4[youtube, width=560, height=315]
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+And speaking of hardware reviews, there is some debate on the lifecycle of the solenoids used in Arcade 1UP versus the transducers in AtGames.
+Solenoids (or contactors) as they are called in the pinball cabinet world are different beasts from regular flipper mechanisms. They are designed to run with little to no maintenance.
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+Arcade 1UP has positioned four contactor modules around the cabinet so you get a different sensation of where the hits are coming from on a table.
+AtGames have positioned their transducers right on the main control panel area with routed out holes so they are as close as possible to your hands.
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+Their design opted for two transducers instead of four. Is that going to be enough in comparison
+
+=== 30:00 — Focus on the software, dear content creators
+
+video::6acSL67OXKs[youtube, width=560, height=315]
+
+What is the aversion to focusing on the software being offered in these packages?
+
+What is the advantage of buying these machines when you can just play them in vertical mode through your PC?
+
+What we’d both like to see is a deep comparison of the software experience between the cabinets and Steam (or Android if that is considered closer).
+
+=== 31:00 — To paint or install a hardtop?
+
+video::7dJLKG2n1ds[youtube, width=560, height=315]
+
+Chris has a pretty hammered Firepower playfield. 
+Those who know this playfield know that it has tricky areas on it from a touch-up perspective.
+
+So Chris is pondering whether he should sand down the playfield to bare wood and then install what is basically a fancy playfield overlay on the top.
+
+http://www.planetarypinball.com/mm5/merchant.mvc?Screen=PROD&Product_Code=PPS-HTOP-FPOWER[Planetary Pinball has one for sale]
+
+Chris is daunted by the process, but just take a look at how well this guy does it!
+
+video::Ktli8NACmQ0[youtube, width=560, height=315]
+
+=== 52:15 — Chris’ movie list for 2020
+
+video::4hU20UtxOFI[youtube, width=560, height=315]
+
+Even though we went through one of the worst years for the movie industry, 2020 still had some great movies.
+Chris managed to watch a total of 86 movies. Sixteen movies on the lists were made specifically for Netflix. Chris only saw one of the 86 movies in the cinema, for obvious reasons.
+
+image::214-movie-theatre.jpeg[Photo by Felix Mooneeram on Unsplash]
+
+Most cinemas looked like this during 2020.
+
+Often the list is used by Chris to shop for BluRay that he wants to add to his collection, but not one movie got added to this list this year. 😢
+
+Listen in for the rest of the show for a pretty solid list of movies to check out on your streaming services.
+I even got to catch up on some movies this year so I had some opinions to offer in this segment. 
+I think this might’ve been a first since we started recording. 😜
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

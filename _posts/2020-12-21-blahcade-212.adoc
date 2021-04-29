@@ -2,58 +2,99 @@
 layout: post
 title:  "BlahCade 212: Let’s predict 2021"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
-tags: [featured]
+categories: [episodes]
+image: assets/images/212-containers.png
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+What is in store for us in 2021? Let's do some guessing.
 
-image::zen-epic.png[]
+It’s getting towards the end of what has been a pretty rough year in retrospect.
+As a glimmer of hope for the year ahead, we explore what the year 2021 might bring in the way of digital pinball enjoyment.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+There are three parts to this episode: 
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
+* Part one of the episode deals with near-reality in what we think will happen in 2021. 
 
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+* Part two goes hard into wild speculation territory. 
+
+* Part three looks at what tables from Zen we’d most like to see next year.
+
+Chris is also setting up a “Ten-minute Pinball” YouTube exclusive that you can be a part of.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::vc4lV5auqgk[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/lets-predict-2021-98425" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Let's predict 2021
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 07:40 — How you can get involved in ”Ten-minute pinball”
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+video::YS4bFBEBXi8[youtube, width=560, height=315]
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+Chris wants to do some live streaming of tables, where he plays for only 10 minutes.
 
-Download as many as you want now for free!
-
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
-
-.Google Drive FX Box Preview
 ++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yv88BY7xI1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ++++
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+=== 17:30 — Christmas container chaos casts doubt on yuletide pinball
+
+It’s the season for a thrilling conversation about Christmas lights.
+
+video::9B9WlL-vrmI[youtube, width=560, height=315]
+
+Oh, and how the cargo ship carrying Arcade 1Up pinball machines dumped 2000 containers into the ocean. Oops.
+
+image::212-containers.png[Image credit: https://gcaptain.com/estimated-1900-containers-lost-or-damaged-on-one-apus/]
+
+You can still buy a Toyshock, so if you need pinball under the tree then get your order in fast.
+
+=== 24:00 — Pinball predictions for 2021 (part one)
+
+In part 1 of 2, we make our predictions about what we think will be coming to digital pinball in the coming year.
+
+In this segment, you can expect near-certain to slightly fantastical predictions when guessing the future.
+
+video::sDsdD6pEG8Y[youtube, width=560, height=315]
+
+If you want wild speculation (a BlahCade specialty) about 2021 releases, check out part 2. Strictly “for amusement only”. 😉
+
+=== 34:00 — Pinball predictions for 2021 (part two)
+
+Part two of our pinball predictions for 2021 goes into pipe dream territory.
+
+video::GUhPMaHH9gk[youtube, width=560, height=315]
+
+I think the predictions Chris suggested were a little more logic-based than mine were, but even still we really did drift far from reality with these predictions.
+
+The odds of these coming true are slim to none, but they aren’t out of the realm of possibility either!
+
+=== 48:00 — Pinball FX3 table wishlist for 2021
+
+This segment focuses on what we would like to see come in as new tables for 2021.
+
+video::oEiiPtuQlKU[youtube, width=560, height=315]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

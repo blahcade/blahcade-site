@@ -1,0 +1,141 @@
+---
+layout: post
+title: "BlahCade 196: Zen about quarantine with Mel Kirk"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/196-fx3-logo-art.png
+tags: [featured]
+---
+
+Chris and I sit down with Mel Kirk of Zen Studios for a huge unpack of news about what’s happening now and in the future for Zen in 2020.
+
+This episode is completely dedicated to a long-overdue chat with Mel Kirk from Zen Studios.
+
+Mel was incredibly generous with his time and the information he was able to provide us about what the studio has been doing leading up to this point.
+It’s a fantastic hour filled with juicy tidbits of information that will surely serve as BlahCade Speculation material for episodes to come!
+
+== Watch and listen
+
+video::h5IcPVsy5Dk[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/zen-about-quarantine-with-mel-kirk-91980" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen about quarantine with Mel Kirk
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== 01:00 — How COVID-19 has affected game promotion
+
+Mel talks about the challenges of not having any trade shows, and how the shift to online may actually be a good thing.
+
+=== 04:15 — Do the non-pinball titles affect pinball releases
+
+Mel sets the record straight about how the three non-pinball releases operate independently from pinball.
+Not shipping a quarterly pinball release and working on the big picture, large projects means the studio remains strong.
+He also hints at big things to come this year, but more on this a bit later.
+
+=== 07:26 — How has Star Wars pinball helped sell titles on Nintendo Switch?
+
+In short, massively. 
+It is a gateway product for sure.
+
+=== 08:30 — What challenges did the studio face with making Williams Pinball?
+
+Varying mechanical quality tables were a bit of a challenge and also meeting community feedback about how tables play have been an ongoing discussion topic.
+Working out how to tune tables when no two tables play alike would be the hardest part for sure.
+Like Farsight Studios found, breaking down a table for digitisation has its challenges and take a long time to complete.
+Getting plastics clarity correct and implementing pro physics are also points that have caused many cycles.
+
+=== 14:45 — Censorship on consoles
+
+What can console owners expect when it comes to getting uncensored tables on consoles?
+ESRB 10+ is going to be around for a while until possibly the next batch of console platforms are released.
+
+=== 16:50 — Would Pinball 2000 be possible?
+
+These won’t be pursued in the short to medium term.
+
+=== 17:30 — Zen Pinball on mobile upgrade to FX3?
+
+Will the Zen Pinball app on mobile get an update?
+It probably won’t but that’s not necessarily a bad thing. The way mobile apps work now is that brands want exclusivity. So it will be less likely to get an update but perhaps we’ll see newer apps with more features? Time will tell.
+
+=== 20:00 — Williams Pinball app pricing and functionality
+
+Williams Pinball is by far the best platform as far as users come into the platform and begin spending.
+It turns out that the hardcore “let me buy it now” crowd makes up a very small percentage of the total mobile market.
+This is where the emerging subscription-based mobile gaming services come into play like Apple Arcade and Xbox Game Pass. You get to try the full game out and if you don’t like it you can pass it by.
+
+=== 24:00 — Pro physics and visual enhancements previews on mobile
+
+It turns out that most mobile app customers (like 99% of them) don’t like the Pro physics on mobile because they find it too difficult.
+The mobile apps therefore definitely are being played by a casual audience.
+Mel goes into details about how they are using AI technology to detect how people play, but all that gets undone when a pro player passes the phone to their kids. 😜
+
+=== 27:30 — Pinball cabinets and what lessons learnt there
+
+There is a sweet spot of how players choose digital tables on location. Mel goes into the details about their arcade-grade cabinets in casinos, kart racing, bar arcades and gives us some ideas about what data is doing to how they run their location business.
+The reception has been quite good, even from the hardcore pinball players.
+
+=== 32:00 — How cabinet support lead to Arcade 1UP
+
+Mel shares how offering cabinet support has lead the studio down the path of physical retail and site-based pinball machines.
+He shares the motivation behind going all-in on the cabinet route and what it could mean for the studio.
+The cabinets are still going through many iterations of real-life testing in the studio and the final hardware configuration is still under review. 
+For example not accepting anything below 50 frames a second (ideally 60) with a baseline level of graphics.
+
+Backglasses appear to be getting tested out (see about 54:00 in the episode) but there is no certainty whether it will appear in the final build based on how much it would cost to drive it all.
+
+Online play is not likely to be available when the cabinets are first released, but in what’s being called “Gen 2” there will be a massive online community feature being added to the cabinets that will change the way you play pinball. 
+This sounds like it is going to be less about hardware changes but more about software rollouts over Wi-Fi.
+
+Mel is being deliberately coy about what the button layouts will be, and whether cabinets will have plungers. 
+He’s not going to tell us anything until the product is in the box. Wise decision.
+With Mel’s pedigree in hardware (he used to work at RedOctane who produced controllers) I’m sure we’re in good hands on the hardware side.
+
+=== 40:00 — Will there be opportunities for cross-licensing deals?
+
+Will Arcade 1UP and Zen Studios be able to combine their licensing efforts to go after licensing deals that would have been unobtainable if they went about it separately.
+The answer is “yes” which is incredibly exciting for both parties.
+Zen really is “driving the entire pinball software space right now”.
+
+=== 42:00 — Head-to-head style pinball in FX3
+
+Mel releases a prepared statement about this which you will want to hear.
+Not because it is full of juicy details, but because it was a prepared statement. 😉
+
+=== 44:00 — Five years ago now looks quaint in the pinball industry
+
+Pinball has been around longer than most of us have been alive, and Mel thinks that Asia feels like it could be a huge market moving forward. 
+China market is bigger than North America and European markets combined!
+But the way pinball is offered in the Chinese market needs to change to suit these markets. So take from that what you will. 😃
+
+Zen released Pinball FX back in 2007 and for a long time, it was the top-performing game for years (usurped by Minecraft).
+There are many game monetisation strategies that have actually been patterned by things that the studio did first.
+
+=== 50:30 — Controller support for iOS
+
+It is not on the studio’s immediate radar but there is the subject of Apple Arcade being supported… You do the math. 😉
+
+=== 52:30 — Bespoke tournaments on FX3
+
+Could the Reddit tournament format be added to FX3?
+Well, Mel had another statement to read us, which makes us wonder…
+There’s also some remainders at the end of this segment that are worth tuning in for.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

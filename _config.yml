@@ -19,9 +19,9 @@ authors:
   chris:
     name: Chris Friebus
     site: 
-    avatar: assets/images/chris.jpg
+    avatar: assets/images/chris.png
     bio: >-
-      Co-host of the BlahCade Pinball Podcast, camera assistant for TV & film, wannabe screenwriter.
+      Camera assistant for TV & film, wannabe screenwriter.
     email: shutyertraps@gmail.com
     twitter: 'https://twitter.com/shutyertraps'
   jared:
@@ -29,7 +29,7 @@ authors:
     site: 'https://jaredleonmorgan.net'
     avatar: assets/images/jared.jpg
     bio: >-
-      Co-host of the BlahCade Pinball Podcast, Technical Writer, VR junkie.
+      Technical writer, product person, VR junkie.
     email: jaredleonmorgan@gmail.com
     twitter: 'https://twitter.com/jaredmorgs'
 defaults:
@@ -56,4 +56,4 @@ exclude:
   - Gruntfile.js
   - Gruntfile.coffee
   - node_modules
-url: ''
+url: 'https://www.blahcadepinball.com'

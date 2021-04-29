@@ -2,58 +2,99 @@
 layout: post
 title:  "BlahCade 216: Zen Pinball FX News Unpacked"
 author: jared
-categories: [ episodes ]
-image: assets/images/zen-epic.png
-tags: [featured]
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpeg
 ---
 
-In Zen’s _The Pinball Show Ep. 3_, Mel Kirk sat down with Bobby and they talked more about Pinball FX, including some hard questions that they knew they’d need to tackle eventually.
+Zen Studios announced that they will be releasing a brand new Pinball FX app this year. 
 
-image::zen-epic.png[]
+Not Pinball FX4, just Pinball FX.
 
-The biggest news is that the Pinball FX platform is going to be an Epic Game Store exclusive for one year, and you will need to re-buy all your tables.
+image::216-pinballfx-logo.jpeg[The new Pinball FX logo]
 
-video::azXRN_Bqcmc[youtube, width=560, height=315]
-
-It’s worth breaking down some of the points that Mel raised and extrapolate upon them because you might have missed some of the contexts due to information overload.
+There is only one thing we can do with news like this: tease it apart and analyze the inside line of the news.
 
 == Watch and listen
 
-video::jt_q174Ys5Q[youtube, width=560, height=315]
+video::_IU_RCOl83w[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/reacting-to-epic-pinball-fx-news-100219" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Reacting to Epic Pinball FX News
+<a href="https://shoutengine.com/BlahCadePodcast/zen-pinball-fx-news-unpacked-99295" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen Pinball FX News Unpacked
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
-We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts].
 
-Don't forget to leave us a review: we really apprreciate you doing it!
+Don't forget to leave us a review: we really appreciate you doing it!
 
 == Show notes
 
-This episode summary is a bit different from the other ones we typically put out.
-You won’t see any real timing points here because if we added these in you might be tempted to jump to them and miss all the context before it.
+=== 01:00 — Intro and show errata
 
-Because we are breaking down quotes from an interview, you need to listen to the overall flow to get what we’re talking about.
-So sit back, relax, and listen with an open mind and ear. 
-If anything resonates with you let us know in either the YouTube comments or send us an email to the show. The link to the show is in the <<watch-and-listen>> section.
+Just a few corrections to the last episode relating to VR. We missed some stuff and also done goofed in parts. Here is where we set it straight.
 
-== Pinball FX3 Backbox Cabinet Mode Art 
+=== 06:30— The Pinball Show premieres
 
-Download as many as you want now for free!
+Zen Studios has its own show now called The Pinball Show.
 
-.This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
-image::afm-backglass.png[Attack From Mars backglass image]
+video::_IU_RCOl83w[youtube, width=560, height=315]
 
-.Google Drive FX Box Preview
-++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
-++++
+In this segment, we just make a point about news format shows like The Pinball Show and how news is released in this format.
 
-Don't forget to donate to the show if you use them in your build. 
-And make sure you send us pics! 
+=== 12:00 — The Announcement
+
+The Pinball Show had Mel Kirk on and they interviewed him about Pinball FX and what it’s all about.
+
+video::CtDB12Z4X1U[youtube, width=560, height=315]
+
+We break down each part of the interview and comment individually.
+
+=== 24:30 — Backwards compatibility and new IPs
+
+A big question among owners of FX3 is whether their tables purchases will transfer to the new platform, and what devices the game is even going to be released on.
+
+video::CNUEqbUkE4s[youtube, width=560, height=315]
+
+Based on what Mel Kirk says, we speculate why the licensors probably want you to repurchase, even if Zen doesn’t.
+
+Mel also confirmed that there will be a heap of new IPs in Pinball FX this year, including an additional Star Wars table announced in the next show.
+
+News about physics as well. 😉
+
+=== 41:00 — New engine and physics across all tables
+
+Why is a new engine good news for consumers?
+
+video::Q6vknXaw_-0[youtube, width=560, height=315]
+
+It means easier and faster game development and better quality control for cross-platform releases.
+But it might also mean better opportunities with Arcade 1UP with more advanced pinball titles.
+
+=== 49:00 — Battle Royale
+
+The single biggest addition to the game will be Pinball Royale, an online multiplayer battle royale style game.
+
+video::PNQAbcvcWUg[youtube, width=560, height=315]
+
+Zen is looking to get in the Fortnite, PUBG, Rocket League market with a heavy influence on Tetris 99.
+
+If you’ve not seen this game, it looks a bit like this.
+
+image::216-tetris99.jpeg[Tetris 99 screenshot]
+
+Mel confirmed that they took a lot of inspiration from the mechanics of Tetris 99 so this could be a lot of fun.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
