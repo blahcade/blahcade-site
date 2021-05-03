@@ -1,0 +1,136 @@
+---
+layout: post
+title:  "BlahCade 221: Speculation a-go-go"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [sticky, featured]
+---
+
+
+
+== Watch and listen
+
+video::Bw5NaKAjY6A[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== 00:37 - New URL and site
+
+So, Medium decided to put the BlahCade account into jail, so this segment describes just how much chaos this has caused the show.
+
+We're now using this awesome service called https://stackbit.com[^] to manage the show site. 
+It's free and uses leading static site generators to make an awesome looking site.
+
+=== 09:00 - Shoutout to renderforest
+
+With what happened with the domain name change, we had a problem. 
+The video we created using https://www.renderforest.com/[^] now had the old URL in it. 
+And it looked like we would have to pay again just to change the URL in the video.
+
+But Renderforest were awesome and within about 10 minutes they had the link changed for us. 
+Amazing service!
+Check them out if you need an intro video done.
+
+=== 12:55 - Don't scrimp on office furniture
+
+Chris recounts a sorry tale of buying office furniture online. 
+He learnt his lesson that you don't scrimp on office furniture and you should buy in-store so your bum and back can feel what it's like. 
+
+Chairs are like shoes: you need to try them before you buy.
+
+=== 16:50 - Cabinet shenanigans
+
+It turns out that folks who ordered through Sam's club are not getting the second box delivered. 
+Worse still, the second box "doesn't exist" and the only recourse is to either return the box or keep it.
+
+That is ridiculous!
+
+There also seems to be a price hike on Arcade 1UP pinball cabinets.
+GameStop also seems to have inexplicitly raised the price of the cabinets to quite a bit more than the RRP set by Arcade 1UP.
+
+So it looks like my initial prediction of Wave 2 Arcade 1UP being ready by the 2021 holidays is blown out of the water. 
+
+=== 27:00 - Arcade 1UP pinball software update
+
+The community has made it abundantly clear that there are some bugs in the Wave 1 cabinets. 
+So is there a chance that these cabinets are going to see an updated 
+
+== 30:00 - Fix your miscalibrated tilt on Arcade 1UP pinball
+
+If you are having issues with your Arcade 1UP pinball like sensitive tilt you can enter a special button combo to get access to a secret menu. I speculate that this menu is used to calibrate the machines in the factory.
+
+To diagnose a miscalibrated accellerometer:
+
+. Turn on the machine and immediately hold *Right flipper + Launch + Left settings button*.
+
+. Keep holding these buttons until the diagnostic screen loads.
+
+. Press *Launch* to cycle through the calibration screens until you get to the *Axis* screen (this is the one with the a, z, y, x scale)
+
+If the calibration dot is moving around the screen while you are not touching it, you have a calibration issue.
+The dot should be stable in the center.
+
+To recalibrate a miscalibrated accellerometer:
+
+. Keep the power on while doing these steps.
+
+. Level the machine using the leg adjusters.
+
+. Unscrew the lock bar and side bars.
+
+. Lift the playfield and locate the small green circuit board on the front middle of the machine.
+
+. Check that the board is screwed firmly into the cabinet (don't overtighten the screw).
+
+. Unplug the connector cable then plug it back in again.
+
+. Make sure it is tight then unplug the pin cable and plug back in. 
+
+. Turn off machine, then use the button combo to enter the secret menu. 
+
+. If the dot has stopped moving randomly around you have most likely fixed the issue.
+
+. Progress through all the settings to finish the calibration and save the configuration values. 
+
+These steps reportedly fixed the tilt issue a Facebook user reported. 
+
+== 31:00 - Speculation: What will Zen Studios release before the end of 2021
+
+This is the meaty part of the episode.
+In this segment we break down some of the info that Mel divulged in last episode's interview.
+
+We talk about how they might release the games leading up to the launch of Pinball FX later this year.
+Along with this line of thinking we also look at the platforms they may look at releasing on.
+
+Could we see an early experiment in the wild, as Zen is famous for doing.
+
+== 55:00 - VR content speculation
+
+Will we see the other packs coming out for the Star Wars Pinball VR game on Steam VR, Oculus Quest and PlayStation VR this year?
+
+Remember that the licensors see VR as a totally different platform, so there is no "click of the fingers" switch like there is in Zaccaria Pinball.
+
+With this in mind, could we see a Marvel Pinball VR release _as well as_ a Marvel Pinball Switch version as part of a release campaign?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

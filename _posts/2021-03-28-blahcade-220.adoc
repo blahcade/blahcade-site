@@ -4,7 +4,6 @@ title:  "BlahCade 220: Mel Kirk interview for Spring 2021"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/219-zen-epic.png
-tags: [sticky, featured]
 ---
 
 This episode is a massive interview with Mel Kirk, COO of Zen Studios.
