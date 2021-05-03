@@ -10,7 +10,7 @@ tags: [sticky, featured]
 Mel Kirk gave us a lot to think about in the interview he did in Episode 220. 
 As is tradition on the show, we go into deep speculation mode and try to work out what games might be released in 2021 from Zen Studios.
 
-We also announce a new website, and go into why this was necessary.
+We also announce a new website and go into why this was necessary.
 
 == Watch and listen
 
@@ -36,7 +36,7 @@ Don't forget to leave us a review: we really appreciate you doing it!
 So, Medium decided to put the BlahCade account into jail, so this segment describes just how much chaos this has caused the show.
 
 We're now using this awesome service called https://stackbit.com[^] to manage the show site. 
-It's free and uses leading static site generators to make an awesome looking site.
+It's free and uses leading static site generators to make an awesome-looking site.
 
 === 09:00 - Renderforest are good eggs
 
@@ -44,16 +44,16 @@ With what happened with the domain name change, we had a problem.
 The video we created using https://www.renderforest.com/[^] now had the old URL in it. 
 And it looked like we would have to pay again just to change the URL in the video.
 
-But Renderforest were awesome and within about 10 minutes they had the link changed for us. 
+But Renderforest was awesome and within about 10 minutes they had the link changed for us. 
 Amazing service!
 Check them out if you need an intro video done.
 
 === 12:55 - Don't scrimp on office furniture
 
 Chris recounts a sorry tale of buying office furniture online. 
-He learnt his lesson that you don't scrimp on office furniture and you should buy in-store so your bum and back can feel what it's like. 
+He learned his lesson that you don't scrimp on office furniture and you should buy in-store so your bum and back can feel what it's like. 
 
-Chairs are like shoes: you need to try them before you buy.
+Chairs are like shoes: you need to try them before you buy them.
 
 === 16:50 - Pinball cabinet shenanigans
 
@@ -64,20 +64,19 @@ That is ridiculous!
 There also seems to be a price hike on Arcade 1UP pinball cabinets.
 GameStop also seems to have inexplicitly raised the price of the cabinets to quite a bit more than the RRP set by Arcade 1UP.
 
-So it looks like Jared's initial prediction of Wave 2 Arcade 1UP being ready by the 2021 holidays is blown out of the water. 
+So it looks like my initial prediction of Wave 2 Arcade 1UP being ready by the 2021 holidays is blown out of the water. 
 
 === 27:00 - Arcade 1UP pinball software update
 
 The community has made it abundantly clear that there are some bugs in the Wave 1 cabinets. 
-So is there a chance that these cabinets are going to see an updated patch any time soon. 
+So is there a chance that these cabinets are going to see an updated patch any time soon? 
 We speculate on what that might look like and when it might be.
 
 == 30:00 - Fix your miscalibrated tilt on Arcade 1UP pinball
 
-If you are having issues with your Arcade 1UP pinball like sensitive tilt you can enter a special button combo to get access to a secret menu. 
-Jared speculates that this Quality Check menu is used to calibrate the machines in the factory.
+If you are having issues with your Arcade 1UP pinball, such as a sensitive tilt sensor you can enter a special button combo to get access to a secret menu. 
 
-To diagnose a miscalibrated accellerometer:
+To diagnose a miscalibrated accelerometer:
 
 . Turn on the machine and immediately hold *Right flipper + Launch + Left settings button*.
 
@@ -88,13 +87,13 @@ To diagnose a miscalibrated accellerometer:
 If the calibration dot is moving around the screen while you are not touching it, you have a calibration issue.
 The dot should be stable in the center.
 
-To recalibrate a miscalibrated accellerometer:
+To recalibrate a miscalibrated accelerometer:
 
 . Keep the power on while doing these steps.
 
 . Level the machine using the leg adjusters.
 
-. Unscrew the lock bar and side bars.
+. Unscrew the lock bar and sidebars.
 
 . Lift the playfield and locate the small green circuit board on the front middle of the machine.
 
@@ -102,9 +101,9 @@ To recalibrate a miscalibrated accellerometer:
 
 . Unplug the connector cable then plug it back in again.
 
-. Make sure it is tight then unplug the pin cable and plug back in. 
+. Make sure it is tight then unplug the pin cable and plug it back in. 
 
-. Turn off machine, then use the button combo to enter the secret menu. 
+. Turn off the machine, then use the button combo to enter the secret menu. 
 
 . If the dot has stopped moving randomly around you have most likely fixed the issue.
 
@@ -115,18 +114,18 @@ These steps reportedly fixed the tilt issue a Facebook user reported.
 == 31:00 - Speculation: What will Zen Studios release before the end of 2021
 
 This is the meaty part of the episode.
-In this segment we break down some of the info that Mel divulged in last episode's interview.
+In this segment, we break down some of the info that Mel divulged in the last episode's interview.
 
 We talk about how they might release the games leading up to the launch of Pinball FX later this year.
-Along with this line of thinking we also look at the platforms they may look at releasing on.
+Along with this line of thinking, we also look at the platforms they may look at releasing on.
 
 Could we see an early experiment in the wild, as Zen is famous for doing?
 
 == 55:00 - Speculation: VR content and releases
 
-Will we see the other packs coming out for the Star Wars Pinball VR game on Steam VR, Oculus Quest and PlayStation VR this year?
+Will we see the other packs coming out for the Star Wars Pinball VR game on Steam VR, Oculus Quest, and PlayStation VR this year?
 
-Remember that the licensors see VR as a totally different platform, so there is no "click of the fingers" switch like there is in Zaccaria Pinball.
+Remember that the licensors see VR as a different platform, so there is no "click of the fingers" switch like there is in Zaccaria Pinball.
 
 With this in mind, could we see a Marvel Pinball VR release _as well as_ a Marvel Pinball Switch version as part of a release campaign?
 
