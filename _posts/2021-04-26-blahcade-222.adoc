@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "BlahCade 221: Speculation a-go-go"
+title:  "BlahCade 222: Speculation a-go-go"
 author: jared
 categories: [episodes]
 image: assets/images/216-pinballfx-logo.jpeg
+tags: [sticky, featured]
 ---
 
 Mel Kirk gave us a lot to think about in the interview he did in Episode 220. 
