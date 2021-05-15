@@ -1,0 +1,141 @@
+---
+layout: post
+title:  "BlahCade 222: Star Wars Pinball VR analysis"
+author: jared
+categories: [episodes]
+image: assets/images/218-swpvr.png
+tags: [sticky, featured]
+---
+
+
+Mel Kirk gave us a lot to think about in the interview he did in Episode 220. 
+As is tradition on the show, we go into deep speculation mode and try to work out what games might be released in 2021 from Zen Studios.
+
+We also announce a new website and go into why this was necessary.
+
+== Watch and listen
+
+video::zlhewraA7MU[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/speculation-a-go-go-100903" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Speculation a-go-go
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== 01:00 - Cut the cable
+
+Chris has given up on cable TV and is now a streaming subscriber.
+It turns out that Netflix is king.
+
+=== 04:40 - Stern's Mandalorian physical table
+
+Stern announced that they will release a Mandalorian pinball machine.
+This is interesting because both tables from Zen and Stern were in development concurrently. 
+
+Who will make the better table?
+Who's layout will reign supreme.
+
+=== 08:40 - Pinball toppers we'd want to own
+
+If you have a Stargate machine, we've found the ultimate topper. 
+
+https://hackaday.com/2021/03/09/amazing-starg%E1%90%B0te-with-dhd-and-infinity-mirror-wormhole/
+
+image::222-stargate-topper.png[Stargate portal Hackaday project]
+
+It turns out that this thing of beauty is about the same price as what Stern is charging for their pretty average toppers.
+
+=== 13:00 - Arcooda has woken up again
+
+Arcooda has started a concerted Twitter campaign to educate us all about the history of the company leading up to a big announcement.
+
+There are definitely some great features offered in their Mercury 2.0 machine they revealed at the time of recording, so perhaps the wait will be worth it.
+
+=== 21:00 - Haggis pinball announced _Fathom Revisited_
+
+Australian company Haggis Pinball announced that they will reproduce Bally Pinball's _Fathom_ in a new _Revisited_ package.
+
+image::222-fathom-revisited.png[The Fathom Revisited flyer]
+
+There are two variants:
+
+* Classic (US$7,360)
+* Mermaid (US$8,900)
+
+It is beautiful, but costly when compared with Stern pinball prices.
+
+=== 25:00 - Star Wars Pinball VR review
+
+video::zlhewraA7MU[youtube, width=560, height=315]
+
+We have been playing Star Wars Pinball VR (SWPVR) long enough now that we feel it's time to give our review on the latest VR game from Zen Studios.
+
+This review is going to be different from most other reviews out there at the moment.
+We compare the VR experience in FX2VR with SWPVR and explore the actual _experience_ of being in the VR environment.
+Chris also covers some quality of life issues with using the PinSim controller for VR and how it differs in experience quality between FX2VR and SWPVR.
+
+We also cover the new tables _The Mandalorian_ and _Star Wars Collectibles_ and go into detail about those two tables in particular. 
+There is definitely a gameplay difference between the two, and that comes down to the designers responsible for each table.
+
+At the time of reviewing the game, there are definitely some things that need to be improved such as aliasing and sharpness. 
+The good news is that these issues are correctible with a patch, so we'll just have to wait.
+
+We both agree that besides the current graphical issues, the game is playable right now.
+It will change the way you experience these tables and I would say you won't want to play them on a flat-screen again. 
+
+Head out and get it now:
+
+* https://store.steampowered.com/app/1530770/Star_Wars_Pinball_VR/[Star Wars Pinball VR on Steam VR]
+
+* https://www.oculus.com/experiences/quest/3180994211970184/?locale=en_US[Star Wars Pinball VR on Oculus Store]
+
+* https://store.playstation.com/en-us/product/UP4042-CUSA27137_00-2555967245711676[Star Wars Pinball VR on PlayStation Store]
+
+=== 58:30 - Post-review thoughts
+
+Now the review is in the bag Chris and I go into some of the more in-depth issues we didn't want to cover within the scope of the review.
+
+Chris goes into details about the PinSim and some secret codes you can use to interact with VR with this controller.
+The issues with cabinet height variances really make using the PinSim difficult, which really can only be described as a regression in functionality between FX2VR and SWPVR.
+
+Not being able to remap buttons is a real problem for PinSim users.
+In FX2VR the *Reset view* button was available on the btn:[B] button but not in SWPVR.
+Because you can't remap the buttons, it makes it hard for people using different controllers.
+
+The graphical differences between the SteamVR and Oculus version are surprisingly not that different.
+This has sparked some controversy on the forums that the SteamVR version is using a "mobile build". 
+I don't think this is the case. I think it is more a case of offering all users a similar experience across all platforms.
+
+The other thing missing seems to be Williams physics on the _Star Wars Collectibles_. 
+Neither Chris nor I can work out why the Collectibles table is missing the Williams physics, and we can only think that the designer Zoltan stamped his foot down and said "no". 
+Hopefully, they sort this out in future releases.
+
+The disparity between gameplay clarity (that is, clearly defined goals and flow) is like night and day between Mando and Collectibles. 
+We cover the differences between the gameplay experience between the tables and try to offer some constructive criticism about improving it.
+
+=== 1:20:00 - Other table comments and what's next
+
+We quickly blast through the rest of the tables and work out whether they benefit from VR adaptation.
+
+Then we put our wishlist in for what other Star Wars tables would really benefit from a VR adaptation.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
