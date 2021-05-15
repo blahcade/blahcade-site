@@ -10,6 +10,8 @@ tags: [sticky, featured]
 
 Now that Chris and I have both played Star Wars Pinball VR (SWPVR) extensively, we wanted to provide a different perspective on the game for people who are on the fence about getting it.
 
+After we get the review in the bag we talk about the other aspects of SWPVR that didn't really fit in the scope of the review but are important enough that they deserve a mention.
+
 == Watch and listen
 
 video::zlhewraA7MU[youtube, width=560, height=315]
@@ -18,7 +20,7 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/speculation-a-go-go-100903" data-width="100%" class="shoutEngineEmbed">
+<a href="https://shoutengine.com/BlahCadePodcast/star-wars-pinball-vr-analysis-101138" data-width="100%" class="shoutEngineEmbed">
 BlahCade Podcast - Speculation a-go-go
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
