@@ -6,12 +6,9 @@ categories: [episodes]
 image: assets/images/218-swpvr.png
 tags: [sticky, featured]
 ---
+:experimental:
 
-
-Mel Kirk gave us a lot to think about in the interview he did in Episode 220. 
-As is tradition on the show, we go into deep speculation mode and try to work out what games might be released in 2021 from Zen Studios.
-
-We also announce a new website and go into why this was necessary.
+Now that Chris and I have both played Star Wars Pinball VR (SWPVR) extensively, we wanted to provide a different perspective on the game for people who are on the fence about getting it.
 
 == Watch and listen
 
@@ -65,7 +62,7 @@ There are definitely some great features offered in their Mercury 2.0 machine th
 
 Australian company Haggis Pinball announced that they will reproduce Bally Pinball's _Fathom_ in a new _Revisited_ package.
 
-image::222-fathom-revisited.png[The Fathom Revisited flyer]
+image::222-fathom-revisited.jpg[The Fathom Revisited flyer]
 
 There are two variants:
 
