@@ -4,10 +4,9 @@ title:  "BlahCade 222: Star Wars Pinball VR analysis"
 author: jared
 categories: [episodes]
 image: assets/images/218-swpvr.png
-tags: [sticky, featured]
 ---
 :experimental:
-
+                                                                                                          
 Now that Chris and I have both played Star Wars Pinball VR (SWPVR) extensively, we wanted to provide a different perspective on the game for people who are on the fence about getting it.
 
 After we get the review in the bag we talk about the other aspects of SWPVR that didn't really fit in the scope of the review but are important enough that they deserve a mention.

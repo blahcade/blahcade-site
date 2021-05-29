@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "BlahCade 223: Mando vs Mando"
+author: jared
+categories: [episodes]
+image: assets/images/223-mandalorian.png
+tags: [sticky, featured]
+---
+:experimental:
+                                                                                                          
+Stern announced that they will release a Mandalorian pinball machine.
+This is interesting because both tables from Zen and Stern were in development concurrently. 
+
+Who will make the better table?
+Who's layout will reign supreme.
+
+== Watch and listen
+
+video::zlhewraA7MU[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/star-wars-pinball-vr-analysis-101138" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Speculation a-go-go
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== 03:00 - Zen's _The Mandalorian_ table shot layout
+
+In this section we talk through the shots available to you and a few top-level ideas about what feels lacking.
+
+image::223-mandalorian.jpg[Image of the Mandalorian table with the full view displayed and some of the fancave furniture]
+
+=== 19:45 - Zen's inspiration for the Mandalorian
+
+There is a lot of Bally's _The Twilight Zone_ in this table. 
+Both in layout and in it's sheer brutality. 
+
+Slingshots are death, centre lane is dicing with death, even certain catches are death. 
+Make sure you keep those kickbacks lit, or learn to do some live catches.
+
+You know its hard when you can barely get up to the third mode.
+
+Keep this brutality up in the table design, Zen. It's fantastic!
+
+=== 28:50 - What could Zen inprove with the Mandalorian
+
+When this game released, I was surprised to see the monochrome DMD featuring on the tables.
+
+There is also a distinct lack of chrome showing on the Razorcrest.
+
+The other thing that is really missing is lights and flashers. 
+There are no real bright light sources on this table, and it therefore looks a bit flat in its presentation.
+More chrome, more bling, more lightshows. 
+
+Lets hope we see a texture bump and lightshow revamp prior to it releasing on Pinball FX later in the year.
+
+I also hope that Zen starts to treat their table code like Stern does with their game code. 
+Make the tables evolve and grow over time so they become fully fleshed out and deep in their rulesets. 
+
+=== 36:00 - Mando vs Mando 
+
+Many of the suggestions we have to offer for Zen seem to be incorporated into Stern's take on the franchise.
+
+image::223-mandalorian-stern.jpg[Top-down playfield image of Stern's The Mandalorian premium playfield layout]
+
+Plenty of lights and bright graphics on the table, and a fantastic lightshow implemented on the table.
+
+In the YouTube video we do a side-by-side comparison between Zen and Stern and check the feature comparison.
+
+We also noted a distinct difference in the characters featured on the playfield, which we discuss in context of vetoes and brand control.
+
+The way the missions play out across the tables is quite unique. Zen seems to be leaning into a guided story mode, whereas Stern is all about letting you choose how to progress through the game.
+
+=== 51:00 - Closing thoughts
+
+We summarise what we think Zen could take from Stern:
+
+* Colour DMD
+* RGB lights
+* Faceted inserts
+* Maybe ditch the carboard cutouts and put in 3D models: bash toys.
+
+And a note from Chris for the fancave: a branded clock!
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
