@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "BlahCade 223: Mando vs Mando"
+title:  "BlahCade 223: Mando vs. Mando"
 author: jared
 categories: [episodes]
-image: assets/images/223-mandalorian.png
+image: assets/images/223-mandalorian.jpg
 tags: [sticky, featured]
 ---
 :experimental:
@@ -11,18 +11,18 @@ tags: [sticky, featured]
 Stern announced that they will release a Mandalorian pinball machine.
 This is interesting because both tables from Zen and Stern were in development concurrently. 
 
-Who will make the better table?
-Who's layout will reign supreme.
+We start by comparing Zen's table first and describe the pros and cons for you to consider. 
+Then it is time to take a look at Stern's version and talk through what Zen could learn from the way Stern builds a _world under glass_.
 
 == Watch and listen
 
-video::zlhewraA7MU[youtube, width=560, height=315]
+video::s6bcxibmmaI[youtube, width=560, height=315]
 
-You can jump straight to any BlahCade Minis in the <<show-notes>> section.
+You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/star-wars-pinball-vr-analysis-101138" data-width="100%" class="shoutEngineEmbed">
+<a href="https://shoutengine.com/BlahCadePodcast/mando-vs-mando-101366" data-width="100%" class="shoutEngineEmbed">
 BlahCade Podcast - Speculation a-go-go
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
@@ -35,48 +35,47 @@ Don't forget to leave us a review: we really appreciate you doing it!
 
 === 03:00 - Zen's _The Mandalorian_ table shot layout
 
-In this section we talk through the shots available to you and a few top-level ideas about what feels lacking.
+In this section, Chris and I talk through the shots available to you and a few top-level ideas about what feels lacking.
 
-image::223-mandalorian.jpg[Image of the Mandalorian table with the full view displayed and some of the fancave furniture]
+image::223-mandalorian.jpg[Image of the Mandalorian table with the full view displayed and some of the fan cave furniture]
 
 === 19:45 - Zen's inspiration for the Mandalorian
 
-There is a lot of Bally's _The Twilight Zone_ in this table. 
-Both in layout and in it's sheer brutality. 
+There is a lot of Bally's _The Twilight Zone_ in this table: both in layout and sheer brutality. 
 
-Slingshots are death, centre lane is dicing with death, even certain catches are death. 
-Make sure you keep those kickbacks lit, or learn to do some live catches.
+Slingshots are death, the center lane is dicing with death, even certain catches are death. 
+Make sure you keep those kickbacks lit or learn to do some live catches.
 
-You know its hard when you can barely get up to the third mode.
+You know it's hard when you can barely get up to the third mode.
 
 Keep this brutality up in the table design, Zen. It's fantastic!
 
-=== 28:50 - What could Zen inprove with the Mandalorian
+=== 28:50 - What could Zen improve with the Mandalorian
 
-When this game released, I was surprised to see the monochrome DMD featuring on the tables.
+When this game was released, I was surprised to see the monochrome DMD featuring on the tables.
 
 There is also a distinct lack of chrome showing on the Razorcrest.
 
 The other thing that is really missing is lights and flashers. 
-There are no real bright light sources on this table, and it therefore looks a bit flat in its presentation.
-More chrome, more bling, more lightshows. 
+There are no real bright light sources on this table, and it, therefore, looks a bit flat in its presentation.
+This table really needs more chrome, more bling, and more light shows. 
 
-Lets hope we see a texture bump and lightshow revamp prior to it releasing on Pinball FX later in the year.
+Let's hope we see a texture bump and light show revamp before releasing on Pinball FX later in the year.
 
 I also hope that Zen starts to treat their table code like Stern does with their game code. 
-Make the tables evolve and grow over time so they become fully fleshed out and deep in their rulesets. 
+Make the tables evolve and grow over time, so they become fully fleshed out and deep in their rulesets. 
 
 === 36:00 - Mando vs Mando 
 
-Many of the suggestions we have to offer for Zen seem to be incorporated into Stern's take on the franchise.
+Many of the suggestions we have to offer for Zen seem to be addressed in Stern's take on the franchise.
 
 image::223-mandalorian-stern.jpg[Top-down playfield image of Stern's The Mandalorian premium playfield layout]
 
-Plenty of lights and bright graphics on the table, and a fantastic lightshow implemented on the table.
+There are plenty of lights and bright graphics on the table, and a fantastic light show is implemented on the table.
 
-In the YouTube video we do a side-by-side comparison between Zen and Stern and check the feature comparison.
+In the YouTube video, we make a side-by-side comparison between Zen and Stern and check the feature comparison.
 
-We also noted a distinct difference in the characters featured on the playfield, which we discuss in context of vetoes and brand control.
+We also noted a distinct difference in the characters featured on the playfield, which we discuss in the context of vetoes and brand control.
 
 The way the missions play out across the tables is quite unique. Zen seems to be leaning into a guided story mode, whereas Stern is all about letting you choose how to progress through the game.
 
@@ -87,9 +86,9 @@ We summarise what we think Zen could take from Stern:
 * Colour DMD
 * RGB lights
 * Faceted inserts
-* Maybe ditch the carboard cutouts and put in 3D models: bash toys.
+* Maybe ditch the cardboard cutouts and put in 3D models: bash toys.
 
-And a note from Chris for the fancave: a branded clock!
+And a note from Chris for the fan cave: a branded clock!
 
 == Thanks for listening
 
