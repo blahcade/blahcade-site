@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "BlahCade 224: Zen Original Sneak Peek"
+author: jared
+categories: [episodes]
+image: assets/images/224-han-solo.png
+tags: [sticky, featured]
+---
+:experimental:
+
+Zen Studios dropped a pleasant surprise on their VR customers recently with a free table: Han Solo.
+
+We take a good hard look at _Han Solo_ in VR and discuss what frustrates us about the table. 
+While that may sound negative, we really want to make a case for making some improvements to the rules and gameplay aspects of this game, so it becomes more enjoyable to play.
+
+Zen Studios has also been teasing some new table designs due to be released with Pinball FX later in 2021. 
+We take a closer look at these and offer our two cents worth. 
+
+== Watch and listen
+
+video::Sf89w4bWi74[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/mando-vs-mando-101366" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Speculation a-go-go
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we really appreciate you doing it!
+
+== Show notes
+
+=== 03:00 - Han Solo in Star Wars Pinball VR is Free!
+
+Zen Studios announced that they added another Star Wars pinball table to the Star Wars Pinball VR game. 
+
+image::224-han-solo.jpg[Image of Chewie standing next to the Han Solo pinball table, with his arms raised looking hairy.]
+
+Yep, Han Solo is in the game now, and it is a welcome addition.
+Well, it is, and it isn't. 
+
+This game has been remastered in Unreal Engine, and there appear to be a few issues with flipper timing. 
+The way the balls eject from the saucers on this table is so difficult to dial in.
+Compare how it plays on FX3, and the difference is night and day.
+
+The table has been added without any rule changes, which means that it is still a "spellathon" game, where you have to shoot ramps multiple times to light the table's modes. 
+It seems to be a favorite trope of the table designer Zoltan Vari, and both Chris and I are really tired of it.
+
+Stern did this during the 2000s because of severe budget cuts to rule design.
+With Zen Studios hiring more developers, hopefully, the spellathon rules will be *ahem* _ruled out_ in future tables.
+
+Having a free game added to the package is very cool, though.
+Definitely keep doing that, Zen Studios.
+
+=== 36:40 - Two new pinball tables for Pinball FX
+
+There are two tables announced by The Pinball Show recently:
+
+* Noir
+
+* Steampunk Pirates
+
+_Noir_ is a gangster-themed table set in the 1920s.
+The table is presented in black and white tones and features what looks like many placeholder art and toys.
+There seems to be a trend towards a cell-shaded feel.
+
+We believe that this version showed in the episodes is a very early design that may have been proposed ages ago.
+Zen said they had been working on two originals before the pandemic hit, and they got acquired. 
+They will need to work really hard on lighting in this game and focus on shadows to capitalize on the theme. 
+
+The other table released is a pirate-themed pinball in a steampunk style: _Steampunk Pirates_.
+The game has not been named yet, and Zen Studios is letting the public name the table. 
+Whoever wins the competition gets their name immortalized as the caption of the Meringoth (the name of the ship). 
+But given the number of entries received in just a few days, that *ahem* _ship has sailed_. 
+
+Chris offers a few names for the table, and I shoot them down pretty fast. 
+But there are a few names that might be starters. 
+Time will tell.
+I also pull apart how pinball names appear to be born and compare those names with the ones Chris suggested.
+
+=== 57:00 - Wrap up and closing thoughts
+
+We close out the show with some wrap-up thoughts about how Zen needs to really start to think about code updates for rules and gameplay improvements.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

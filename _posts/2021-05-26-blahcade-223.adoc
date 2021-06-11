@@ -4,7 +4,6 @@ title:  "BlahCade 223: Mando vs. Mando"
 author: jared
 categories: [episodes]
 image: assets/images/223-mandalorian.jpg
-tags: [sticky, featured]
 ---
 :experimental:
                                                                                                           
