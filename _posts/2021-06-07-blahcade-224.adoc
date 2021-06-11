@@ -24,7 +24,7 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section, if av
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/mando-vs-mando-101366" data-width="100%" class="shoutEngineEmbed">
+<a href="https://shoutengine.com/BlahCadePodcast/zen-original-sneak-peek-101588" data-width="100%" class="shoutEngineEmbed">
 BlahCade Podcast - Speculation a-go-go
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
@@ -39,7 +39,7 @@ Don't forget to leave us a review: we really appreciate you doing it!
 
 Zen Studios announced that they added another Star Wars pinball table to the Star Wars Pinball VR game. 
 
-image::224-han-solo.jpg[Image of Chewie standing next to the Han Solo pinball table, with his arms raised looking hairy.]
+image::224-han-solo.png[Image of Chewie standing next to the Han Solo pinball table, with his arms raised looking hairy.]
 
 Yep, Han Solo is in the game now, and it is a welcome addition.
 Well, it is, and it isn't. 
@@ -74,11 +74,12 @@ Zen said they had been working on two originals before the pandemic hit, and the
 They will need to work really hard on lighting in this game and focus on shadows to capitalize on the theme. 
 
 The other table released is a pirate-themed pinball in a steampunk style: _Steampunk Pirates_.
-The game has not been named yet, and Zen Studios is letting the public name the table. 
-Whoever wins the competition gets their name immortalized as the caption of the Meringoth (the name of the ship). 
+
+The game does not have an official name yet, and Zen Studios is letting the public name the table. 
+Whoever wins the competition gets their name immortalized as the captain of the Meringoth (the name of the ship). 
 But given the number of entries received in just a few days, that *ahem* _ship has sailed_. 
 
-Chris offers a few names for the table, and I shoot them down pretty fast. 
+Chris offers a few names for the table, and I generally shoot them down pretty fast. 
 But there are a few names that might be starters. 
 Time will tell.
 I also pull apart how pinball names appear to be born and compare those names with the ones Chris suggested.
