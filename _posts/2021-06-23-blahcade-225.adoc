@@ -40,8 +40,6 @@ Arcooda is blasting out a lot of discussion on copyright infringement on their T
 Chris and I can't work out why they are doing it, but I'm sure there is a reason. 
 Maybe we'll see why this information is being released in the coming months.
 
-image::224-han-solo.png[Image of Chewie standing next to the Han Solo pinball table, with his arms raised looking hairy.]
-
 === 10:40 - AtGames announces Taito Pinball designs
 
 AtGames announced the line-up of Taito tables releasing over the next few months.
@@ -60,7 +58,7 @@ The tables included in the first pack are:
 
 image::225-taito-darius.jpg[Image of the Darius Taito pinball]
 
-Darius is an electro-mechanical design (it has reels on the backbox)
+Darius is an electro-mechanical design (it has reels on the backbox).
 
 image::225-taito-frontline.jpg[Image of the Frontline Taito pinball]
 
@@ -84,11 +82,11 @@ Chris asked me how much these table packs were going to be.
 I thought it would be about $16 for the pack.
 But it is going to be US$25.
 
-image::225-taito-july.jpg[July's Taito Pack]
+image::225-taito-july.png[July's Taito Pack]
 
 The other packs are coming out throughout this year.
 
-image::225-taito-autumn.jpg[Autumn's Taito Pack]
+image::225-taito-autumn.png[Autumn's Taito Pack]
 
 In the (United States) Autumn, you'll be getting the following tables:
 
@@ -100,7 +98,7 @@ In the (United States) Autumn, you'll be getting the following tables:
 
 * Elevator Action 
 
-image::225-taito-nov.jpg[July's Autumn Pack]
+image::225-taito-nov.png[July's Autumn Pack]
 
 Coming out in November, you'll get access to the following tables:
 
