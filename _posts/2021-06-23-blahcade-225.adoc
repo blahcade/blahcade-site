@@ -16,13 +16,13 @@ We had to give our reaction to the news and detail what we thought about the pla
 
 == Watch and listen
 
-video::ZGQW6gpoRBo[youtube, width=560, height=315]
+video::cUaVCFz7PrY[youtube, width=560, height=315]
 
 You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/zen-original-sneak-peek-101588" data-width="100%" class="shoutEngineEmbed">
+<a href="https://shoutengine.com/BlahCadePodcast/atgames-taito-pinball-reaction-101833" data-width="100%" class="shoutEngineEmbed">
 BlahCade Podcast - Speculation a-go-go
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
@@ -45,6 +45,8 @@ image::224-han-solo.png[Image of Chewie standing next to the Han Solo pinball ta
 === 10:40 - AtGames announces Taito Pinball designs
 
 AtGames announced the line-up of Taito tables releasing over the next few months.
+
+video::ZGQW6gpoRBo[youtube, width=560, height=315]
 
 The tables included in the first pack are:
 
