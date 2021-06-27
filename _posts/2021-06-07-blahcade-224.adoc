@@ -4,7 +4,6 @@ title:  "BlahCade 224: Zen Original Sneak Peek"
 author: jared
 categories: [episodes]
 image: assets/images/224-han-solo.png
-tags: [sticky, featured]
 ---
 :experimental:
 

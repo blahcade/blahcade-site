@@ -1,0 +1,147 @@
+---
+layout: post
+title:  "BlahCade 225: AtGames Taito Pinball Reaction"
+author: jared
+categories: [episodes]
+image: assets/images/225-taito-july.png
+tags: [sticky, featured]
+---
+:experimental:
+
+With this podcast, we can officially say that Farsight Studios is no longer in the pinball business.
+It turns out that AtGames did not contract Farsight Studios to produce the announced Taito pinball tables last year.
+
+The good news is that Magic Pixel got the gig to produce the licensed properties from Taito.
+We had to give our reaction to the news and detail what we thought about the playfield layouts and overall graphical design of the tables.
+
+== Watch and listen
+
+video::ZGQW6gpoRBo[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/zen-original-sneak-peek-101588" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Speculation a-go-go
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we appreciate you doing it!
+
+== Show notes
+
+=== 03:30 - Arcooda is getting very active on Twitter
+
+Arcooda is blasting out a lot of discussion on copyright infringement on their Twitter account.
+
+Chris and I can't work out why they are doing it, but I'm sure there is a reason. 
+Maybe we'll see why this information is being released in the coming months.
+
+image::224-han-solo.png[Image of Chewie standing next to the Han Solo pinball table, with his arms raised looking hairy.]
+
+=== 10:40 - AtGames announces Taito Pinball designs
+
+AtGames announced the line-up of Taito tables releasing over the next few months.
+
+The tables included in the first pack are:
+
+* Darius
+
+* Frontline
+
+* Rastan Saga
+
+* Space Invaders
+
+image::225-taito-darius.jpg[Image of the Darius Taito pinball]
+
+Darius is an electro-mechanical design (it has reels on the backbox)
+
+image::225-taito-frontline.jpg[Image of the Frontline Taito pinball]
+
+This table has an odd flipper layout in the mini-playfield area. It has a color palette of Banzai Run and a layout quite reminiscent of Gottlieb's _Genie_.
+
+image::225-taito-rastan-saga.jpg[Image of the Rastan Saga Taito pinball]
+
+Not sure what this one is about, but it does appear to have a regular DMD.
+
+image::225-taito-space-invader.jpg[Image of the Space Invader pinball]
+
+Space Invaders seems to have animated characters on the playfield.
+This move appears to be the studio's first attempt at adding Zen-like animated characters into the playfield layouts.
+This table does have the full LCD screen design.
+
+Based on the designs of these four tables, it appears as though each pack will have a table design from each main pinball era.
+
+=== 31:30 - How much are these tables?
+
+Chris asked me how much these table packs were going to be.
+I thought it would be about $16 for the pack.
+But it is going to be US$25.
+
+image::225-taito-july.jpg[July's Taito Pack]
+
+The other packs are coming out throughout this year.
+
+image::225-taito-autumn.jpg[Autumn's Taito Pack]
+
+In the (United States) Autumn, you'll be getting the following tables:
+
+* Operation Wolf
+
+* Zoo Keeper
+
+* Chack'n Pop
+
+* Elevator Action 
+
+image::225-taito-nov.jpg[July's Autumn Pack]
+
+Coming out in November, you'll get access to the following tables:
+
+* The Legend of Kage
+
+* Rainbow Islands
+
+* Bubble Bobble
+
+* Arkanoid
+
+=== 39:45 - Availability outside of the AtGame universe
+
+In short, you won't be getting these tables on any other platform at the time of writing. 
+You will need to purchase an AtGames Legends Pinball to get access to them first. 
+The games will be releasing on other AtGames platforms over time.
+
+=== 40:30 - Could this arrangement be a blocker to Zen getting Stern Pinball?
+
+We explore the possibility of what this partnership with Magic Pixel might mean to the competition (Zen Studios) related to the Stern Pinball license.
+
+We both came to the same conclusion. 
+However, we also evaluate what we see with the Taito tables compared with what Zen Studios is doing with Unreal Engine.
+
+=== 50:22 - What does this mean for future Gottlieb tables?
+
+In short, nobody knows.
+We aren't sure whether Farsight owns the rights to Gottlieb or whether they had a license to use.
+
+What a shame it would be to leave the incredible back catalog of EM pinball machines in mothballs. 
+I hope someone can pick up the license and put it to good use.
+
+=== 55:10 - The next _The Pinball Show_ is coming out
+
+We are out of sync with the pinball show again, but we'll be sure to catch up again next episode to break down anything worth breaking down.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
