@@ -22,7 +22,7 @@ BlahCade Minis are short episodes created from this video, sliced and diced for 
 
 ++++
 <a href="https://shoutengine.com/BlahCadePodcast/mando-vs-mando-101366" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Speculation a-go-go
+BlahCade Podcast - Mando vs Mando
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 

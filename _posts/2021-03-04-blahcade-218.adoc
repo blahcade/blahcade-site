@@ -8,7 +8,7 @@ image: assets/images/218-swpvr.png
 
 We get to go to a virtual pinball galaxy far, far away in April 2021.
 
-This whole episode is all about the news revealed in Zen Studio’s _The Pinball Show Ep #2_ about a certain Oculus, Steam VR, and PSVR pinball game coming in April 2021.
+This whole episode is all about the news revealed in Zen Studio’s _The Pinball Show Ep No. 2_ about a certain Oculus, Steam VR, and PSVR pinball game coming in April 2021.
 To prime you for the discussion, here is the trailer for the full package.
 
 video::3TLPOCR_48s[youtube, width=560, height=315]

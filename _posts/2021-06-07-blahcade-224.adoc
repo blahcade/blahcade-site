@@ -24,7 +24,7 @@ BlahCade Minis are short episodes created from this video, sliced and diced for 
 
 ++++
 <a href="https://shoutengine.com/BlahCadePodcast/zen-original-sneak-peek-101588" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Speculation a-go-go
+BlahCade Podcast - Zen Original Sneak Peek
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 

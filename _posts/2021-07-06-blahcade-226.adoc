@@ -24,8 +24,8 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section, if av
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/atgames-taito-pinball-reaction-101833" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Speculation a-go-go
+<a href="https://shoutengine.com/BlahCadePodcast/lost-in-the-woods-with-arcooda-pinball-forest-102021" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Lost in the Woods with Arcooda Pinball Forest
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
