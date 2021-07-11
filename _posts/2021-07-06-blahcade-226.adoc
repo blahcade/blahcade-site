@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 226: Lost in the Woods with Arcooda Pinball Forest"
 author: jared
 categories: [episodes]
-image: assets/images/226-pinball-forest.jpg
+image: assets/images/226-pinball-forest-arcooda-banner.jpg
 tags: [sticky, featured]
 ---
 :experimental:
@@ -77,7 +77,7 @@ But you don't need to worry about reading the threads: we go through them all in
 
 As it turns out, Arcooda is offering an interesting proposition for pinball table designers.
 
-image::226-pinball-forest.jpg[]
+image::226-pinball-forest-arcooda-banner.jpg[]
 
 The notion is that you can use their _Pinball Forest_ software to create and develop pinball table designs.
 
