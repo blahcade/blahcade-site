@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "BlahCade 226: Lost in the Woods with Arcooda Pinball Forest"
+author: jared
+categories: [episodes]
+image: assets/images/226-pinball-forest.jpg
+tags: [sticky, featured]
+---
+:experimental:
+
+This episode's main event is a curious development with arcade machine producer Arcooda and a tweet stream leaking out over the last few weeks. 
+There are some interesting revelations in this block of tweets that we dive head-first into and explore. 
+It is all leading somewhere, but you will need to listen to the episode to find out more.
+
+It's also time to address the elephant in the room and talk about The Pinball Show from Zen's marketing division. 
+The show is awkward, lacks host chemistry, and needs some tweaks to make it worth tuning into. 
+Like, actual information.
+
+== Watch and listen
+
+video::HS2BYf5jwkw[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/atgames-taito-pinball-reaction-101833" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Speculation a-go-go
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review: we appreciate you doing it!
+
+== Show notes
+
+=== 05:00 - How could Zen Studios improve The Pinball Show
+
+We've been holding off making any comments about The Pinball Show, but we can't really hold back anymore.
+
+Chris and I give a few bits of constructive criticism about what Zen could consider doing to uplift the show.
+
+=== 12:00 - Star Wars Pinball VR "Droids" 
+
+So this was a lovely surprise from Zen Studios. 
+The VR version of Star Wars now includes the "Droids" table as a free inclusion.
+
+image::226-droids-keyart.jpg[Star Wars Pinball VR Droids key art]
+
+But there are a few issues with the game.
+The parts collection in C-3PO mode doesn't work, and the right kickback also is broken.
+
+We ask the question: "What has happened to quality at Zen Studios?"
+
+=== 24:00 - _Rollers of the Realm: Reunion_ is announced
+
+If you loved the first iteration of this game, the second version looks really great.
+
+https://store.steampowered.com/app/1628120/Rollers_of_the_Realm_Reunion/ 
+
+The core gameplay mechanics seem to be there still, but a few new surprises are thrown in for good measure.
+
+=== 32:00 - Arcooda spill the beans on Farsight and Zen Studios
+
+You might remember Arcooda way back in 2017 when they started to announce these really great-looking pinball cabinets called the Arcooda Pinball Arcade.
+
+The company recently began a lengthy Twitter campaign that outed a fair few alleged conversations between Farsight Studios and Zen Studios about dealings with the pinball cabinet market.
+
+++++
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We were trying to create an all-in-one style full sized pinball machine which would support “off the shelf” PC games, home-brew, and Arcooda version software. The idea shared with Zen was that the customers could purchase their games from Steam and play normally on our cabinet...</p>&mdash; Arcooda (@arcooda) <a href="https://twitter.com/arcooda/status/1409654891312685058?ref_src=twsrc%5Etfw">June 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+But you don't need to worry about reading the threads: we go through them all in order and try to make sense of it all.
+
+=== 1:13:00 - What is all this Arcooda talk leading up to?
+
+As it turns out, Arcooda is offering an interesting proposition for pinball table designers.
+
+image::226-pinball-forest.jpg[]
+
+The notion is that you can use their _Pinball Forest_ software to create and develop pinball table designs.
+
+You then upload your pinball tables to the _Pinball Apps_ ecosystem. People who own an Arcooda cabinet can install your design and playtest it.
+
+Once you have got enough feedback from your users, you can use the _Pinball Builder_ service to create your digital table in physical form. 
+
+image::226-arcooda-planets.jpg[]
+
+Yep, an actual pinball table from design to testing to production. 
+
+That sounds great, right? 
+Sure it does.
+But it may not be as easy as that.
+
+There are already competitors in this space. 
+Multimorphic P3 springs to mind immediately. 
+Even AtGames lets VPX community developers submit their titles for play on their AtGames Legends Pinball product.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

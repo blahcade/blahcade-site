@@ -4,7 +4,6 @@ title:  "BlahCade 225: AtGames Taito Pinball Reaction"
 author: jared
 categories: [episodes]
 image: assets/images/225-taito-july.png
-tags: [sticky, featured]
 ---
 :experimental:
 
