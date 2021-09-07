@@ -2,13 +2,18 @@
 layout: post
 title:  "BlahCade 228: Zen Pinball Party Playthrough"
 author: jared
-categories: [episodes]
+categories: [episodes, playthrough]
 image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
 tags: [sticky, featured]
 ---
 :experimental:
 
-This is a special walkthrough episode where Chris and I play the new title in the Zen Pinball Party app on Apple Arcade.
+This is a special walkthrough episode where Chris and I play the Zen Pinball Party app on Apple Arcade.
+
+https://apps.apple.com/us/app/zen-pinball-party/id1536783591 is the app listing.
+
+If you want to get in on the action for free, check out the deal through https://9to5mac.com/2021/06/18/apple-teams-up-with-target-free-music-tv-arcade-icloud-storage/[Target Circle] for six-months free Apple Arcade. 
+Chris has got on this deal and can confirm it is legit.
 
 This particular episode was not converted into a podcast because there was really no point.
 You need to head over to the video in the <<watch-and-listen>> section and check out the gameplay.
@@ -17,13 +22,36 @@ You need to head over to the video in the <<watch-and-listen>> section and check
 
 video::h7CeStw8NtA[youtube, width=560, height=315]
 
-This episode is a video-only episode, so get watching and let us know what you think.
+This episode is video-only, so get watching and let us know what you think.
 
-Don't forget to leave us a review: we appreciate you doing it!
+Here are some screenshots!
 
-== Thanks for listening
+.How To Train Your Dragon
+image:227-DreamWorks_HowToTrainYourDragon_01.png[]
 
-Thanks for watching or listening to this episode: we hope you enjoyed it.
+image:227-DreamWorks_HowToTrainYourDragon_03.png[]
+
+.Kung Fu Panda
+image:227-DreamWorks_KungFuPanda_01.png[]
+
+image:227-DreamWorks_KungFuPanda_03.png[]
+
+.Trolls
+image:227-DreamWorks_Trolls_01.png[]
+
+image:227-DreamWorks_Trolls_02.png[]
+
+You can also get some sweet wallpapers just like these for your iPhone, iPad and Desktop directly from Zen Studios. 
+
+image:Panda-01-1242x2208-iPhone5-Lockscreen.png[]
+
+image:Dragons-01-2048x2732-iPad-Lockscreen.png[]
+
+Head over to https://zenstudios.com/press/zen-pinball-party-iphone-ipad-mac-wallpapers-and-locksreens/ to load up on the assets for free!
+
+== Thanks for watching
+
+Thanks for watching this special episode: we hope you enjoyed it.
 
 If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 Reviews matter, and we appreciate the time you invest in writing them.
