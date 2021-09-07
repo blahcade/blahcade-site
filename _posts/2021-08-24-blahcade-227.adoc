@@ -3,7 +3,7 @@ layout: post
 title: "BlahCade 227: Zen brings Apple to a Pinball Party"
 author: jared
 categories: [episodes]
-image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
+image: assets/images/227-DreamWorks_HowToTrainYourDragon_01.png
 ---
 :experimental:
 
