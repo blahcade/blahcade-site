@@ -3,7 +3,7 @@ layout: post
 title: "BlahCade 227: Zen brings Apple to a Pinball Party"
 author: jared
 categories: [episodes]
-image: assets/images/227-DreamWorks_HowToTrainYourDragon_01.png
+image: assets/images/227-DreamWorks-HowToTrainYourDragon-01.png
 ---
 :experimental:
 
@@ -18,7 +18,9 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section, if av
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-
+<a href="https://shoutengine.com/BlahCadePodcast/zen-brings-apple-to-a-pinball-party-102824" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Zen brings Apple to a Pinball Party
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
@@ -48,7 +50,7 @@ There are four original Zen tables (which we reckon will cycle) and four William
 Here are some screenshots to whet your appetite.
 
 .How To Train Your Dragon
-image:227-DreamWorks_HowToTrainYourDragon_01.png[]
+image:227-DreamWorks-HowToTrainYourDragon-01.png[]
 
 image:227-DreamWorks_HowToTrainYourDragon_03.png[]
 
