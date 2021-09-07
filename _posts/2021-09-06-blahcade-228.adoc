@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "BlahCade 228: Zen Pinball Party Playthrough"
+author: jared
+categories: [episodes]
+image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
+tags: [sticky, featured]
+---
+:experimental:
+
+This is a special walkthrough episode where Chris and I play the new title in the Zen Pinball Party app on Apple Arcade.
+
+This particular episode was not converted into a podcast because there was really no point.
+You need to head over to the video in the <<watch-and-listen>> section and check out the gameplay.
+
+== Watch and listen
+
+video::h7CeStw8NtA[youtube, width=560, height=315]
+
+You can jump straight to any BlahCade Minis in the <<show-notes>> section, if available.
+BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
+
+This episode is a video-only episode, so get watching and let us know what you think.
+
+Don't forget to leave us a review: we appreciate you doing it!
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

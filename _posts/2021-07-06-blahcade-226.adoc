@@ -4,7 +4,6 @@ title:  "BlahCade 226: Lost in the Woods with Arcooda Pinball Forest"
 author: jared
 categories: [episodes]
 image: assets/images/226-pinball-forest-arcooda-banner.jpg
-tags: [sticky, featured]
 ---
 :experimental:
 
