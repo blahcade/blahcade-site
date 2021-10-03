@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "BlahCade 229: Lights, Camera, Auction?"
+author: jared
+categories: [episodes]
+image: assets/images/229-class-of-2021.jpg
+tags: [sticky, featured]
+---
+:experimental:
+
+It's a mish-mash of topics that concludes with the outrageous auction prices of a huge pinball collection. 
+First, though, we catch up on Zen and Stern news as well as a rather odd video with the worlds largest pinball machine.
+
+== Watch and listen
+
+video::8JBZPvyo6Sc[youtube, width=560, height=315]
+
+++++
+
+++++
+
+We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 03:20 - Zen Pinball Hall of Fame Pinball table knockout
+
+Zen Pinball has been running a competition of sorts on Twitter that seeds all their Zen original tables against each other in a twitter poll.
+
+The results shake down to _Sorcerer's Lair_ being the top of the class for 2021.
+And it won by a landslide. 
+
+image::229-class-of-2021.jpg[]
+
+Really? 
+Sorcerer's Lair? 
+Chris and I really don't buy that as a valid result, particularly as it seems as though this table has got to the top only because it is a freebie.
+
+So we went through each bracket and gave our take on what tables would've gone through if we were. 
+
+=== 15:50 - Arcade 1UP release the Williams patch
+
+Arcade 1UP released the long-awaited Williams patch that corrects a bunch of performance and bugs issues on the Williams pinball cabinet. 
+
+But (and here's where it gets interesting) it seems you can also load all versions of Arcade 1UP Pinball on all cabinet SKUs.
+
+Some savvy community members have picked up on this and have made a launcher that allows you to have all three builds on the cabinet and launch them independently.
+
+Was this a deliberate move by Arcade 1UP given the adoption of the AtGames Legends Pinball popularity?
+Or was this act really just a mistake on Arcade 1UP?
+
+Lets see what happens with this development.
+
+=== 21:00 - Red Bull Freerun on a giant freerunning pinball machine
+
+Red Bull have made this wicked video with Pasha 'the Boss' Petkuns running around a life size pinball machine obstacle course.
+
+video::1NAxcuqNzgI[youtube, width=560, height=315]
+
+=== 26:00 - Stern Godzilla, price hikes and insider subscriptions
+
+Stern have announced a $700 price increase for the Pro and and over $1000 increase for the Premium and LE models of Godzilla. 
+Is the more expensive price due to chip issues, lumber prices, or the new insider tech?
+
+The Pro version is so watered down it may as well be a different game. 
+
+video::QoRu7ymNtuo[youtube, width=560, height=315]
+
+Godzilla really is a candidate for the "Premium or LE only or don't bother" award.
+
+video::uQxfCMVRsoA[youtube, width=560, height=315]
+
+I also mention the cost of the Stern Insider game experience and quickly correct myself from $30 a month to $39 a year, and free for the basic tier.
+There is a cost involved if you want to get perks and inside access, which really just sounds like the Insider program Stern already offers.
+
+=== 44:30 - Banning Museum of Pinball auction
+
+In this part of the show we talk through the astronomical prices these tables are fetching at auction.
+
+There are some prices that make you wince, and then you have to add tax and 18% buyer's premium added on by the auction house. That's 25% more than the hammer price.
+
+This is pretty much the last segment of the show so if you don't like listening to price talk this might not be for you. 
+There are some asides in this segment where we talk through our experiences with certain tables, so you might like to hang in there.
+
+=== 1:25:00 - Do you like Mini BlahCade segment episodes?
+
+Chris wants to know if you like the mini episodes and whether he should keep doing them.
+Also, I follow up about not producing an audio version of last episode's video-only episode.
+
+If you have any feedback about how we release and format the episodes we'd love to hear it.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
