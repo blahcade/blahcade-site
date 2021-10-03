@@ -16,7 +16,9 @@ First, though, we catch up on Zen and Stern news as well as a rather odd video w
 video::8JBZPvyo6Sc[youtube, width=560, height=315]
 
 ++++
-
+<a href="https://shoutengine.com/BlahCadePodcast/lights-camera-auction-103141" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Lights, camera, auction!
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
 We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
