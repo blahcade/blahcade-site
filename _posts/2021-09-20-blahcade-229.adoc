@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlahCade 229: Lights, Camera, Auction?"
+title:  "BlahCade 229: Lights, camera, auction?"
 author: jared
 categories: [episodes]
 image: assets/images/229-class-of-2021.jpg
