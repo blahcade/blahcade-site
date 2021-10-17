@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "BlahCade 230: Pinball FX delayed until 2022"
+author: jared
+categories: [episodes]
+image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
+tags: [sticky, featured]
+---
+:experimental:
+
+That's right, Pinball FX has been delayed according to the latest episode of The Pinball Show. 
+That, however, is not the only news...
+
+Chris and Jared take another deep dive look into what Mel Kirk had to say. Much speculation ensues. 
+Plus, beer!
+
+== Watch and listen
+
+video::kP1RB6AjLfI[youtube, width=560, height=315]
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/pinball-fx-delayed-until-2022-103290" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Pinball FX delayed until 2022
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 05:00 - Arcade 1UP removes pinball firmware updates
+
+Arcade 1UP has pulled all patch images from their download site. This action means that people can't create a 3-in-1 pinball cabinet containing Marvel, Star Wars, and Williams all from the one build. 
+
+In all seriousness, you can still get the files. 
+They just aren't available from the official site. ;)
+
+=== 08:00 - The Pinball Show analysis
+
+Pinball FX is delayed until mid-2022.
+There, that's the news. 
+But there is more to this news than just this pithy one-liner.
+
+It turns out that Star Wars VR and Zen Pinball Party have delayed the release. Still, the other contributing factor is that they are using new tech and new developers.
+There is always an onboarding cost when training up developers, and this has impacted schedules.
+
+=== 16:00 - Why is early access important?
+
+The bright side is that there will be an early-access program on Epic Games for PC players.
+That service will be available from March 2022, so the studio can do real-world testing on the various hardware combos in the real world.
+
+They are only doing early access on PC because it is easier to iron out issues on one platform instead of multiple platforms like consoles. 
+
+Mel said that the game will be "network heavy," which could suggest many different things.
+The best guess we have is that we will be experiencing more streamed gameplay and head-to-head play.
+
+There are also features like clans, tournaments, and other social features that need real-world testing.
+An interesting time ahead.
+
+=== 27:30 - Full HD video in pinball games
+
+Another reveal in the show was that full HD video is now possible in Pinball FX.
+Anna Lengyel is the designer on Trolls and co-designer on Curse of the Mummy table.
+
+Anna has taken the lead on getting the technology required to do HD video in the Curse of the Mummy working just right. She admitted that while the animations are crude at the moment, they won't be on release. 
+Let's hope that we don't have a video experience like that in the Zaccaria HD video. 
+
+=== 39:50 - Sky Pirates: Treasures of the Clouds
+
+The table now has an official name, thanks to pinball fan "Ronnie". 
+Captain Ronnie has his name immortalized in-game thanks to adding "Treasures of the Clouds" to the name. 
+
+=== 44:20 - The back wall of speculation
+
+In the latest episode, Mel alludes to "all of our friends" on the studio's back wall.
+Here's what Chris thinks could be in the pipe based on that off-hand comment. :D
+
+Pikachu:: Could we be in for a Pokemon-themed table?
+
+NES controller:: Could there be a Nintendo partnership?
+
+Ultimate 80s Quiz:: Could we see a partnership with Spooky Pinball for Total Nuclear Annihilation? 
+
+Spinner from Twister:: There was a Twister board game color spinner on the back wall. 
+Could that indicate a partnership with Hasbro?
+
+=== 51:30 - Zen Pinball Party is gaining attention from licensors
+
+Mel revealed that the overwhelmingly positive response to ZPP has made licensors sit up and take notice. 
+The interesting experiment here is the mixed-license showcase in the game. 
+
+The package isn't focusing on the licensor but rather the user demographic using the platform.
+This will only serve to diversify the content on offer in both ZPP but also Pinball FX.
+
+It is the same experience when you play something like Guitar Hero and experience music that you wouldn't normally listen to but find that you actually enjoy it.
+
+It's going to be really interesting to see how this evolves over the coming months.
+
+=== 60:00 - A table a month
+
+Mel rounds out the good news by saying that the studio plans on releasing a table a month once the platform has been released. 
+
+That could be one existing table a month or one new one. 
+We really don't know, but we'll be sure to ask Mel when we have him on the show. 
+
+=== 1:03:00 - Zen Pinball Beer
+
+Chris was lucky enough to get a sample of the Zen Beer produced by Rivalry Brew.
+He doesn't drink beer, and they couldn't send any to me because they aren't exporting to Australia.
+
+The art is what Chris appreciates on the tins. 
+And the swag is also cool. A beer cozy, a hacky sack, sunglasses, sticker, and a coin dispenser.
+
+That coin dispenser would be perfect for all my Netherworld tokens. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
