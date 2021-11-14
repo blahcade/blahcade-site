@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "BlahCade 231: Not Salty About Peanuts (new Zen table)"
+author: jared
+categories: [episodes]
+image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
+tags: [sticky, featured]
+---
+:experimental:
+
+Back with another episode that this time feautures gameplay of Zen's newest Pinball Party title, Peanuts. 
+
+Plus we take a look at Skillshot FX's new virtual pinball cabinet. 
+
+And then there's the big question mark over Zen interviewing Spooky Pinball! 
+Does this mean we'll be seeing digital versions of their tables in Pinball FX?
+
+== Watch and listen
+
+video::SpXOcI_Bn4c[youtube, width=560, height=315]
+
+++++
+
+++++
+
+We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 10:00 - Skillshot FX and Zen Studios partnership
+
+Arcade 1UP has now had their product on the market now for over a year, but there is a new partnership to talk about.
+
+Zen Studios partnered with a company called Skillshot FX to offer a premium digital pinball cabinet including tables from FX3.
+
+https://skillshotfx.com/
+
+This is a steam-based system which lets you connect your library to this cabinet, and the lockdown bar has a control interface suited specifically for key interface options in FX3 (such as camera and pause).
+
+The product features a 52" monitor with a live backglass monitor (size not disclosed yet).
+The backglasses are supplied with the table, meaning that you don't need to track them down yourself. 
+There is no manual plunger, and buttons for nudge. 
+Why Skillshot FX didn't work out a way to use the lockdown bar as a tilt interface boggles both our minds.
+
+image::231-skillshotfx-table.png[]
+
+All this for $9000. "Wait, what?" you might be yelling at the screen. Yep that's a steep price point for the features offered in this package.
+
+=== 27:00 - Snoopy Pinball playthrough.
+
+We play through the brand new _Zen Pinball Party_ table: Snoopy Pinball.
+
+image::231-snoopy-pinball-keyart.png[]
+
+Jump over to the video link at about the jump time in the heading and check out the playthrough. 
+
+image::Peanuts_Snoopy_Pinball_Screenshot_1.png[]
+
+Overall we both quite like the table and think the game is probably the best Animated Heroes table released to date. 
+The callouts actually tell you where you need to shoot, and the gameplay is quite peaceful in nature. 
+The art style is fantastic, although there are some obstructing features like the Kite-eating Tree that obscure rollover. 
+
+image::Peanuts_Snoopy_Pinball_Screenshot_6.png[]
+
+=== 41:40 - What do Jared's kids think of Zen Pinball Party
+
+I gave the iPad over to Zach and Sienna to try out the latest Snoopy table, and the feedback about the game surprised me.
+
+Their feedback backs up the vision that Zen has for Zen Pinball Party, and the overall ecosystem of Pinball FX.
+
+=== 45:00 - Dolby interview Spooky Pinball
+
+Last episode Chris and I were talking about how it would make sense for Zen to pair up with boutique pinball manufacturers like Spooky Pinball and American Pinball.
+
+This month we get a full 30-minute interview with Dolby from Zen and Spooky Pinball. 
+The really interesting part in this interview was right at the end where the discussion turned to Spooky's "discovery" of FX3 and the license integration.
+They openly admitted that they have looked at the product and will be honestly stealing some theme integration for upcoming titles.
+
+This is the first time that Zen has ever featured another company in the scope of The Pinball Show, and this makes me pretty confidient to offer this prediction:
+
+[quote, Jared Morgan, BlahCade Episode 231]
+The next Spooky pinball table produced will debut both physically as a table release, and digitally on Pinball FX.
+
+There will obviously be some sacrifices with digital effects not possible in physical tables, but expect the same layouts, with mechs inspired by digital effects.
+
+Both Chris and I believe that Spooky may be partnering with Zen to get access to their licensing chops, so they don't get snubbed with licenses like they did with Stern getting Godzilla.
+
+=== 1:03:00 - Jurassic Park Pin designed by Dead Flip
+
+This redesigned layout screams of a late 80's pinball layout, and that is not a bad thing.
+Stern needed a design refresh for The Pin machine, and Dead Flip got the nod to do it.
+
+It makes me wonder if this is the start of Dead Flip getting his home brew table produced through Stern.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
