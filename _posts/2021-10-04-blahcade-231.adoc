@@ -27,11 +27,6 @@ BlahCade Podcast - Not Salty About Peanuts
 </a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
 ++++
 
-++++
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channel="UCASBK361NNw1_TsEnhoabsg"></div>
-++++
-
 We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
 
 Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
