@@ -68,7 +68,7 @@ The game will even emulate Guitar Freaks tablature. You can play drums and guita
 
 === 31:30 - Pinball preditions from 2020
 
-About this time last year, we recorded xref:2020-12-21-blahcade-212.adoc[BlahCade 212] with some predictions about what we'd be seeing about this time of year.
+About this time last year, we recorded https://blahcadepinball.com/blahcade-212/[BlahCade Ep 212] with some predictions about what we'd be seeing about this time of year.
 
 The categories were:
 
