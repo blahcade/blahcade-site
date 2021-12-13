@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "BlahCade 232: Xmas 2021 A Pinball Bust"
+author: jared
+categories: [episodes]
+image: assets/images/232-funko-pinball-key-art.png
+tags: [sticky, featured]
+---
+:experimental:
+
+About this time last year, we predicted what we would see released about now (December 2021).
+Naturally, things didn't go exactly to plan, but some predictions aren't too wild.
+
+We also talk about Zen's new release _Funko Pinball Party Arena_ available through _Zen Pinball Party_ on Apple Arcade.
+
+Thrown in for good measure is a segment on our addiction with various rhythm action games, which we talk about with great passion. 
+Some games we talk about are free (as in open-source), and some are freemium (as in "gross", but tolerable).
+
+== Watch and listen
+
+video::H1J9IDYLWI8[youtube, width=560, height=315]
+
+Don't forget to subscribe to the YouTube channel to never miss an episode. 
+
+++++
+<a href="https://shoutengine.com/BlahCadePodcast/xmas-2021-a-pinball-bust-103832" data-width="100%" class="shoutEngineEmbed">
+BlahCade Podcast - Xmas 2021 A Pinball Bust
+</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+++++
+
+We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 04:15 - Zen Studios release Funko Pinball Party Arena
+
+Zen keeps on updating the _Zen Pinball Party_ app, and this time they released an addition that lives up to the app's title.
+
+image::232-funko-pinball-1.png[]
+
+Funko Pinball Party brings a four-player battle royale to the app. 
+What you're seeing here is most likely the first experiment for the Pinball FX multi-player experience, coming in the first quarter of 2022.
+
+image::232-funko-pinball-2.png[]
+
+The app lets you attack other players by completing shots in the game.
+The more combos and upper playfield shots you make, the better your odds at taking out the match. 
+
+image::232-funko-pinball-3.png[]
+
+It is quite a bit of fun to play against other players with the _feeling_ of playing in real-time, even though you can't see balls flying around the playfield from other players.
+But be warned: the game can also be very frustrating when under pressure and bricking shots.
+I frequently scream at the screen when the ball dribbles up a loop ramp only to roll back down again. 
+Grrrrr! 
+
+=== 15:45 - Beatstar and DTXMania for all your rhythm action needs
+
+Chris is properly hooked on https://beatstar.com/[Beatstar^] on iOS.
+He's totally maxed out the levels and has resigned himself to how the freemium model works. 
+Add `shutyertrap1` to your game friends so you can share his addiction at https://beatstar.com/[^].
+
+I've discovered a long-lost pastime of Konami's DrumMania through the incredibly professional but free (and open-source) eDrum simulator https://github.com/ericpignet/DTXmaniaNX[DTX Mania (NX)^].
+You can download a pile of free `simfile` packs from https://approvedtx.blogspot.com/p/gitadora-drummania.html[ApproveDTX blog^]. 
+These sources cover most of the arcade releases from the first Drummania right up to the brand new Gitadora releases in Japanese arcades. 
+The game will even emulate Guitar Freaks tablature. You can play drums and guitars with your mates (and a supported guitar controller).
+
+=== 31:30 - Pinball preditions from 2020
+
+About this time last year, we recorded xref:2020-12-21-blahcade-212.adoc[BlahCade 212] with some predictions about what we'd be seeing about this time of year.
+
+The categories were:
+
+* Take it to the bank 
+
+* Nice to have, but yeah nah
+
+* Wild speculation.
+
+We go through the "bankable" and "nice ones, but..." in this section. 
+Overall we didn't do too badly with our predictions. 
+But there are some predictions that we were almost certain of that never came to light.
+
+What will our predictions be this year with 20/20 hindsight?
+They center around Spooky doing digital releases, JJP getting into the digital pinball arena.
+
+But what do you think?
+What do you think will be "bankable" predictions for digital pinball for 2022.
+How about your "nice ones, but..."?
+
+=== 1:00:00 - New shows on Netflix
+
+Chris smashed the entire first season backlog of the new live-action _Cowboy Bebop_ and feels it is a worthy retelling of the Anime canon thus far. 
+The first season leaves the second season open to new stories and canon away from the original Anime.
+
+I'm hanging out for Stranger Things Season 4, which I've heard lukewarm reactions to. 
+Clearly, Covid caused delays in getting the season produced. I thought S03 was the last we'd hear about "teenagers fighting demons".
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

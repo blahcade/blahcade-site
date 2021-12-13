@@ -4,7 +4,6 @@ title:  "BlahCade 230: Pinball FX delayed until 2022"
 author: jared
 categories: [episodes]
 image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
-tags: [sticky, featured]
 ---
 :experimental:
 
