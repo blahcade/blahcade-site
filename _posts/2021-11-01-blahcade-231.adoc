@@ -4,7 +4,6 @@ title:  "BlahCade 231: Not Salty About Peanuts (new Zen table)"
 author: jared
 categories: [episodes]
 image: assets/images/231-snoopy-pinball-keyart.png
-tags: [sticky, featured]
 ---
 :experimental:
 
