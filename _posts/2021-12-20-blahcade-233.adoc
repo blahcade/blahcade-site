@@ -1,0 +1,153 @@
+---
+layout: post
+title:  "BlahCade 233: Indiana Jones and the Mel Kirk Interview"
+author: jared
+categories: [episodes]
+image: assets/images/233-indiana-jones-keyart.png
+tags: [sticky, featured]
+---
+:experimental:
+
+Mel Kirk, COO of Zen Studios, joins us for an in-depth talk that covers all things Indiana Jones, Zen Pinball Party, PinFX, and much much more.
+
+== Watch and listen
+
+video::j8L1fdXWE8k[youtube, width=560, height=315]
+
+Don't forget to subscribe to the YouTube channel to never miss an episode. 
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Indiana-Jones-and-the-Mel-Kirk-Interview-e1c7u2s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 01:20 - Indiana Jones is coming to Pinball FX and FX3
+
+Mel goes into details about the first commercial digital version of Williams _Indiana Jones: The Pinball Adventure_. 
+
+image::233-indiana-jones-keyart.png[Indiana Jones Key Art]
+
+=== 03:50 - Was licensing Indy difficult?
+
+There are many people to pay in a game as license-rich as Indy. 
+
+image::233-indiana-jones-grail.png[The Choose Wisely video mode]
+
+Mel goes into the challenges of licensing a title like this, including how adding extra visual effects ramps up the complexity of getting approvals.
+
+=== 06:00 - Were there challenges in getting the game in Unreal and PX engine?
+
+Mel outlines the main differences between the PX engine and Unreal related to porting between the two versions.
+
+=== 08:00 - Closing the FX3 legacy and confirming Marvel on Switch.
+
+Why was FX3 closed down?
+Mel outlines why the decision was made to end development on FX3. 
+In this part, Mel confirms that FX is only losing two titles from FX3. 
+Think about that for just a moment.
+If Pinball FX is going to all the announced platforms, including Nintendo Switch, that basically confirms that Marvel is coming to Switch!
+
+=== 09:20 - How does securing Indy pave the way for other licensors?
+
+It all comes down to prioritization. 
+There are plenty of licensors approaching Zen to get their IPs into the game. Still, the limitation at the moment is developer bandwidth. 
+
+=== 11:00 - How would the Unreal 5 demo relate to pinball?
+
+In the next episode of The Pinball Show, you'll be seeing ray tracing demos in Pinball FX.
+
+image::233-indiana-jones-castle-grunewald.png[Castle Grunewald environmental effects]
+
+The https://www.epicgames.com/store/en-US/p/pinball-fx[Pinball FX Epic Game Store page] is up. There is a near-release screenshot of the _Curse of the Mummy_ table on the landing page.
+
+image::233-curse-of-mummy.png[Curse of the Mummy environment]
+
+Mel talks about this in some detail.
+
+Pro physics was also discussed in this section, as is what you should expect from the Early Access beta.
+
+=== 18:30 - How does Early Access on Epic Games work?
+
+Anything you buy through early access on Epic will transfer over to the full game once released.
+
+Mel hints at some "alternative ways" to get access to games.
+
+=== 19:30 - Will Full HD video be backported to older tables?
+
+As it turns out, adding HD video to older titles basically means that you need to re-make the table from scratch. 
+
+=== 21:00 - Breaking down the "generational barrier" of pinball. 
+
+Mel gives his thoughts on the commercial pinball scene and how that relates to the studio.
+He also makes the point that the increase in pinball personalities
+Pinball titles like Zen Pinball Party are breaking down generational barriers, and I go into Zach and Sienna's experience with playing the game.
+
+=== 28:30 - Indy is coming to the Williams Pinball app on iOS and Android
+
+Mel confirms this. Make sure you have your coins built up so you can get it.
+
+Indy will be released on *all* platforms on the same day and date.
+Huge!
+
+=== 29:30 - Is Funko Pinball Royale going to be what Pinball Royale will be in Pinball FX?
+
+Mel wants pinball royal to be scaled up from four to 64 players simultaneously.
+But this will be iterative as the studio gets the usage data.
+The whole idea about pinball royale is to grow the audience. 
+
+=== 32:30 - How would Zen Pinball Party translate over to Arcade 1UP
+
+The whole idea behind Arcade 1UP is to get affordable pinball into peoples' homes. 
+This includes being able to connect and play online. 
+We talk about Stern's "Jurrasic Park Pin" and price-points on digital pinball. 
+
+=== 35:30 - New designers and the ZPP "training ground"
+
+Mel announces an internal promotion for another dev in Zen over to the pinball division. 
+They are looking to grow to 12 devs just for pinball.
+Zen Pinball Party is an excellent training ground for new devs to get used to the new Unreal tooling and get a table design from concept to production.
+
+Another thing Mel "couldn't say too much about" was that the Zen Pinball Party _Animated Heroes_ tables may get enhanced rulesets in the future.
+
+=== 38:00 - How does VR play into the strategy?
+
+When asked about VR, Mel responded, "we're in VR". 
+Expect to see some VR support in the future, but just not at launch.
+
+=== 41:00 - What was the story behind the beer?
+
+Mel said that the company is looking at different ways of producing merchandise more than just "slippers and t-shirts".
+Expect to see more interesting collaborations in the future.
+
+=== 47:00 - Where will we see Zen this year?
+
+You can keep an eye out for Pinball Expo and Star Wars Celebration, and maybe E3 if it goes ahead.
+You can expect Zen to be looking to tie into real-world events in 2022.
+
+
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.

@@ -4,7 +4,6 @@ title:  "BlahCade 232: Xmas 2021 A Pinball Bust"
 author: jared
 categories: [episodes]
 image: assets/images/232-funko-pinball-key-art.png
-tags: [sticky, featured]
 ---
 :experimental:
 
