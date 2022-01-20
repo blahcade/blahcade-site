@@ -22,14 +22,22 @@ You can jump straight to any BlahCade Minis in the <<show-notes>> section.
 BlahCade Minis are short episodes created from this video, sliced and diced for your viewing pleasure.
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/we-cant-just-push-reset-98832" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - We can't just push reset?
-</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/We-cant-just-push-reset-e1bkfrb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
-We’re also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+We're also on the following platforms:
 
-Don't forget to leave us a review: we really appreciate you doing it!
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
 
 == Show notes
 

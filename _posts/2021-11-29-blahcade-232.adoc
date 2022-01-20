@@ -22,12 +22,20 @@ video::H1J9IDYLWI8[youtube, width=560, height=315]
 Don't forget to subscribe to the YouTube channel to never miss an episode. 
 
 ++++
-<a href="https://shoutengine.com/BlahCadePodcast/xmas-2021-a-pinball-bust-103832" data-width="100%" class="shoutEngineEmbed">
-BlahCade Podcast - Xmas 2021 A Pinball Bust
-</a><script type="text/javascript" src="https://shoutengine.com/embed/embed.js"></script>
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Xmas-2021-A-Pinball-Bust-e1d6elm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
-We're also on https://open.spotify.com/show/4YA3cs49xLqcNGhFdXUCQj[Spotify Podcasts] and https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts]. 
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
 
 Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
 
