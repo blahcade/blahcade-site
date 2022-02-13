@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "BlahCade 235: We like what we see so far, PinFX"
+author: jared
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [sticky, featured]
+---
+:experimental:
+
+We take a look at the new visuals dropped for PinballFX, mainly those of Indiana Jones. 
+We also react to features and purchasing options that were announced.
+
+You're really going to want to watch the video for this one, folks.
+
+== Watch and listen
+
+video::hk5qVDrs8UE[youtube, width=560, height=315]
+
+Don't forget to subscribe to the YouTube channel to never miss an episode. 
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/We-like-what-we-see-so-far--PinFX-e1eas2n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 07:50 - Indiana Jones Trailer discussion
+
+In this segment of the video, we pause the trailer and give our opinions about what we see in the trailer. 
+
+The chrome and environmental effects in the game along with the video screen in the middle of the playfield are great.
+
+But there are other subtle signs of quality in this. 
+You can see the jewelled inserts and more realistic light sources. 
+
+Check out the video for this one becasue the audio doesn't do it much justice. 
+
+=== 25:00 - FX3 vs Pinball FX version
+
+This part of the video focuses just on the differences we see between the FX3 (PX Engine) and the Pinball FX (Unreal 4) versions of the game. 
+
+=== 30:00 - Pricing discussion
+
+In this part we touch briefly on the pricing model that Zen has alluded to in Pinball FX.
+It appears that we will be treated to two different pricing models: pay per table or buy a subscription.
+
+=== 41:00 - Zen account does not control purchasing
+
+Jared thought that the Zen account might be used to control cross-platform purchases on PC but that doesn't seem to be the case.
+
+=== 45:00 - The lobby experience and menus
+
+We discuss the lobby experience and how it compares to the Star Wars VR lobby.
+
+We also go through screen by screen and talk through what we see in the different screens in the lobby. 
+
+Again, the video is needed to get the most out of this segment.
+
+=== 52:00 - The Mummy and Noir running on Unreal 4
+
+In this part of the video we talk through what we see in Noir and The Mummy.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
