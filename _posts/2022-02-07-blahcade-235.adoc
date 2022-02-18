@@ -4,7 +4,6 @@ title:  "BlahCade 235: We like what we see so far, PinFX"
 author: jared
 categories: [episodes]
 image: assets/images/216-pinballfx-logo.jpeg
-tags: [sticky, featured]
 ---
 :experimental:
 

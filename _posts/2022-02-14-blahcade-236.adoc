@@ -1,0 +1,148 @@
+---
+layout: post
+title:  "BlahCade 236: Rollers of the Realm Reunion interview with Tony Walsh"
+author: jared
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [sticky, featured, interviews]
+---
+:experimental:
+
+Tony Walsh, Company Director and Founder of indie game studio *Phantom Compass*, joins us to chat about their sequel to the award-winning _Rollers of the Realm_ Pinball RPG. 
+
+This breakthrough game set the genre for hybrid pinball and RPG gameplay. The studio's new title _Rollers of the Realm: Reunion_ takes the genre even further with new gameplay styles and better RPG balancing between the characters.
+
+We get the low-down from Tony about what went into creating _RotR_ and how it has evolved into _Reunion_.
+Tony also hints about what we can expect to see when it is released later in 2022.
+
+== Watch and listen
+
+video::zF8MaAGUQMI[youtube, width=560, height=315]
+
+Don't forget to subscribe to the YouTube channel to never miss an episode. 
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/We-like-what-we-see-so-far--PinFX-e1eas2n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 01:30 - Background on Phantom Compass
+
+Tony gives us a bit of background about the studio, including how the studio does a mix of "Advergames", agency game development, and studio games like _Rollers in the Realm_. 
+
+It's an interesting backstory to how the studio came to be and why they are in a position now to produce another studio game.
+
+=== 10:00 - Why has there been such a gap between Rollers games
+
+Tony explains how _RotR_ came to be through creative grants issued through provincial, state, and federal government levels. 
+The guidelines changed recently about funding sequels through these programs, and Tony and the team seized the moment to make _Reunion_. 
+
+The whole "studio sustainability" piece was interesting to learn about. 
+
+=== 15:30 - How does contract game development differ from studio game development
+
+While many contract games are fixed-cost products, there is a lot of time spent guiding clients through the dev process and managing expectations.
+
+When you are developing a studio game like _Rollers_ you have a few levers you can pull to help manage costs.
+Tony speaks to the process and how to work around the ebb and flow of development cycles.
+
+=== 18:25 - Fewer characters in play at any one time
+
+Tony goes into some of the game mechanics of the first _Rollers_ and then compares the evolution we see in the press copy Chris, and I played.
+
+The player roster goes from 10 total characters to only five in total.
+And you can only have three characters active on a playfield.
+
+image::RollersOfTheRealmReunion_TheLibrary00.png[]
+
+You might think that is a downgrade in the gameplay experience. 
+However, Tony explains how this makes the game more dynamic and approachable.
+
+=== 23:20 - Plunging versus launching
+
+"We took perfectly fine pinball and actually made it harder," Tony quips about how the first game had a steep learning curve for casual players.
+
+The change in how the ball is launched into play is one way of rebalancing the game's approachability for more casual players.
+
+image::RollersOfTheRealmReunion_Cheapside01.png[]
+
+Additionally, Tony shares how the first game's left/right "tilt" agility feature has evolved to full controllability.
+This is definitely going to be important at later levels.
+
+=== 27:00 - New gameplay styles
+
+There are many new playfield and gameplay styles in _Reunion_.
+
+image::RollersOfTheRealmReunion_MantleThreshold00.png[]
+
+image::RollersOfTheRealmReunion_SylfinStreets01.png[]
+
+image::RollersOfTheRealmReunion_TheLibrary01.png[]
+
+Tony talks about how these different styles are more like "palette cleansers" to freshen up the style. 
+
+=== 31:35 - How have the flipper and ball physics changed between releases?
+
+Tony goes into some technical details about how the physics and flipper tuning has evolved between the games.
+
+You can now add more speed to the ball coming down, and depending on the character, you can add a little more speed to the ball to help you ascend the playfield. 
+
+Chris also shared how the new physics and four-way movement helps you in the game in practice.
+
+=== 37:00 - Why is revive gone in _Reunion_?
+
+image::RollersOfTheRealmReunion_TheRiver01.png[]
+
+Instead of losing the player when you drain and having to revive them, Tony shares why the revive system was replaced with hearts.
+
+=== 41:30 - How reducing character RPG stats makes it better
+
+Tony confirms that there are actually fewer stats for players to manage.
+He then explains how having fewer stats is better for players and easier for developers.
+
+image::RollersOfTheRealmReunion_HeroesMage00.png[The Heroes stats screen showing the Mage' character traits]
+
+You can see how the upgrades you apply to the characters affect gameplay more directly when the combinations have a pronounced effect on the player.
+
+image::RollersOfTheRealmReunion_HeroesRogue00.png[]
+
+Maybe there could even be a "level me up" auto feature in the game.
+Either way, you don't need to be a mathemetician to manage player stats. 
+
+=== 46:00 - How do Quests help with replayability?
+
+Quests will play a big role in _Reunion_.
+Expect replaying levels to get some of the items, but don't worry about grinding like you were in the first game.
+
+image::RollersOfTheRealmReunion_Map01.png[World map with secret holes]
+
+You will even find holes randomly scattered around the playfield whenever you complete a table.
+There will be gold lying around the world map that you can collect and sheep to herd!
+
+image::RollersOfTheRealmReunion_SheepPasture00.png[Herding Sheep]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
