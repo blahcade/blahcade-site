@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 236: Rollers of the Realm Reunion interview with Tony Walsh"
 author: jared
 categories: [episodes]
-image: assets/images/216-pinballfx-logo.jpeg
+image: assets/images/RollersOfTheRealmReunion_KingsMonument00.png
 tags: [sticky, featured, interviews]
 ---
 :experimental:
