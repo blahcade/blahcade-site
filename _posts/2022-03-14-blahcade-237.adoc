@@ -1,0 +1,162 @@
+---
+layout: post
+title:  "BlahCade 237: Indiana Jones and the Costs of Licensing"
+author: jared
+categories: [episodes]
+image: assets/images/233-indiana-jones-keyart.png
+tags: [sticky, featured]
+---
+:experimental:
+
+It's here! Indiana Jones was released this week on every platform that carries Pinball FX3. 
+
+We discuss our thoughts on playing (admittedly not much) of it. 
+
+We also discuss (again) why the game costs what it does. 
+Spoiler alert, licensing isn't cheap.
+
+== Watch and listen
+
+video::OPbXTtmRotU[youtube, width=560, height=315]
+
+Don't forget to subscribe to the YouTube channel to never miss an episode. 
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Indiana-Jones-and-the-Costs-of-Licensing-e1fq0go" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 03:50 - Thoughts to Hungary, Budapest
+
+Our thoughts are with you.
+Stay safe, Zen Studios staff, and your families.
+
+=== 07:50 - Rollers of the Realm key giveaway
+
+Thanks to Phantom Compass, we have five Steam keys to give astute _viewers_ of the show.
+
+image::RollersOfTheRealmReunion_MonarchHall01.png[]
+
+To get one of five codes for Rollers of the Realm, do the following:
+
+. Look for the phrases in the YouTube video linked above.
+
+. Email blahblahblahcade@gmail.com after 9am PST March 19, 2022.
+
+. Put the subject of "Rollers Contest."
+
+. Include the two phrases we held up silently during the show.
+
+The contest ends at midnight on March 19, 2022.
+
+Good luck!
+
+=== 10:45 - Indiana Jones available now on all "legacy" platforms.
+
+The single table Indiana Jones release is available on all platforms that run Pinball FX3 and its variants. 
+
+image::233-indiana-jones-grail.png[] 
+
+The game is pretty faithful to the original table. 
+
+The "Classic Arcade" (Williams/Pro) physics are really accurate, and you can see some of the tells if you've played the physical table.
+I found the shot-making in Pro mode a bit difficult to "dial in," and you really need to be accurate in your shot-making to get the points.
+Combo-ing the left-right ramp pattern is not easy in the arcade, but it is _doable_ which is how you want the game to feel. 
+No vacuum ramps in this digital recreation.
+
+=== 27:00 - Pro/Williams/Classic please explain
+
+Zen needs to pick a more accessible name for the difference between Single Player versus Classic Arcade game modes.
+It is a constant source of confusion among players in Discord and other forums where you compare and contrast modes.
+
+You could flatten the physics types and give them a clearer name in the game mode list for a table. 
+Also, explaining the differences would be helpful as well.
+Something like:
+
+* Basic physics
+
+** Steeper flippers to make it easier to catch the ball.
+
+** Simple flipper tricks like bounce passes.
+
+** Less bounce in rubbers.
+
+* Pro arcade
+
+** Arcade-accurate flipper pitch.
+
+** Flipper tricks like drop-catches and tip-passes.
+
+** Slightly harder game settings over basic.
+
+** Live/bouncy rubbers.
+
+* Pro tournament
+
+** All the features of the pro arcade but with harder game settings.
+
+** Something else I'm not aware of because I don't play tourney physics.
+
+If that is too much, just keep it simple and make it more like basic video game settings:
+
+* Easy difficulty
+
+* Normal difficulty
+
+* Hard difficulty.
+
+=== 31:30 - Visual enhancements in Indy Jones
+
+There are so many visual enhancements in Indiana Jones, but some are a hit, and some are a miss. 
+
+image::233-indiana-jones-castle-grunewald.png[]
+
+We go through the ones we like and don't like and give reasons for each one.
+
+In a future episode, keep an eye out for commentary about visual enhancements across all Bally/Williams pinball tables.
+
+=== 45:30 - Did Zen do a good job
+
+We give our overall impressions of the game and make a call whether you should buy it or not.
+
+=== 50:30 - Some pointed discussion about licensing
+
+We've covered the difficulties of licensing games time and time again on the show. 
+
+So if you are new to licensing and want to understand why this single table is $15, you need to sit down and soak this part of the show in.
+If you do, you _will_ get a better perspective on why the cost is what it is.
+
+It costs a _lot_ of money to cover the licensing for Indiana Jones, and this must be passed on to the consumer.
+
+As just one example, Harrison Ford's (likeness only) fee was allegedly more than the "Arnold likeness fee" Farsight Studios had to pay for Terminator 2. 
+We know the "Arnold fee" was the majority of the $60,000 Kickstarter. 
+And that is just _one aspect_ of this multi-headed hydra of a licensing challenge.
+
+If you still firmly believe that the table should be $7 after listening to our factual commentary, then you are deluding yourself. 
+Sorry (not sorry).
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
