@@ -4,7 +4,6 @@ title:  "BlahCade 237: Indiana Jones and the Costs of Licensing"
 author: jared
 categories: [episodes]
 image: assets/images/233-indiana-jones-keyart.png
-tags: [sticky, featured]
 ---
 :experimental:
 

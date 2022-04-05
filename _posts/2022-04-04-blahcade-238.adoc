@@ -1,0 +1,280 @@
+---
+layout: post
+title:  "BlahCade 238: Pinball FX Early Access Gut Reactions"
+author: jared
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [sticky, featured]
+---
+:experimental:
+
+Buckle up, folks, and grab a hefty snack because this episode will be a long one! 
+
+We have *LOTS* to say about Pinball FX Early Access on Epic Game Store, and a lot of it isn't pretty. 
+
+We try to keep the commentary fair, though, so let us know how we did.
+
+== Watch and listen
+
+video::mvor4AGiYCM[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Pinball-FX-Early-Access-Gut-Reactions-e1gohn0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 11:00 - Two words: underwhelmed and disappointed 
+
+Chris was looking for more from this early access. 
+In particular, playing Zen originals with Williams (now called "Classic" physics).
+
+I was looking for some improvement, but the early access is a good start overall.
+
+=== 15:45 - Physics 101
+
+We go through some of the physics highlights present in early access. 
+
+_Star Wars: Droids_ is particularly fantastic.
+
+We spoke a few episodes ago about the names associated with the physics models in Pinball FX. 
+In our opinion, the names attributed to the modes are not clear. 
+And it is easy to fix.
+
+Change "Classic" to "Simulation," and you solve the confusion about what mode you're playing in.
+
+=== 21:45 - Trying to be positive
+
+While we've tempered the episode up until now, the environmental effects are noticeably improved.
+
+The castle destruction sequence in Medieval Madness now has distinct particle effects in the explosions.
+
+Monster Bash has this awesome arc between the two flashers that almost makes you squint when it fires.
+Fantastic work on this Zen!
+
+=== 23:45 - Strobe multiball, lighting, and ball illumination
+
+Strobe multiball looks much better, but you still don't have the immersion of a fully dark room and a blinding strobe light making the framerate drop to about half rate.
+
+The ball also maintains the same intensity no matter where it is on the playfield. 
+The ball never changes intensity when it passes through dark areas on the playfield.
+
+Give us full room simulation options:
+
+* No score popups
+
+* No ball trails
+
+* Darkroom
+
+* No visual effects for Williams tables.
+
+Also, this feature would be integral to how cabinet mode is accepted by the community. 
+
+=== 31:30 - Fan cave suggestions
+
+It would be great if the DMD would work when the game is in attract mode in the fan cave. 
+
+The overall fan cave experience is a great start, though.
+You'll know what to expect if you've experienced Star Wars VR.
+
+=== 34:15 - Game performance and rig specs
+
+There is definitely room for improvement with game performance in the first early access build.
+Safe Cracker was noticeably fuzzy and aliased.
+
+We didn't have access to the Williams tables in the early alpha build we got access.
+
+We also detail our PC specs so that the feedback we're giving is measurable against your specs.
+
+=== 41:15 - Unreal Engine expectations
+
+We compare other Unreal Engine games like Pinball Wicked and wonder why we aren't seeing at least some of the control that game offers.
+
+Take a leaf out of games that provide a wizard that automatically configures a safe baseline GPU profile for the game.
+It is pretty much expected now for games that utilize the Unreal Engine.
+Hopefully, this feature is coming in a future software build.
+
+Another idea is for Pinball FX to run a benchmark test running the most graphically intense table with all the bells and whistles. 
+Do this as the first run task that happens after you onboard through the basic UI.
+Tune the game settings based on the benchmark.
+Then let me tweak it based on the baseline.
+
+In other words, "Don't make me think. Initially..."
+
+=== 48:45 - FPS woes
+
+Chris ran the Geforce Experience overlay and verified the maximum framerates he could get on his PC rig over all the Early Access tables. 
+
+For Chris, View 8 and View 2 both had decent FPS.
+But I didn't notice this on my RTX 2060 rig.
+
+The Williams tables all had muddy, blurry DMDs in View 8. 
+When you use other views where the DMD is not inset into the backbox.
+
+This is the challenge of game development. 
+
+If you want to buy the tables that play well, here they are:
+
+* Attack from Mars
+* Monster Bash
+* Medieval Madness
+* The Getaway 
+* Rome
+* Castle Storm
+* Universal tables
+* New Hope
+* Clone Wars
+
+A special note about _Rome_. 
+Inserts on Rome are super disappointing.
+They just look like a photoshop job. 
+
+Compare it to _Castle Storm_ where the inserts are faceted and great.
+
+Rome also needs a detailed pass with clear layers pulled out on the playfield.
+I find it hard to distinguish the layers in this game: everything looks flat.
+
+=== 1:01:00 - Things that need fixin'
+
+In this section, we go through things that need attention before release.
+
+* No PS4 controller support (have to use DS for Windows as a workaround)
+
+* No controller rumble (all controllers)
+
+* Get rid of the red Williams environment and change it to the Fan Cave: it is *such* a disconnect between environments.
+
+* Provide proper backglass images for all Zen originals in the virtual cabinet, but even more so for cabinet mode. 
+
+* Give options for Zen originals to be scaled to fit inside the cabinet. 
+Just like _Castle Storm_ in FX2 VR.
+
+* A setting to switch environments from inside the cabinet to outside, such as figures and animated action. 
+It'll be ready for VR, and it is definitely a "next-gen" feature.
+
+* For wide body Zen originals, make the cabinet model deliberately wide body. Embrace it!
+If you ever do _Paragon_ by Bally, you'll _need_ a wide-body cabinet. 
+
+=== 1:12:30 - Managing expectations of early access
+
+We need a basic "is this feature on a roadmap" page for Pinball FX. 
+We don't expect dates or watertight commitments, but a clear list of features that are 100% planned to go into the game.
+
+It's good for setting customer expectations and making the community happier.
+It will most likely result in fewer support calls.
+
+=== 1:17:00 - I _hate_ tickets
+
+Chris shares his strong dislike for tickets as currency.
+
+A great example of why he hates them is when we tried to purchase all the available tables in the game. 
+We got 1200 tickets each through Zen to buy all the tables, but when we tried to purchase them all, we were short 13 tickets. 
+
+We both expected that if we had 1200 tickets, we'd be able to get everything except Indy Jones. 
+But that wasn't the case. 
+
+=== 1:22:45 - Overpriced?
+
+The other problem is that you are heavily penalized for not spending more. 
+Chris compared the current costs between FX3 and Pinball FX, and the cost per table is definitely more than FX3.
+
+Even with the 33% off deal for the first week, the "blow is not softened" if you want to update your library to be Pinball FX compatible.
+
+Chris details the costs and lays it out honestly if you purchased smaller ticket quantities. 
+For Williams tables that were $3.33, they are now $4.50 (45 tickets).
+
+FX original tables are fair game at $5 or $6, but the _Legacy originals_ do not attract any licensing. 
+
+=== 1:28:45 - Tickes and cross-platform purchases
+
+I point out an observation about tickets becoming a cross-platform entitlement system.
+Mel confirmed that this is the direction they want to go with Pinball FX.
+
+Once you pay the dollar value on whatever platform you play through, you can carry those tickets over to any platform you own. 
+This will potentially eliminate the age-old question, "can I transfer my games from Xbox to Playstation or Steam?"
+
+If this pans out, this will be a huge win for consumers. 
+Let's hope they get this ironed out before the game comes out on other platforms.
+
+=== 1:37:45 - Buy now or wait?
+
+Chris and I give our perspectives on whether you should buy now or wait until Pinball FX officially releases.
+
+I recommend you go and purchase all the new Zen originals that have never been in the game before. 
+You might also like to buy some of your absolute favorite Williams tables.
+
+Expect to see more discounts surface once the game comes out on consoles.
+
+Chris says that if you just want to play pinball and get on leaderboards, then *don't buy anything*. 
+If you truly want to improve the game during Early Access, invest in tables that you really know well to give great feedback.
+
+The fact is that you don't *actually* have to spend a cent throughout early access.
+The tables are being rotated daily throughout the Early Access period. You can test them out on your rig and see what ones you want to invest in now.
+
+=== 1:44:00 - Premium license loss leaders
+
+Premium tables like Indiana Jones are excluded from the ticket-based system. 
+They are going to be US$14.99 each.
+That's A$22.00 here in Australia.
+
+You can expect that fan-favorite tables such as _The Addams Family_ and _Terminator 2_ will likely be the same price if they make it into the game. 
+The amortized cost of each premium table will help offset the license fees across all the tables. 
+
+The exact dollar value on these tables is also necessary from a licensor's perspective to know their cut from each sale. 
+
+Don't expect premium tables to be every month.
+Every six months seems reasonable to expect.
+
+=== 1:51:45 - Tempered optimism
+
+While there are problems, there won't be as time progresses. 
+
+There is definitely potential in Pinball FX.
+All Zen can do to silence the critics is deliver a fantastic product and demonstrate a compelling value statement.
+
+=== 1:54:45 - Give Zen constructive feedback
+
+Ensure that if you are participating in Early Access, you need to report bugs.
+
+Ensure that you use Zen's ticketing system and add some simple information that will make the support team want to hug you:
+
+* Title contains "FX EA" or something that identifies the report as an early access report.
+
+* Include your system specs _in every bug report_ you provide.
+
+* Be kind and constructive in your feedback. 
+
+Do this, and you will *truly* help Zen improve the product.
+Just don't expect a response to each and every bug report. 
+The team is going to be flat-out supporting you all.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
