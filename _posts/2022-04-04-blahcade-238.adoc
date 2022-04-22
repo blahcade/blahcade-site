@@ -4,7 +4,6 @@ title:  "BlahCade 238: Pinball FX Early Access Gut Reactions"
 author: jared
 categories: [episodes]
 image: assets/images/216-pinballfx-logo.jpeg
-tags: [sticky, featured]
 ---
 :experimental:
 

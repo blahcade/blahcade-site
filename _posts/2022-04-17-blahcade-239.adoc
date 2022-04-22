@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "BlahCade 239: More Williams and More Originals"
+author: jared
+categories: [episodes]
+image: assets/images/WWZ-keyart-1-1_V2.png
+tags: [featured, sticky]
+---
+:experimental:
+
+Join us as we look at Zen's roadmap of future tables. 
+
+We also offer our first impressions of the new _World War Z_ table from the _Paramount Pinball_ collection.
+
+Finally, we share our opinions on the three latest Zen originals: Noir, Curse of the Mummy, and Sky Pirates.
+
+== Watch and listen
+
+video::X1EeBlNgizs[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/More-Williams-and-More-Originals-e1hgin1" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 06:00 - What do those graphics settings actually do? 
+
+Advanced graphics settings are now available in the game. Still, we're both struggling to understand what the settings actually do.
+
+Perhaps a bit of UI help about what each setting does could help new players find the right balance based on their graphics goals in the game.
+
+=== 12:00 - PC RAM specs don't seem to affect gameplay 
+
+Having extra RAM doesn't seem to make much difference to gameplay.
+
+GPU specs seem to be critical to tweak or focus on from a game performance perspective. 
+
+=== 21:50 - There is a roadmap
+
+There is a public roadmap for the content being released in the next few months, and here it is.
+
+image::238-roadmap.png[Zen studios Pinball FX roadmap]
+
+=== 23:45 Speculation freestyle
+
+In this part, we speculate about what the new roadmap might reveal regarding the new WMS tables being released.
+
+=== 30:30 World War Z
+
+The newly announced table is World War Z, part of the new _Paramount Pinball_ collection.
+
+For a start, the backbox image for the table is the same as the key art for the table.
+
+image::WWZ-keyart-1-1_V2.png[World War Z backglass image]
+
+Those zombies climbing the pinball machine is just fantastic imagery!
+
+image::239-World_War_Z_Pinball_Screenshot_2_logo.png[View 2 perspective of World War Z]
+
+The game looks really great, and it is not based on the Brad Pitt movie.
+Instead, it is based on the Saber Interactive game franchise.
+
+image::World_War_Z_Pinball_Screenshot_3_logo.png[Minigun mode in World War Z is fantastic to play]
+
+Getting this hoard mode is just fantastic, and it actually looks exactly like this in the game.
+
+=== 38:00 Detective level speculation
+
+What other games has Saber Interactive made?
+Could these games be upcoming in the jam-packed Content team's release schedule?
+
+Evil Dead would translate pretty well to pinball, but it is super gory. 
+
+Warhammer 40,000 could be a huge franchise to import a new base of fans into the game.
+
+Halo is also on Saber's dance card. However, they look like a publisher, not a game producer.
+
+They also have NBA connections, so could this pave the way for NBA Fastbreak? 
+We both hope so.
+
+=== 40:45 A trio of meh?
+
+We discuss the new Zen tables and rank them from favorite to least favorite.
+While doing so, we go into specific details about why we have ranked them the way we have.
+
+Most of the criticism centers around the use of "spell-o-rama" mode starts and the general "sameness" of the three originals from a gameplay perspective.
+The other aspect is that the new designs don't tell the player clearly enough what to shoot for. 
+Take some lessons from table designs like Medieval Madness for how the lights "tell the story" in a pinball game.
+
+Hopefully, some of this critique will rub off on the game, but it is OK if it doesn't. 
+Everyone has opinions, right? ;)
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
