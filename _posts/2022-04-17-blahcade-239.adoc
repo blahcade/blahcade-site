@@ -59,7 +59,7 @@ GPU specs seem to be critical to tweak or focus on from a game performance persp
 
 There is a public roadmap for the content being released in the next few months, and here it is.
 
-image::238-roadmap.png[Zen studios Pinball FX roadmap]
+image::239-roadmap.png[Zen studios Pinball FX roadmap]
 
 === 23:45 Speculation freestyle
 
