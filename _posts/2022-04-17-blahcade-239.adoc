@@ -4,7 +4,6 @@ title:  "BlahCade 239: More Williams and More Originals"
 author: jared
 categories: [episodes]
 image: assets/images/WWZ-keyart-1-1_V2.png
-tags: [featured, sticky]
 ---
 :experimental:
 

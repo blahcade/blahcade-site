@@ -1,0 +1,182 @@
+---
+layout: post
+title:  "BlahCade 240: Spring 2022 Chat with Mel Kirk"
+author: jared
+categories: [episodes, interviews]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [featured, sticky]
+---
+:experimental:
+
+A must-watch episode as Zen's very own Mel Kirk joins us once more on the show to talk about the current state of Pinball FX, where the platform is heading, and how your feedback affects the game.
+
+The effort for Pinball FX is "a marathon, not a sprint" as Mel repeatedly says throughout this interview.
+Get your runners on and pace yourself for another great chat.
+
+== Watch and listen
+
+video::6B8i7gw0phI[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Spring-2022-Chat-with-Mel-Kirk-e1i0kkg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 01:00 - How is Early Access going? 
+
+Mel talks about how early access is going and how the team takes all the feedback on board.
+
+It turns out that the message about purchases not transferring over from FX3 should have been constantly repeated and took the team by surprise.
+In other words, the studio needs to repeat potential bad news constantly, so no one is surprised by it.
+
+There is a whole third of the purchase and ticket system missing from the game, so the experience will be quite different once it gets added in.
+
+=== 05:30 - Making the ticket mathletics a non-issue  
+
+Everyone was trying to guess how many tickets you'd need to purchase all the tables for the best value ticket pack.
+
+A fix in the works (again, the ticket system is two-thirds finished) should fix the issue of hanging balances.
+
+The idea will be that if you have a small hanging value left over, the system will offer you a _dynamic bundling_ deal in-app to burn down the ticket balance.
+Keeping a hanging balance in the app could be useful, so you get presented with special discounts.
+
+Curated sales have to be planned six months from the planned date on consoles, so this system will give the studio far greater control.
+
+=== 10:45 - What is the actual end-game for the ticket system
+
+In short, cross-buy across all platforms is the reason for the ticket system.
+
+Mel tells us the back story of setting up one of the most requested features for the platform.
+
+Expect a staged release process for consoles so that the team can perfect the cross-buy experience across the platform.
+This is not something that you can rush.
+
+=== 14:45 - Will Indy Jones be purchase-only on mobile
+
+Indy Jones will always be purchase-only: it is just too expensive to offer as a ticketed item.
+Every other table released will be included in the ticket system cross-buy model.
+
+Mel confirms there is *no other table* that will _ever_ be $14.99 on the platform, and some _big_ releases are scheduled.
+
+There may also be a chance of a unified mobile ticket experience in the Williams Pinball app (or a variant of that experience as time progresses).
+
+=== 20:00 - Are tables still "fluid" in their finalized state?
+
+The tables are in a constant state of iteration, and everything is being refined daily.
+There is still plenty of tweaking to expect in the platform.
+
+We ask Mel a few other questions about aspects of some of the tables, like ball lighting and room lighting.
+
+Mel also clears up the state of some of the very early "core pack" table code rules.
+Mel outlines the notion of "maintenance" on both the platform and content (tables) and how this is 
+
+=== 25:00 - Voiceovers and music
+
+Mel gives some perspective on the whole issue of "paying extra" for a genuine article regarding licensed music.
+They tested this out by making Indy Jones 100% faithful to the original table. 
+The backlash from the community has made the studio pretty conservative about pursuing this avenue again (this is why we can't have nice things).
+
+Some artists are willing to work "non-union" and the licensors have a huge influence on who is chosen to be the official sound-alike for a specific actor.
+
+=== 29:00 - Physics consist of 80 different properties
+
+Deep confirmed with Mel that there are actually 80 different properties and settings they can use to tweak physics settings on tables.
+
+Mel firmly believes that physics will never be considered "done". 
+But I don't think that anyone would be upset about that fact.
+
+Deep is currently fully responsible for physics, and he holds most of the institutional knowledge about how physics works.
+This is why there is a concept of "The Deep Physics Academy" so that Deep can step away from physics and actually move into more table designs.
+
+The studio is still looking to get 12 pinball designers, and they are currently at eight people in that department.
+
+=== 33:00 - Flipper angles across Williams tables
+
+Mel is not specifically aware of how flipper angle tuning currently sits. However, he said that "we are not planning on going backward".
+
+=== 34:30 - Performance expectations for Pinball FX
+
+Zen's benchmark for 60 frames-per-second in full HD resolution is the absolute minimum the studio is shooting for as a lower-end target.
+HDR and ray-tracing are the upper end of the spectrum that the studio is striving to offer the broader audience of the game.
+
+=== 37:00 - Environments and the fan cave
+
+How will the Williams tables and the environments be normalized across the fan cave?
+While the current state is that the environments are different, this won't remain this way.
+
+Mel talks about "pillars" in the platform related to large feature sets. 
+
+=== 39:00 - Pinball cabinet support
+
+Mel tells us some basic plans for "Pinball FX Cabinet Mode". 
+This is now the official name for cabinet support. 
+There will be a full set of supported static and dynamic backglasses for your cabinet. Still, Mel and the team will tell you more about that in the next Pinball Show (hopefully).
+
+And for the record, the effort that Akos and Linne will help the studio understand the issues cabinet builders face.
+
+Mel also updates us on location-based pinball. 
+The commercial market is still on the roadmap and is a *huge* part of the strategy moving forward.
+
+The "Dave and Busters Pinball Cabs" with the awesome scrolling marquee have performed well in locations. 
+While other games in the arcade have been down for maintenance, the Zen cabs have been ticking along reliably and offering ticket redemption pathways. 
+Seems like a good bet to go down this path.
+
+=== 47:00 - Arcade 1UP update
+
+The Arcade 1UP market (Gen 1) was very successful but suffered from supply-chain issues.
+Mel didn't like seeing units going for three times the list price: the goal was to make more available so everyone could own a machine.
+
+Gen 1 gave Zen heaps of data to consider, and active development is happening in the home use market. 
+The hardware limitations and the lessons learned about how large-scale manufacturing works in today's markets have helped heaps. 
+
+There is a lot of potential remaining in this market segment. 
+Stay tuned.
+
+=== 51:30 - Saber Interactive and Paramount Pinball
+
+Mel goes into some details about more Zen and Saber collaborations.
+
+Garfield is now CBS/Viacom, and *ahem* so is South Park. Good news.
+Paramount also owns several Williams table licenses.
+
+Mel is booking slots into 2024, so there will be no shortage of content.
+He is fielding inquiries and having to tell potential partners that the wait time is long.
+
+Entertainment tie-ins are quite difficult to line up for releases, it turns out.
+
+=== 58:00 - Zen is the only pinball game in town
+
+Mel feels the pressure about essentially being the only game in town. 
+But the reason behind this turns out to be a lot of hard work and effort.
+The studio is hungry for the title and doesn't seem like they will lose it any time soon. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
