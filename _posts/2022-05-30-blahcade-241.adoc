@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlahCade 240: Swords, Monsters, and Cab Mode"
+title:  "BlahCade 241: Swords, Monsters, and Cab Mode"
 author: jared
 categories: [episodes]
 image: assets/images/241-swords-of-fury-key.png
