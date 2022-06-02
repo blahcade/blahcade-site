@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "BlahCade 240: Swords, Monsters, and Cab Mode"
+author: jared
+categories: [episodes]
+image: assets/images/241-swords-of-fury-key.png
+tags: [featured, sticky]
+---
+:experimental:
+
+This week, we discuss Pinball FX's latest new table _Swords of Fury_. 
+
+We also dive into the announcement about Zen Studios collaborating with Toho Studios for a trio of Monsterverse tables due to crash through buildings in late 2022. 
+
+Then, of course, cabinet mode is now available in Early Access. 
+Is it worth trying out at the moment?
+
+== Watch and listen
+
+video::Xu8dSm0RmDM[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Spring-2022-Chat-with-Mel-Kirk-e1i0kkg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 07:00 - Swords of Fury releases on Epic Games Store Early Access 
+
+_HERE CUM DA GUARDS!_
+
+Zen pushes out a new table (to their specific platform) for the masses.
+The table is _Swords of Fury_, a System 11B table released in mid-1988.
+
+The sound on this re-creation is very well implemented. 
+This quality gives the community hope for audio fixes we're currently waiting for in WPC systems like White Water. 
+
+image::WMS_Swords_Of_Fury__Multiball.jpg[Swords of Fury Multiball]
+
+image::WMS_Swords_Of_Fury_Creature_Shot.jpg[Swords of Fury and the creature]
+
+We talk through some of the finer points of this table and how it feels. For example, the flipper feel a bit overpowered compared to a real table.
+
+Chris compares The Pinball Arcade version of Swords of Fury with Zen's version and notes some differences that might've been difficulty-related settings that Farsight chose at the time.
+
+=== 35:00 - Pinball FX Cabinet Mode  
+
+This is the official name of cabinet support in Pinball FX.
+
+The support in this first iteration is _heavily_ config-driven.
+You need to manually edit a config file to get your screen positions set up correctly.
+
+It's a good time to remind everyone that this mode is a first-pass at cabinet mode. It only exists so that folks can actually get the game running on their cabinet setup.
+
+What you see at this point in time is what you get for now. 
+The studio is focusing on consoles exclusively.
+
+Cabinet mode will also be an in-app ticket purchase, with the price set by you.
+You could spend one ticket. 
+However, that sends a bad message about how much you value this feature.
+
+The better way to manage cabinet mode is to offer a short trial to prospective customers and then ask them to pay what they think it is worth.
+
+=== 45:00 - Other Williams tables that were released with Swords of Fury
+
+Road Show now lets you shoot reliable shots up the left ramp.
+You can make the left ramp with a rolling ball, which was impossible on FX3.
+You had to trap up and then shoot on FX3. 
+
+Tales of the Arabian Nights has an issue with the captive ball not registering.
+The fireball animation in the game now looks _incredible_ and is probably the best visual enhancement to date.
+
+White Water actually suffered a regression in the public build. 
+The well-known hi-hat cymbal noise is still there, but they also screwed up the bass orchestration. 
+
+Cirqus Voltaire looks great with the neon tube really popping in-game. 
+The table has received a lighting pass to make it darker, making the neon really stand out.
+Neon Multiball still doesn't _quite_ deliver because the ball is yet to receive a lighting pass, and the intensity of the ball does not change.
+
+Hurricane is, well, Hurricane. :P
+
+=== 50:00 - There's a "grainyness" to the enhancements
+
+I pointed this out to Chris, and he suggested that it was the "Motion blur" setting in the game, but I did not have that turned on.
+
+It turned out that _pinballwiz45b_ suggested it was due to Temporal Anti-aliasing (TAA) settings. 
+If you change TAA to Fast Approximate Anti-aliasing (FXAA), the blurriness disappears.
+If you do, you may find a performance impact, but it dramatically improves the motion blur.
+
+The TAA setting doesn't just affect Pinball FX. 
+There are plenty of documented cases where other top-tier games suffer the same issue.
+
+=== 55:00 - Bundle your own packs
+
+Zen is very close to completing its in-app purchasing backplane.
+You can now bundle your own packs, and there are some ways you can really maximize your discounts.
+Stack 'em up to get up to 46% off!
+
+=== 60:00 - Zen partners with Toho Studios for the Monsterverse tables
+
+You get some Godzilla action in late 2022 (maybe early 2023). 
+What will be interesting is to see what Zen can do with Godzilla now that Stern has released Godzilla.
+Zen has a real opportunity to dramatically make this table a digital effect extravaganza. 
+Godzilla could destroy parts of the playfield, which could affect how the balls travel.
+
+== 63:00 - What is the next table?
+
+The turn of phrase that Akos dropped in the pinball show suggests a pretty clear clue about the next table. 
+Can you get it?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn about more ways you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use some of our free backglass images in your build.
