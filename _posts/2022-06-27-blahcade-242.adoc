@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "BlahCade 242: RIP Digital Pinball Fans"
+author: jared
+categories: [episodes]
+image: assets/images/BOPB-keyart-16-9.png
+tags: [featured, sticky]
+---
+:experimental:
+
+It's the end of an era! The digitalpinballfans.com forum is closing at the end of July 2022. 
+We go down memory lane and talk about how the site hugely impacted digital pinball's growth and our reason for existing as a podcast. 
+Oh, and Bride of Pinbot got announced, so we talk a little about what we've seen.
+
+== Watch and listen
+
+video::NB2PZnlGqXA[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/RIP-Digital-Pinball-Fans-e1kj8h7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 10:30 - Digital Pinball Fans retrospective
+
+This show is mostly dedicated to remembering the impact and influence the Digital Pinball Fans forum has had on the digital pinball landscape.
+
+It started with Farsight Studios and the _The Pinball Arcade_ product released in 2011/2012 (depending on your chosen platform).
+
+It continued with Magic Pixel and Zen Studios, taking advantage of the dedicated and passionate fan base that frequented the forums. 
+Other pinball companies came and went, but for a long time, there was a clear divide between Zen Studios supporters and Farsight Studios supporters.
+
+There were all sorts of threads for all sorts of topics on that forum.
+At its peak, the post count was in the hundreds per day.
+
+Thank you to the webmaster Gord Lacey for paying the hosting fees for the server, month in, month out. 
+He never asked a cent for the service.
+He did it not for profit but because he knew that what he was doing was providing a genuine community service that several hundred people valued.
+
+=== 53:30 - Williams Volume 6 and _The Machine: Bride of Pinbot_ announced 
+
+Zen pushes out a new table (to their specific platform) for the masses. Again!
+The table is _The Machine: Bride of Pinbot_, a Williams WPC alpha-numeric table that began shipping on February 16, 1991.
+
+image::WMS_Bride_of_Pinbot_Billioner_Award_LogoLegal.png[The Billionaire shot!]
+
+The sound on this re-creation is very well implemented, which continues the audio quality we saw in _Swords of Fury_. 
+
+image::WMS_Bride_of_Pinbot_Miniplayfield_LogoLegal.png[PinBot gets a cameo]
+
+We can't talk too much about the specifics before release, but these press shots really do the in-game experience justice.
+It really does look beautiful compared with the Farsight Studios version.
+
+image::WMS_Bride_of_Pinbot_Face_3_LogoLegal.png[The Bride in human form]
+
+If only a deal could be struck with Dutch Pinball LLC to get the _Bride 2.0_ software approved for commercial digital pinball distribution. 
+It would make this release incredibly attractive.
+Heck, even sell it as a new table to cover any licensing costs and implementation tweaks with the _Fast Pinball_ platform they use.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn how you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use our free backglass images for your build.
