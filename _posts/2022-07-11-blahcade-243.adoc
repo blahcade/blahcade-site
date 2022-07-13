@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "BlahCade 243: Retroplay Gets Us Talking About VPX"
+author: jared
+categories: [episodes,interviews]
+image: assets/images/retro-play-pin-sim-vr.png
+tags: [featured, sticky]
+---
+:experimental:
+
+We usually stay clear of VPX discussions. 
+
+But we saw what Retroplay is doing with a new app in their cabinets that takes all the hassle out of installing VPX tables, so they work well.
+With this being a major frustration point for Chris and me, we decided to talk with them. 
+
+David Gilmore joins us for an in-depth discussion about the software and hardware solutions he has created to make pinball more accessible.
+We also discuss a great solution for pinheads who like to play in VR.
+
+== Watch and listen
+
+video::MeH1AOGNvVo[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Retroplay-Gets-Us-Talking-About-VPX-e1l5t9k" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 01:00 - What does RetroPlay do?
+
+Dave shares his journey from working in his shed in the UK to establishing a business in Australia that ships worldwide.
+
+He also shares what problem he's trying to solve with the cabinets.
+
+=== 06:00 - Building in Austraila 
+
+Getting parts continues to be an ongoing issue, and Dave shares his challenges with obtaining parts for his orders.
+
+There is a story here about how using creative ordering methods and manufacturing methods make getting machines out possible during global shutdowns.
+
+=== 11:00 - Kaizen manufacturing methods
+
+Efficiency is key in manufacturing material things. Dave shares his experiment with the https://www.leanproduction.com/kaizen/[Kaizen manufacturing method] to produce cabinets quickly.
+
+There are some challenges to overcome with supply chain issues. Still, the method means you do everything you can to minimize waste, no matter what that wastage looks like.
+
+=== 16:40 - Cabinet design cues from real manufacturers
+
+From buttons to tactile feedback, these cabinets are pretty loaded with stuff. 
+
+The machine's brain is the http://mjrnet.org/pinscape/[PinScape board], which manages the control surfaces like buttons and the tilt functions.
+It also controls inputs to things like exciters and actuators used in the games. 
+
+We also go into the individual specs of the models available.
+
+You have the option to buy a cabinet without the PC if you already have a good PC to throw into the cabinet. 
+No hardware or software is locked or restricted, so upgrading the gear is easy.
+
+=== 32:00 - How does the software work?
+
+Dave explains why the software exists and the problems it solves.
+
+While installing the software through Baller Installer makes it much simpler, getting your head around how VPX works can take several months.
+
+An installer can also help get around the issue of community assistance and help non-tech folks experience digital pinball without frustration.
+
+You can install FX3 and other Steam software and link them to the pinball machine's front-end.
+
+=== 39:30 - Pin Sim VR
+
+Pinball in VR is the way to play for sure.
+
+The Pin Sim VR is a self-contained pillar with outputs for monitors and the headset itself.
+
+The system can also be a base station for all VR games, not just pinball.
+
+While Dave hasn't tested the system with AirLink, it should be possible.
+
+All audio and callouts are fed through the headset.
+Mechanical sounds are fed through the exciters and transducers, which are positioned right near your hands.
+
+=== 53:00 - Cabinet art and the future of VPX
+
+Dave describes how they have a selection of art available, or you can supply your own art and have it printed.
+
+He also describes what is happening in the VPX space with Unity and Unreal 5. 
+This change in graphics framework opens up huge opportunities for ray tracing and lighting in these digital pinball recreations.
+Also, how about the concept of the Meta Arcade, where you can browse a virtual arcade filled with simulated tables?
+And what about designing pinball tables in Augmented Reality (AR)
+Dave reckons this is going to become the norm.
+
+=== 60:00 - Guitar Pro has 9000 games!
+
+The Guitar Pro cabinet is pretty sweet. 
+There are 9000 tracks on the cabinet, and the controllers are solid. 
+
+Dave goes into the iterations he had to do with controller selection and how you can connect other instruments like electronic drums and DJ Hero peripherals.
+
+He even wants to do a SingStar machine. 
+Get the band together!
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn how you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use our free backglass images for your build.

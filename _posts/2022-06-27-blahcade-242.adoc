@@ -4,7 +4,6 @@ title:  "BlahCade 242: RIP Digital Pinball Fans"
 author: jared
 categories: [episodes]
 image: assets/images/BOPB-keyart-16-9.png
-tags: [featured, sticky]
 ---
 :experimental:
 
