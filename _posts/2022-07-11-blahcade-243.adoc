@@ -4,7 +4,6 @@ title:  "BlahCade 243: Retroplay Gets Us Talking About VPX"
 author: jared
 categories: [episodes,interviews]
 image: assets/images/retro-play-pin-sim-vr.png
-tags: [featured, sticky]
 ---
 :experimental:
 

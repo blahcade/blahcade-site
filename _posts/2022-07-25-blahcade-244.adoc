@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "BlahCade 244: Grimm Tales and RetroPlay Aftermath"
+author: jared
+image: assets/images/PFX_Grimm_Tales_View_1.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Well, people sure did have things to say about our previous episode featuring RetroPlay! 
+We try not to kick the hornet's nest once more and probably fail. 
+You decide. 
+But we start with Jared talking about the BPAP 2022 festival in Brisbane, and we finish with the gameplay of Zen's latest original table, _Grimm Tales_. 
+There's some bonus play of Williams' _The Machine: Bride of Pinbot_.
+
+== Watch and listen
+
+video::45upSZoURks[youtube, width=560, height=315]
+
+Did you know that Chris does live Q and A during the premiere? 
+You can discuss the show in real-time with other pinball fans if you join us on YouTube.
+
+Don't forget to subscribe to the YouTube channel to never miss an episode.
+
+++++
+
+++++
+
+We're also on the following platforms:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+Don't forget to leave us a review or comment wherever you watch or listen: we appreciate you doing it!
+
+== Show notes
+
+=== 00:30 - BPAC 2022: Unleash the Beasts
+
+Jared details the annual BPAC 2022 event in locations around Brisbane, the Gold Coast, and Sunshine Coast.
+
+International ranked players flew in for the festival. Steven Bowden from Chicago, IL, took out the title.
+
+=== 09:30 - The challenges of operating pinball machines for profit 
+
+Chris recounts an article he read this week about an arcade operator in the midwest USA. 
+
+The operator was lamenting how poor the cashbox takings from pinballs were compared with video games.
+In contrast, other operators with a "mixed business" like a bar see pinball revenues doing great business through the cashbox.
+Jared recounted a venue called https://www.flippd.com.au/[Flipp'd^], which is up in Toowoomba, Queensland. 
+They have a mixture of pinballs, video games, light redemption, beer on tap, and food over the bar. 
+Then up the road, there is a more typical "gambling for kids" family entertainment center called iPlay. 
+
+If your place isn't dedicated to pinball, you will find that pinball will not earn money.
+You need a collection of pinball tables that speak to people through the right themes, and they all need to work well, so people want to play them again.
+
+Jared also talked to some folks from Melbourne, Victoria, who attended BPAC 2022. 
+They were jealous of the price we pay in Brisbane for a play on a pinball machine. 
+Up here in Brisbane, it is A$1.00 a play. 
+In Melbourne, it is A$2.50 a play. 
+That makes repeat play business hard to swallow for customers.
+Given the price of the machines, the cost per play is understandable, but it is a far cry from the days of 20c games in the milk bar.
+
+=== 21:50 - VPX reactions
+
+In this part of the show, we discuss an article posted on https://www.thisweekinpinball.com/a-peek-into-the-digital-creator-community/[This Week In Pinball^], which is an absolutely awesome look into how much effort goes into making a VPX table.
+
+There were some points in the article relating to licensing, which we just can't leave alone. 
+We have a good dig into the licensing aspects discussed in that article. 
+There are some nuanced and implied parts of that article that seem specifically worded to avoid any issues with licensing, but that doesn't stop us from picking away at it.
+
+The notion raised about "Fair Use" in the article really doesn't stand up. 
+There is no "loophole" when using licensed properties.
+For the tables that the VPX community creates from scratch (graphics, sound, code, lighting, table design), there is no question that the creators own all of the IP. They should have full agency over how and where that content is distributed.
+
+The main theme in the comments from our last episode focused more on David's concept of offering a storefront to assemble and distribute the tables, which are freely available to download.
+David confirmed that he provides full credit to the table creation team for each table he adds to the installer, which is the right way to do it.
+But there is still disharmony about distributing the tables like this. 
+
+=== 44:00 - Zen releases Grimm Tales
+
+This part of the show is a "Let's Play" and won't translate well to the audio version of the show.
+Open the YouTube video in the link and watch the game footage as Chris and I commentate to the show's end.
+
+At the end of this segment, we give our overall thoughs about the game.
+
+image::PFX_Grimm_Tales_View_1.jpg[Playfield view of the Grimm Tales table]
+
+Zen released a new original table called _Grimm Tales_ based on the well-known fairy tales.
+
+image::PFX_Grimm_Tales_Left_Corner_House.jpg[Upper left playfield]
+
+The game is probably the best-looking table in the Pinball FX originals. 
+The notion of a "life under glass" is fully realized in this whimsical take on the often quite dark takes that the Brothers Grimm cooked up.
+
+image::PFX_Grimm_Tales_Glowing_Mirror_v2.jpg[The Mirror in the game acts like a video screen as well as a flasher]
+
+The game features actual shot callouts in a Zen Studios original for the first time, which is a great direction for future table designs.
+
+image::PFX_Grimm_Tales_7_Multiball.jpg[Crystal Multiball, one of many multiball modes in the game]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn how you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use our free backglass images for your build.
