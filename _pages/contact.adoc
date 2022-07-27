@@ -5,7 +5,7 @@ permalink: "/contact.html"
 
 You can contact and interact with the show using the following methods:
 
-Email:: mailto:blahblahblahcade@gmail.com is the best way to contact us if you need to talk long-form and old school.
+Email:: mailto:blahblahblahcade@gmail.com[Email] is the best way to contact us if you need to talk long-form and old school.
 
 Show Twitter:: https://twitter.com/blahcade[^]
 
