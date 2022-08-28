@@ -3,7 +3,6 @@ layout: post
 title:  "BlahCade 244: Grimm Tales and RetroPlay Aftermath"
 author: jared
 image: assets/images/PFX_Grimm_Tales_View_1.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

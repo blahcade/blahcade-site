@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "BlahCade 245: The rest of 2022 as we see it"
+author: jared
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [featured, sticky]
+---
+:experimental:
+
+It has been a bit of a quiet year regarding commercial digital pinball.
+
+Chris and Jared break down what has happened throughout this year and predict how the year may end based on what we know now. 
+
+There is also a break from the usual pinball talk with a discussion about the new Predator _Prey_ movie and a few other returning shows to check out.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::TNTHuqF5UuU[youtube, width=560, height=315]
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/The-rest-of-2022-as-we-see-it-e1n25bo" height="102px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 00:30 - Light intro
+
+Chris has a new position to add to his belt at Disney.
+
+Jared shares some drama that happened during the week.
+He also shares just how good having a high-powered gaming PC in the loungeroom is and how the enhanced hardware makes playing Pinball FX better.
+
+=== 09:20 - Embracer group has bought the rights to Middle Earth Enterprises
+
+We talk about the recent acquisition of all the things Lord of the Rings.
+
+There are so many potential intellectual property (IP) possibilities that this deal offers Embracer and, by proxy, Zen Studios.
+
+Remember that Zen Studios don't have Stern Pinball or Jersey Jack Pinball, so don't expect any pinball tables already made by these companies.
+
+=== 18:30 - What does the rest of 2022 look like for digital pinball
+
+We've realized that there is not a lot of commercial digital pinball action outside of Zen Studios at the moment.
+
+The flurry of commercial home-use digital pinball cabs from At Games and Arcade 1UP in retail stores has dried up, and you need to order them direct from the manufacturer.
+Even titles like Zen Pinball Party have slowed down with new content over the last year.
+
+We muse on how the end of the year might shake down for digital pinball.
+The basic premise is that Zen's focus will be getting consoles ready to launch for Christmas 2022 and content for the existing Pinball FX platform.
+Those booking that blow out into 2024 won't finish themselves.
+
+NOTE: Since publishing this episode, At Games has announced some more tables made by Magic Pixel that are exclusive to At Games cabinets. 
+
+=== 42:00 - We're on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+=== 44:31 - The new Predator movie "Prey"
+
+Chris and I have really enjoyed the latest installment in the Predator franchise. We thought it was long overdue that we did a bit of movie chat.
+
+We also talk about a few _Hulu_ originals like _Solar Opposites_.
+
+The series _Reacher_ gets a mention based on how each show picks up like they are one continuous movie.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+https://www.blahcadepinball.com/support-the-show.html[Say thanks^]:: If you want to say thanks for this episode, click the link to learn how you can help the show.
+
+https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^]:: If you want to make your digital pinball cabinet look amazing, why not use our free backglass images for your build?
