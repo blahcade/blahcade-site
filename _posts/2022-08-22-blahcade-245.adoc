@@ -3,7 +3,6 @@ layout: post
 title:  "BlahCade 245: The rest of 2022 as we see it"
 author: jared
 image: assets/images/216-pinballfx-logo.jpeg
-tags: [featured, sticky]
 ---
 :experimental:
 

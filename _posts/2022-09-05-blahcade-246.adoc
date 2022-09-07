@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "BlahCade 246: Homeworld Pinball Let's Play"
+author: jared
+image: assets/images/246-Homeworld-key-art.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+We speculate a bit about what is coming up from Zen in Pinball FX for September, October, and November. 
+
+We then dive into the live play of Zen's latest, _Homeworld: Journey to Higara Pinball_. 
+Is this Zen Original a "buy now" or "don't bother"?
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::DDwYcXSGN7w[youtube, width=560, height=315]
+
+++++
+
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 00:30 - National Cinema Day
+
+Chris shares his experience of seeing _Jaws_ in 3D during the US _National Cinema Day_.
+Even though he knew it was coming, he still got the jump scare in the movie.
+
+We also talked a bit about watching 3D movies in VR and that I never actually did it.
+
+Chris also planned to see _1000 Years of Longing_ and _Bullet Train_ so maybe he can give us his thoughts about those two next week.
+
+=== 15:00 - Pinball Show Recap
+
+Mel Kirk revealed that future versions of the Pinball Show will be shorter-length episodes and only focus on the table being released that month.
+There will be some light developer interviews in these episodes to back up the table release.
+
+The episodes will be a bit longer for bigger announcements to suit the amount of news. 
+Expect this format when they announce console support, for example.
+
+=== 18:00 - The new  Pinball FX roadmap for the rest of 2022
+
+Also, in the pinball show, the popular roadmap released at the beginning of the Early Access program on Epic Games was updated with new information.
+
+September:: Big remaster pack and a surprise (we're guessing Marvel and something else).
+
+October:: A Williams title.
+
+November:: Zen original and remaster pack (we're guessing all the remaining Zen Original tables).
+
+This news sparked great speculation about what the packs could contain on our https://discord.gg/c6HmDcQhpq[BlahCade Discord Server].
+
+=== 44:31 - Let's Play Homeworld Pinball
+
+Chris does the flipping, and I do most of the yapping as we do a _Let's Play_ of Zen Studio's new table _Homeworld: Journey to Higara Pinball_.
+
+NOTE: I've left the game audio in, but you should use it as your cue to watch the gameplay on YouTube if you are a podcast listener.
+Get the YouTube link from the top of these show notes.
+
+Here are some screenshots from the game. 
+
+.Table Key Art
+image::246-Homeworld-key-art.jpg[Homeworld Key Art]
+
+.Main table view
+image::Homeworld_View1_1.jpg[Main table view]
+
+.Ramp warp tunnel
+image::Homeworld_screenshots.jpg[Ramp warp tunnel]
+
+.Chapel Perilous mission
+image::Homeworld_Chapel_Perilous.jpg[Chapel Perilous mission]
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

@@ -5,6 +5,8 @@ permalink: "/contact.html"
 
 You can contact and interact with the show using the following methods:
 
+Discord:: The https://discord.gg/c6HmDcQhpq[BlahCade Discord Server] is a great way to talk with other BlahCaders about stuff we've mentioned on the show.
+
 Email:: mailto:blahblahblahcade@gmail.com[Email] is the best way to contact us if you need to talk long-form and old school.
 
 Show Twitter:: https://twitter.com/blahcade[^]
