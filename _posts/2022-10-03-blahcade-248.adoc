@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "BlahCade 248: My Little Star Inks"
+author: jared
+categories: [episodes]
+image: assets/images/248-inks-title.png
+tags: [featured, sticky]
+---
+:experimental:
+
+In this episode, we talk about the game _Inks_ and how it is now available on Android. 
+We do a _Let's Play_ of this title and talk through the chilled-out elements of the gameplay. 
+
+We also discuss the 12 "new to Pinball FX" _Star Wars_ tables added, along with the Hasbro _My Little Pony_ table from Zen Pinball Party.
+These tables also get the _Let's Play_ treatment, so check the video for that part of the show if you're an audio-only fan.
+We could see many more Zen Pinball Party tables come over now the exclusivity period has ended.  
+
+The Pro Mode feature for Williams tables is out now, and we share our thoughts about this heavily requested feature.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::DDwYcXSGN7w[youtube, width=560, height=315]
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/My-Little-Star-Inks-e1op80l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 09:30 - Inks by State of Play releases on Android
+
+The developer _State of Play_ received design awards for this game from Apple when it was released on iOS a few years ago. 
+
+.Inks title card
+image::248-inks-title.png[]
+
+The game has launched on Android through _Noodlecake Games_ (see, I knew there were noodles in there somewhere), and now I can see what all the fuss is about.
+
+Chris does a _Let's Play_ on the game on iOS so you can see what to expect. 
+Check the video in this episode to see the game in action.
+
+It is a great game to chill out to, but it has some tricky levels to work through. 
+The drive to get the elusive star on each table is quite compelling. 
+
+Get it now on https://play.google.com/store/apps/details?id=com.noodlecake.inks[Google Play Store] or on https://apps.apple.com/us/app/inks/id1081847121[Apple Store].
+
+It is also free on _Apple Arcade_, if you have that service.
+
+Jared:: 5-stars
+Chris:: 4.5-stars
+
+=== 31:00 - Zen releases _My Little Pony_ and the rest of the _Star Wars_ tables
+
+It looks like the mystery table hinted at in the last "The Pinball Show" was the Hasbro _My Little Pony_ table.
+This table is one of the tables that were available through the Apple Arcade exclusive _Zen Pinball Party_ app. 
+
+=== 37:00 - Purchasing tables using discounts
+
+Chris and I got booted from the Xsolla Pinball Pass as part of the My Little Pony update testing process.
+
+But that was good news for us because we got some ticket packs to spend from Zen and got to experience the updated ticket purchasing experience in the in-app store.
+
+We talk about the pricing tiers and how the collection, level, and pack discounts work in reality. 
+There was a big difference in pricing for buying the same number of tables at launch versus now more packs are available. 
+
+At launch, we spent 1200 tickets to buy all the launch tables (about 25 from memory).
+To complete our collections, we bought 27 tables and only used 718 tickets with the discounts. 
+Not bad!
+
+If you're waiting for Consoles or Steam to go live and haven't purchased anything yet, you might be in for some steep discounts and bundling opportunities.
+
+=== 52:00 - Let's Play _My Little Pony_ and some _Star Wars_ tables
+
+Switch over to the video to watch Chris play through _My Little Pony_ and me make bad voiceover impressions of the kickback callout.
+
+We also discuss a bug I found on _Star Wars: Rebels_ that let you accumulate a ridiculous jackpot payout if you managed to collect it. 
+However, there may be more to this bug than I thought because Chris could not reproduce the bug on the stream.
+
+=== 1:24:00 - Pro Mode for Williams tables
+
+Also best enjoyed visually, we talk about the new Pro Mode released in this update. 
+Pro Mode basically amounts to tournament settings on all Williams tables (except for Bride of Pinball, which is coming soon).
+The slope (table rake) on the table has been increased to very fast levels, and in many cases, you don't get a ball save.
+You also don't get any extra balls on the tables.
+
+In this segment, we also observe that the flipper "held heights" remain the same as in all mode variants in Pinball FX. 
+The question is: "does anyone actually care"? 
+You tell us on our Discord channel or in the YouTube comments.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
