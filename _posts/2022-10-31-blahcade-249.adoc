@@ -24,7 +24,7 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 video::ZCsSFv3BZ38[youtube, width=560, height=315]
 
 ++++
-
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/GOOAAALLL--WCS-94-e1qo1n5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
