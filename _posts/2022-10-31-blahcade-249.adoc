@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "BlahCade 249: GOOAAALLL! WCS '94"
+author: jared
+categories: [episodes]
+image: assets/images/249-WorldCupSoccer.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+We do a play-through of the indie game _The Pinball Wizard_ by Frosty Pop and then do the same for Zen's latest Bally recreation _World Cup Soccer '94_.
+
+There is some bonus TV talk at the show's end. 
+If you're looking for new entertainment, perhaps some of these could be right for you.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::ZCsSFv3BZ38[youtube, width=560, height=315]
+
+++++
+
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+These segments are definitely more suited to being viewed on YouTube. Still, there was enough commentary to treat this episode as an audio episode.
+
+=== 05:40 - The Pinball Wizard by Frosty Pop
+
+The developer _Frosty Pop_ has released their RPG-like game _The Pinball Wizard_ on pretty much any platform with a screen. 
+So you can play this game if you have a phone, Nintendo Switch, or PC.
+
+.Game key art
+image::249-the-pinball-wizard-banner.jpg[Game key art]
+
+https://store.steampowered.com/app/2101800/The_Pinball_Wizard/[Steam]
+
+https://apps.apple.com/us/app/the-pinball-wizard/id1098316620[Apple]
+
+https://www.nintendo.com/en-ca/store/products/the-pinball-wizard-switch/[Nintendo]
+
+In this pinball dungeon crawler, your goal is to dash, hurl, and flip your way to the top of the tower castle. 
+Level up skills, loot treasure, and fight monsters in this cozy single-player game. 
+Explore and discover the key to each room, restore the power of The Eye, and bring peace to the lands.
+
+.The Pinball Wizard "pinball"
+image::249-the-pinball-wizard-frosty-pop.png[Main character art]
+
+We do a bit of a _Let's Play_ on the title and don't hold much back.
+There seem to be some gameplay mechanics that hinder rather than help the experience. 
+
+.Example level showing the tower-like playfield layout
+image::249-the-pinball-wizard-level.jpg[Example level]
+
+Everything from how the flippers feel to how the wizard moves around each dungeon feels unsatisfying.
+The music is repetitive, which makes the levels feel repetitive, regardless of their design.
+But once you unlock the "second pinball" mechanic in the middle of the first set of dungeons, that's all you do for the rest of the game. 
+
+And the end boss from the first level is one of the most _frustrating_ experiences I think I've had in a video game to date.
+A cheap missed shot ends the level instantly after grinding the boss for 45 hits. 
+Come on!
+
+If you were to get the game, it feels more like a casual mobile title than a game you would sit down and play for extended periods.
+
+Get _Rollers of the Realm_ or _Zombie Rollerz_ instead. 
+
+Jared:: 2 stars
+
+Chris:: Play it casually on Apple Arcade
+
+=== 29:00 - Zen releases _World Cup Soccer '94_
+
+Zen releases the fully-licensed Fifa football _Bally_ pinball _World Cup Soccer '94_ game at 100 tickets.
+
+.WCS key art
+image::249-WorldCupSoccer.jpg[WCS key art]
+
+If you compare this to Farsight Studio's attempt at recreating this, you'll notice a marked improvement in textures and all the things you would expect if you walked up to the 1994 game in an arcade. 
+
+The visual extras added to the game seem pretty basic. 
+I wonder if they were heavily restricted about what they could add to the game?
+The goalie is a missed opportunity here with a bit of visual flair.
+
+The Magnasave is also too powerful and needs to be scaled back significantly. 
+There also seems to be a delay with pressing the button and the Magnasave activating. 
+
+We also talk about extra cabinet buttons and being able to map primary and secondary cabinet buttons on your controller. 
+We learned from a Reddit thread with the developers that if you hold the launch button, you can access the Extra Ball button, which does "things" during some multiball modes.
+So stab the launch button and don't hold it if you want to activate Magna save.
+
+The Pro mode makes the game fast and (arguably) more fun, so give it a go.
+The digital recreation feels like it plays on the location I was referring to. 
+
+=== 1:03:00 - Should "Super League Football" make a return to Pinball FX
+
+We discuss whether the Pinball FX2 _Super League_ should make a return to the game.
+We incorrectly suggest that the game doesn't feature real team names, but in the next episode, we do a play-through and confirm that you indeed play actual named football teams.
+
+Join us for the next episode for that.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

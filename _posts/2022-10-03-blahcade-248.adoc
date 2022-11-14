@@ -4,7 +4,6 @@ title:  "BlahCade 248: My Little Star Inks"
 author: jared
 categories: [episodes]
 image: assets/images/248-inks-title.png
-tags: [featured, sticky]
 ---
 :experimental:
 
