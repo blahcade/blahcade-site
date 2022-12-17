@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "BlahCade 249: Wrath of the Elder Gods"
+author: jared
+categories: [episodes]
+image: assets/images/251-wrath-of-the-elder-gods-key.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+It's not just us playing _Wrath of the Elder Gods_; it's Chris playing it essentially for the very first time! 
+This is the first "reaction video" we've done for a Zen release because we mostly play the games extensively as part of beta testing. 
+Life got in the way this time, which worked out quite well.
+
+Watch as we feel our way around the game without any idea about the rules. 
+Hear us comment about what we think of the game as it unfolds. 
+Watch how much better we do after reading the rules.
+Discover where the game ranks among Zen's other Pinball FX originals.
+
+This is a YouTube-only episode because it needs the video to make sense.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::EPGO7drZz0A[youtube, width=560, height=315]
+
+== Show notes
+
+The basic observations for this game are outlined here: 
+
+* The game's visual theme is great, and the "sliminess" of all the creatures looks fantastic!
+
+* At about 16:00, we comment that the "Ragtime" music doesn't fit the game's menacing theme *in any way*.
+
+* At about 28:00, we get so sick of the Ragtime that we turn it off. 
+While it took away the great atmospheric music, it actually _improved_ the gameplay for us.
+
+* The in-game callouts are a regression from the high standard set in _Grimm's Tales_ because they don't tell you what to shoot. +
+For Zen Originals, they control the script for the voice artists, so why not ensure callouts are super informative and explain the rules as you play? 
+
+* Insert lights are a regression from the informative pattern in _Grimm's Tales_.
+
+* The green "J" lights should be relabeled to "MYSTERY" because that seems to be the only thing they are used for. 
+
+* The usual intuitive Zen Pinball tropes like "upper rollovers for Bonus X" and "return lanes for kickbacks" are not present. 
+
+* You need to read the rules to understand how to get bonus multipliers and some modes. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

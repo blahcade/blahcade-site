@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "BlahCade 250: Let's Play Super League Pinball"
+author: jared
+categories: [episodes]
+image: assets/images/250-super-league-pinball.png
+---
+:experimental:
+
+In honor of the World Cup, we decided to look at an old Zen table that we hope will come to Pinball FX in the future: _Super League Football_.
+
+NOTE: This episode is a YouTube only episode because it needs the video content to make sense.
+
+There is a lot to like about Super League Football but the game times are too long. 
+
+The game could actually exist in real life barring the upper playfield "cardboard cutouts".
+Replace those with an array of drop targets and it would be about right.
+
+Throughout the video we are constantly talking about how the game could be revised to make it faster to play but also more exciting and "risky". 
+
+This game has seriously good bones and it needs to come back into _Pinball FX_ as soon as possible.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::TEBS-4sIN4k[youtube, width=560, height=315]
+
+== Thanks for watching
+
+Thanks for watching this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

@@ -4,7 +4,6 @@ title:  "BlahCade 249: GOOAAALLL! WCS '94"
 author: jared
 categories: [episodes]
 image: assets/images/249-WorldCupSoccer.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 
