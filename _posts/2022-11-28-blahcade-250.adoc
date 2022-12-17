@@ -9,7 +9,7 @@ image: assets/images/250-super-league-football.png
 
 In honor of the World Cup, we decided to look at an old Zen table that we hope will come to Pinball FX in the future: _Super League Football_.
 
-NOTE: This episode is a YouTube only episode because it needs the video content to make sense.
+This episode is a YouTube only episode because it needs the video content to make sense.
 
 There is a lot to like about Super League Football but the game times are too long. 
 
