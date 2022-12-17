@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 250: Let's Play Super League Pinball"
 author: jared
 categories: [episodes]
-image: assets/images/250-super-league-pinball.png
+image: assets/images/250-super-league-football.png
 ---
 :experimental:
 
