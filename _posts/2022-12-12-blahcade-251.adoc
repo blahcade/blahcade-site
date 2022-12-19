@@ -4,7 +4,6 @@ title:  "BlahCade 249: Wrath of the Elder Gods"
 author: jared
 categories: [episodes]
 image: assets/images/251-wrath-of-the-elder-gods-key.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

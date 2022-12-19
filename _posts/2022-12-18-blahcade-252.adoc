@@ -1,0 +1,187 @@
+---
+layout: post
+title:  "BlahCade 252: Winter 2022 Chat with Mel Kirk"
+author: jared
+categories: [episodes,interviews]
+image: assets/images/252-mel-kirk-key-art.png
+tags: [featured, sticky]
+---
+:experimental:
+
+It's that time of year again when Zen Chief Operations Officer Mel Kirk visits the show and talks all things Zen pinball. 
+
+Get tons of info related to the upcoming console releases of Pinball FX, The Addams Family, and the decision behind removing ticket pricing. 
+
+And, of course, Mel's responses to our questions go several levels of detail deeper than you'll get elsewhere.
+Our interviews are not marketing-focused: we're about the business side of digital pinball. 
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::PyVZMPwIf_M[youtube, width=560, height=315]
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Winter-2022-Chat-with-Mel-Kirk-e1sf1m6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 03:00 - Consoles are coming, but why the delay?
+
+We will get Pinball FX on PS5, PS4, and _all the latest Xboxes_.
+
+That amounts to a total of 17 brand-new, never before seen tables on Zen Pinball console offerings.
+
+April for Switch and "other platforms".
+
+The game is very network heavy, and the Saber Interactive team doing the network stuff was in St Petersburg.
+So obviously, with all that is happening in that part of the world, delays were going to happen.
+
+=== 06:22 - Studio growth
+
+The target for a Zen Pinball table designer is to produce two games a year. So the target of 12 developers.
+
+The studio is now about 120 people strong. At the point when they were acquired, they were 65 strong. So two years and the company has doubled. 
+
+=== 08:30 - Other Zen brands as tables
+
+Are RPGs going to be pinball games? 
+Well, the answer is "maybe". 
+
+The idea is to let developers work on titles they are passionate about, which results in fantastic table designs.
+
+=== 09:30 - World Cup Soccer 94 and Williams enhancements
+
+The success of this third-party game was all about the timing with FIFA. 
+
+The reason why this game plays so much better than others.
+
+98% of players play with enhancements most of the time.
+The stats don't lie.
+
+=== 14:00 - Addams Family 
+
+You'll see more tasteful enhancements in Addams Family when it releases in February 2023 for $9.99
+
+One of the expected _exclusions_ is Christopher Lloyd, specifically certain high-detail assets on the backglass.
+
+Mel touches on the challenges of low-fi likenesses in tables and how careful you must be when negotiating deals. 
+
+Several negotiations are ongoing with several parties for future Williams tables right now.
+The challenge is always music and licenses. 
+But mostly, the music in the games is the most problematic.
+
+Mel did not confirm if Gold Mode is in The Addams Family. 
+However, he hinted we should hang out until January for more announcements. 
+
+=== 20:30 - Where is Steam as a platform?
+
+Nothing official to confirm with Steam support, but "historically, we have supported Steam," so read into that as you will.
+
+So what about mobile? 
+Is Pinball FX really going to run well on Android or iOS?
+The fact remains that some mobile devices are more powerful than the tech in the Nintendo Switch.
+
+For example, Mel has an Asus notebook with the latest Qualcomm chipset. 
+It is running Pinball FX natively, so expect a decent experience on the latest phones and maybe even some of last year's hardware generations.
+
+The Nintendo Switch is a special console that requires special attention.
+But when tuning is finalized for Switch, you will see *huge* improvements to the minimum spec required.
+It is the lowest common denominator and is the primary performance target.
+
+=== 23:00 - How will VR be offered in Pinball FX
+
+VR needs different assets like full-size 3D assets and different resolutions, so producing for VR is slightly different.
+
+You will notice that the room environment in Pinball FX is heavily inspired by lessons learned in the Star Wars Pinball VR "pin-cave".
+Mel confirmed that VR will be a part of the core Pinball FX experience and not a separate app.
+
+=== 27:00 - Payments and ticket systems
+
+Unfortunately, the overwhelming feedback from customers and influencers was that they opposed the ticket system and called it "predatory".
+The advantages could have been communicated better when the system was released. This communication error likely made the system fail from the beginning.
+
+Cross-commerce is still available through the Pinball Pass, however. The option is still available but has changed from what was previously planned.
+
+This means different platforms will have sales running at different times, so keep your eyes open.
+This also flows into how releases need to change.
+Expect games to be packed into three packs and released every couple of months.
+
+Games will be offered at a discount upon release for about a week when they are released. 
+But the discounts are only available for a set time. They can't be extended because the ticket system was the key to doing this.
+
+What is going to happen with ticket balances? 
+Look out for an official announcement from Zen very soon. 
+Possibly by the time this episode is released.
+
+=== 35:00 - Cabinet mode is coming back hard in 2023
+
+Akos and Linne's work on building the cabinet was not an accident. 
+The studio wanted to build a cabinet from the ground up to experience the key things needed in a build.
+
+Cabinet mode is so integral to the long-term strategy that a dedicated team is now managing the Cabinet Mode experience.
+That includes partners offering Zen Studios endorsed builds with optimized software that "just works".
+
+Some seriously cool packages that aren't just targeted at those pinball fans with deep pockets. 
+
+=== 38:00 - Content and Zen original direction
+
+Where possible, there will be alignment with "moments" (read TV shows) in 2023. 
+The goal is still to release 24 tables in 2023. 
+That is the plan in Mel's spreadsheet of doom.  
+
+In fact, the tables planned for release between February to April 2023 are already submitted and in the pipeline.
+
+One table is returning to the platform that is not included in the 24 planned tables. 
+
+=== 43:00 - Pinball Show direction change
+
+Mel talks about how the Pinball Show filled the gap of traditional press outlet coverage shrinking.
+
+Mel is no longer involved in production and marketing (for the show) but just gets scheduled to talk about stuff.
+
+The team is taking a more creative direction with the show now.
+
+=== 46:00 - Williams pinball speculation
+
+Three other really big Williams games are coming to the platform in 2023.
+
+Shadow, Congo, and others are living up to their reputation as challenging to license. 
+This shouldn't be a surprise because even the pinball community understands how many parties must be involved in these pinball table licenses.
+
+Several titles coming out next year have not been released commercially.
+I wonder what they could be?  
+
+=== 48:00 - Zen original design tropes
+
+Mel suggested we organize an interview with Deep and the Content team about how design works at the studio.
+
+The studio is trying to elevate its pinball designers into the public light (just like physical pinball designers) as much as possible. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
