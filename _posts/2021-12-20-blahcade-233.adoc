@@ -4,6 +4,7 @@ title:  "BlahCade 233: Indiana Jones and the Mel Kirk Interview"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/233-indiana-jones-keyart.png
+tags: [featured]
 ---
 :experimental:
 

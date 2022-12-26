@@ -4,6 +4,7 @@ title: "BlahCade 175: Williams Pinball Vol. 4 announcement with Mel Kirk"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/175-volume-4-key-art.jpeg
+tags: [featured]
 ---
 
 It’s time to reveal the latest three tables that will arrive in Williams Pinball on May 28th 2019!

@@ -4,6 +4,7 @@ title: "BlahCade 155: Williams Pinball Vol. 2 announcement with Mel Kirk"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/155-medieval-madness.png
+tags: [featured]
 ---
 
 Mel Kirk joins us again for a retrospective on Volume One and drops some terrific news about Volume Two!

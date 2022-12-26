@@ -4,6 +4,7 @@ title: "BlahCade 149: Williams Pinball Vol. 1 announcement with Mel Kirk"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/155-medieval-madness.png
+tags: [featured]
 ---
 
 We have unlimited access to Mel Kirk from Zen Studios where we talk about the new Remastered mode in Williams Pinball and a pile of other stuff.

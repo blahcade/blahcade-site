@@ -4,6 +4,7 @@ title: "BlahCade 196: Zen about quarantine with Mel Kirk"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/196-fx3-logo-art.png
+tags: [featured]
 ---
 
 Chris and I sit down with Mel Kirk of Zen Studios for a huge unpack of news about what’s happening now and in the future for Zen in 2020.

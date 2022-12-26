@@ -4,6 +4,7 @@ title:  "BlahCade 240: Spring 2022 Chat with Mel Kirk"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/216-pinballfx-logo.jpeg
+tags: [featured]
 ---
 :experimental:
 
