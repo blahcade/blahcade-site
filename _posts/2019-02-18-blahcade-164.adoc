@@ -2,9 +2,8 @@
 layout: post
 title: "BlahCade 164: Zen Studios design interview"
 author: jared
-categories: [episodes, interviews]
+categories: [episodes,interviews]
 image: assets/images/164-afm-mobile-screen.png
-tags: [featured]
 ---
 
 Zen Studios has lent us some time to chat about Williams Pinball and other Zen questions.

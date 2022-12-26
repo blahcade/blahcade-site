@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BlahCade 249: Wrath of the Elder Gods"
+title:  "BlahCade 251: Wrath of the Elder Gods"
 author: jared
-categories: [episodes]
+categories: [episodes,playthrough]
 image: assets/images/251-wrath-of-the-elder-gods-key.jpg
 ---
 :experimental:

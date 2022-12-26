@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 248: My Little Star Inks"
 author: jared
-categories: [episodes]
+categories: [episodes,playthrough]
 image: assets/images/248-inks-title.png
 ---
 :experimental:

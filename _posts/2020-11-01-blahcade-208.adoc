@@ -2,9 +2,8 @@
 layout: post
 title:  "BlahCade 208: Zen’s Mel Kirk Holiday 2020 Q and A"
 author: jared
-categories: [episodes, interviews]
+categories: [episodes,interviews]
 image: assets/images/208-mel-kirk-marvel.png
-tags: [featured, interviews]
 ---
 
 Mel Kirk joins us for a retrospective on 2020 and a tantalizing preview of what’s coming up next

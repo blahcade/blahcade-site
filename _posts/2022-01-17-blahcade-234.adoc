@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 234: Recap of Mel Interview and More"
 author: jared
-categories: [episodes]
+categories: [episodes,interviews]
 image: assets/images/234-Force2.jpg
 ---
 :experimental:

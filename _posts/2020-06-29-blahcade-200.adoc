@@ -4,7 +4,6 @@ title: "BlahCade 200: Arcade 1UP Interview"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/202-arcade1up-render.jpeg
-tags: [featured]
 ---
 
 Look, everyone! We have guests! A party isn’t a party without friends to help us celebrate our 200th episode in style.

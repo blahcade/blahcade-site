@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 249: GOOAAALLL! WCS '94"
 author: jared
-categories: [episodes]
+categories: [episodes,playthrough]
 image: assets/images/249-WorldCupSoccer.jpg
 ---
 :experimental:

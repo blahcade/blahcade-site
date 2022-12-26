@@ -4,7 +4,6 @@ title: "BlahCade 146: Interview with Mart from Magic Pixel"
 author: jared
 categories: [episodes, interviews]
 image: assets/images/146-space-shuttle-zaccaria.jpeg
-tags: [featured]
 ---
 
 We have a great chat with Mart, the Community Manager for Magic Pixel.

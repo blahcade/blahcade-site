@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 220: Mel Kirk interview for Spring 2021"
 author: jared
-categories: [episodes, interviews]
+categories: [episodes,interviews]
 image: assets/images/219-zen-epic.png
 tags: [featured]
 ---

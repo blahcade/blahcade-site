@@ -2,6 +2,7 @@
 layout: post
 title:  "BlahCade 246: Homeworld Pinball Let's Play"
 author: jared
+categories: [episodes,playthrough]
 image: assets/images/246-Homeworld-key-art.jpg
 ---
 :experimental:

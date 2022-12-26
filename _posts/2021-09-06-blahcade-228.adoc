@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 228: Zen Pinball Party Playthrough"
 author: jared
-categories: [episodes, playthrough]
+categories: [episodes,playthrough]
 image: assets/images/227-ZPP-keyart-optimized-zenstudios.png
 ---
 :experimental:

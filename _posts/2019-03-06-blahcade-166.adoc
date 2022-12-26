@@ -4,7 +4,6 @@ title: "BlahCade 166: Williams Pinball Vol. 3 announcement with Mel Kirk and Tho
 author: jared
 categories: [episodes, interviews]
 image: assets/images/166-vol3-key-art.jpeg
-tags: [featured]
 ---
 
 Zen Studios have joined the show to announce what will be in the Williams Pinball Volume 3 release coming out very soon.
