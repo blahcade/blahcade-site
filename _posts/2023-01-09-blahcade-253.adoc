@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "BlahCade 253: Let's Play Plants vs Zombies and Ms. Splosion Man pinball"
+author: jared
+categories: [episodes,playthrough]
+image: assets/images/253-plants-vs-zombies.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Before we play, we first discuss what was curiously missing from Arcade 1Up's CES announcement: pinball cabinets. 
+Who could Zen have partnered with to produce the next generation of cabinets?
+
+After that, it's off to play _Plants vs. Zombies_ and _Ms 'Splosion Man_. These two tables never came to FX3 and almost certainly won't to PinFX either.
+
+This is a video-heavy episode so if you are a podcast listener, take this opportunity to check out the YouTube video linked in this post.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::TtXc4Oj7Kis[youtube, width=560, height=315]
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Lets-Play-Plants-vs-Zombies-and-Ms--Splosion-Man-e1t8lar" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 01:25 - Interview thoughts from the last episode
+
+We provide some commentary about the interesting points in Mel Kirk's interview we did for Christmas 2022.
+
+=== 04:00 - What did Arcade 1UP not reveal in their CES line-up for 2023?
+
+It was a distinct lack of pinball machines in their line-up. 
+
+So it begs the question of who might pick up the slack in the physical home-use pinball market. 
+
+What sort of form factors could we see this year?
+Table-top style?
+Full-size cabinets?
+Could they look to local manufacturers to produce the tables? 
+
+What sort of things would you like to see in a cabinet, given what you've seen in Pinball FX to date?
+
+=== 12:00 - Will Pinball Pass be the solution to game content on the pinball cabinets?
+
+Because cross-buy is dead, could the pinball pass allow Zen Studios to offer content on these new cabinets?
+
+Time will tell.
+
+=== 13:30 - Let's Play Pinball FX2
+
+From this point onwards, podcast listeners should *switch over to the YouTube episode* to watch Chris play two titles from Pinball FX2.
+
+This is the first time Jared has ever seen _Plants vs. Zombies_ and _Ms. Splosion Man_ played in real-time.
+
+We discuss how these playfield designs are both good but need toughening to make them more challenging. 
+The layout of Ms. Splosion Man is really good but too easy.
+Toughen it up and make the outlanes riskier and the ball wilder.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

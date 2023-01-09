@@ -4,7 +4,7 @@ title:  "BlahCade 252: Winter 2022 Chat with Mel Kirk"
 author: jared
 categories: [episodes,interviews]
 image: assets/images/252-mel-kirk-key-art.png
-tags: [featured, sticky]
+tags: [featured]
 ---
 :experimental:
 
