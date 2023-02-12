@@ -8,10 +8,10 @@ tags: [featured, sticky]
 ---
 :experimental:
 
-Zen's Pinball FX platform is officially coming out of Early Access and onto PlayStation and Xbox consoles on Feb 16th! 
-Chris and Jared take a look at at 80+ titles available at launch, and give some clarification to title transfers.
+Zen's Pinball FX platform is officially coming out of Early Access and onto PlayStation and Xbox consoles on February 16! 
+Chris and Jared take a look at 80+ titles available at launch and give some clarification to title transfers.
 
-NOTE: For those that still need to take advantage of transfering owned titles from Epic Game Store use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preference.
+NOTE: For those that still need to take advantage of transferring owned titles from the Epic Games Store, use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preference.
 
 == Chat on Discord
 
@@ -24,7 +24,7 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 video::RgdjtpYI4AM[youtube, width=560, height=315]
 
 ++++
-
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Pinball-FX-Feb-16-Launch-Details-e1uqsg2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
@@ -43,13 +43,13 @@ BlahCade is available everywhere good podcasts are hosted:
 
 === 10:33 - Pinball FX releases Feb 16
 
-PlayStation 4 and 5, all the current gen XBox variants, and Epic Games (out of early access) are all getting the official release of Pinball FX.
+PlayStation 4 and 5, all the current-gen XBox variants, and Epic Games (out of early access) are all getting the official release of Pinball FX.
 
 80+ tables are on offer at launch.
 
 === 12:00 - Exclusive to Pinball FX (not in FX3)
 
-There are 20 brand new, never in total:
+There are 20 brand new, never seen in other PC or console platform titles in total:
 
 . How to Train Your Dragon
 
@@ -93,7 +93,7 @@ There are 20 brand new, never in total:
 
 === 16:00 - Williams Pinball
 
-There are 23 tables coming over from Pinball FX3.
+23 tables are coming over from Pinball FX3.
 
 . Indiana Jones: The Pinball Adventure
 
@@ -191,7 +191,7 @@ The rest of the collection falls into other franchises and older "core packs" th
 
 . Back to the Future
 
-. E.T. The Extra Terrestrial
+. E.T. The Extra-Terrestrial
 
 . Jurassic Pinball
 
@@ -241,9 +241,27 @@ We also learned from our contacts at Zen that there will be an 11-pack release o
 
 . Marvel Table 11
 
-=== 25:45 - Founder Form (get games from EA to your platform of choice)
+=== 25:45 - Founder Form and content transfer important information
 
-For those that still need to take advantage of transfering owned titles from Epic Game Store use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preferences.
+For those that still need to take advantage of transferring owned titles from the Epic Games Store, use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preferences.
+
+The current deadline to fill out the founder's form is May 5. 
+Zen confirmed in writing that purchases like The Addams Family or the Gearbox Pack will be eligible for the one-platform transfer.
+
+As for content released *after* the initial console release (except for The Addams Family and Gearbox Pack), we have yet to receive an official statement about how those will be handled. 
+We would _strongly recommend_ only making content purchases that come out after that initial launch day once more is revealed.
+
+We will update you all once we learn more.
+
+=== 36:00 - AtGame Legends Pinball
+
+Chris gives a shoutout to a great YouTube video that gives constructive critique about the AtGames Legends Pinball table.
+
+video::IxTvbjSEOUc[youtube, width=560, height=315]
+
+Check out the video because it is probably one of the best retrospectives we've seen about the AtGames pinball range. 
+
+It made us go into some of our discussions about the pros and cons between A1UP and AtGames. 
 
 == Thanks for listening
 
