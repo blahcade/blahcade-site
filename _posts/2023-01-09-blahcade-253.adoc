@@ -4,7 +4,6 @@ title:  "BlahCade 253: Let's Play Plants vs Zombies and Ms. Splosion Man pinball
 author: jared
 categories: [episodes,playthrough]
 image: assets/images/253-plants-vs-zombies.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

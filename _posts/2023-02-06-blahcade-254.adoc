@@ -1,0 +1,257 @@
+---
+layout: post
+title:  "BlahCade 254: Pinball FX Feb 16 Launch Details"
+author: jared
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpeg
+tags: [featured, sticky]
+---
+:experimental:
+
+Zen's Pinball FX platform is officially coming out of Early Access and onto PlayStation and Xbox consoles on Feb 16th! 
+Chris and Jared take a look at at 80+ titles available at launch, and give some clarification to title transfers.
+
+NOTE: For those that still need to take advantage of transfering owned titles from Epic Game Store use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preference.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::RgdjtpYI4AM[youtube, width=560, height=315]
+
+++++
+
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 10:33 - Pinball FX releases Feb 16
+
+PlayStation 4 and 5, all the current gen XBox variants, and Epic Games (out of early access) are all getting the official release of Pinball FX.
+
+80+ tables are on offer at launch.
+
+=== 12:00 - Exclusive to Pinball FX (not in FX3)
+
+There are 20 brand new, never in total:
+
+. How to Train Your Dragon
+
+. Trolls Pinball
+
+. Kung Fu Panda
+
+. Peanuts' Snoopy Pinball
+
+. My Little Pony
+
+. Wrath of the Elder Gods
+
+. Grimm Tales
+
+. Sky Pirates: Treasures of the clouds
+
+. Pinball NOir
+
+. Curse of the Mummy
+
+. World War Z
+
+. Homeworld: Journey to Hiigara
+
+. Borderlands: Vault Hunter Pinball
+
+. Brothers in Arms
+
+. The Addams Family
+
+. World Cup Soccer '94
+
+. The Mandalorian
+
+. Star Wars: Classic Collectibles
+
+. Swords of Fury
+
+. Bride of Pinbot
+
+=== 16:00 - Williams Pinball
+
+There are 23 tables coming over from Pinball FX3.
+
+. Indiana Jones: The Pinball Adventure
+
+. The Machine: Bride of Pinbot
+
+. FunHouse
+
+. Space Stations
+
+. Dr. Dude and his Excellent Ray
+
+. Swords of Fury
+
+. Tales of the Arabian Nights
+
+. Red and Ted's Road Show
+
+. White Water
+
+. No Good Gophers
+
+. Hurricane
+
+. Cirqus Voltaire
+
+. Ye Olde Medieval Madness
+
+. The Getaway: High Speed II
+
+. Junk Yard
+
+. Attack From Mars
+
+. Black Rose
+
+. The Party Zone
+
+. The Champion Pub
+
+. Theatre of Magic
+
+. Safe Cracker
+
+. Monster Bash
+
+. Creature from the Black Lagoon
+
+=== 20:30 - Star Wars
+
+A total of 19 tables return:
+
+. The Empire Strikes Back
+
+. The Clone Wars
+
+. Boba Fett
+
+. Han Solo
+
+. Droids
+
+. A New Hope
+
+. Masters of the Force
+
+. Return of the Jedi
+
+. Darth Vader
+
+. Starfighter Assault
+
+. The Force Awakens
+
+. Might of the First Order
+
+. Star Wars Rebels
+
+. Rogue One
+
+. The Last Jedi
+
+. Ahch-To Island
+
+. Solo
+
+. Battle of Mimban
+
+. Calrissian Chronicles
+
+== 22:00 - Remaining franchises
+
+The rest of the collection falls into other franchises and older "core packs" that have come across multiple iterations of Pinball FX:
+
+. Jaws
+
+. Back to the Future
+
+. E.T. The Extra Terrestrial
+
+. Jurassic Pinball
+
+. Jurassic World
+
+. Jurassic Park Pinball Mayhem
+
+. Adventure Land
+
+. Son of Zeus
+
+. Secrets of the Deep
+
+. Rome
+
+. Biolab
+
+. Pasha
+
+. Wild West Rampage
+
+. CastleStorm
+
+. Garfield
+
+We also learned from our contacts at Zen that there will be an 11-pack release of Marvel tables coming out for launch. 
+
+. Marvel Table 1
+
+. Marvel Table 2
+
+. Marvel Table 3
+
+. Marvel Table 4
+
+. Marvel Table 5
+
+. Marvel Table 6
+
+. Marvel Table 7
+
+. Marvel Table 8
+
+. Marvel Table 9
+
+. Marvel Table 10
+
+. Marvel Table 11
+
+=== 25:45 - Founder Form (get games from EA to your platform of choice)
+
+For those that still need to take advantage of transfering owned titles from Epic Game Store use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preferences.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
