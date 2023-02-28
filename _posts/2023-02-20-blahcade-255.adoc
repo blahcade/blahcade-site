@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "BlahCade 254: Let's Play Pinball FX and Look At Some Festering"
+author: jared
+categories: [episodes, playthrough]
+image: assets/images/255-borderlands-keyart.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Whelp, PinFX is here! 
+We look at how Zen went about their "festering" of Bally's The Addams Family and discuss some of the tweaks made from Early Access.
+Then we play a bit of pinball, mainly the two new Gearbox titles being _Borderlands: Vault Hunter_ and _Brothers in Arms: Win the War_ pinball.
+
+NOTE: For those that still need to take advantage of transferring owned titles from the Epic Games Store, use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preference.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::Hr2zqcXprkw[youtube, width=560, height=315]
+
+++++
+<iframe src="https://anchor.fm/blahcade-pinball-podcast/embed/episodes/Lets-Play-Pinball-FX-and-Look-At-Some-Festering-e1vko9k" height="200px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 03:00 - Pinball FX exits early access
+
+It has finally happened!
+Pinball FX is now available on Xbox and Playstation storefronts. 
+
+The tickets we saw in Early Access are now coins. The coins can be used to purchase both the Pinball Pass and for trinkets to decorate your Pin Cave.
+
+There is also a new tutorial that guides you through the opening elements of the game and the new platform features.
+
+There is also a new musical piece that plays at the end of your game that sounds like it shares elements from the Tears for Fears song "Everybody Wants to Rule the World".
+
+The first batch of Marvel tables is available in Pinball FX, and our first thoughts are that they do have improvements implemented.
+Titles like _Doctor Strange_ have noticeable improvements to shot selection in the game.
+
+=== 11:00 - How did Zen "fester" Uncle Fester
+
+The term _festering_ we use in this segment refers to a practice Farsight Studios used when they couldn't get the likenesses of certain actors or licenses to show certain art assets that featured in pinball machines. 
+
+The technique modified a given image "just enough" that it meant the licensors couldn't make a claim on the likeness.
+Given the challenges securing the likeness of Christoper Lloyd's "Uncle Fester" character, this was the first case of festering in any pinball game. 
+
+In this segment, we show the differences between the Bally table, Farsight Fester, and Zen Fester.
+The changes amount to line changes, different shadowing, and more wrinkles in different spots.
+
+=== 20:00 - Let's Play Bally's The Addams Family
+
+This is where we play through Bally's The Addams Family and show off some of the features.
+
+There is definitely an issue with the THING mechanism timing.
+The game is consistently triggering a "Dirty Pool" award when the ball is transferred from the sub-playfield box up to the playfield. The issue seems to be a deliberate delay with the THING mechanism to allow the animated hand to duck under the cabinet and appear in place of the regular plastic hand.
+
+The whole hand sequence is super slow as well, which is another example of Zen messing around with game mechanism timings as they did with drop targets on _Indiana Jones_. 
+
+The other issue is _THING Flips_.
+A fear we both shared was that the ROM state is not saved, and the calibration of _THING Flips_ is directly tied to ROM state carry-over. 
+It is unlikely that this feature will work reliably at all until the ROM state is addressed in the game. 
+
+There seems to be some stickiness in the THING entry ramp beneath the staircase ramp. 
+It seems to be a friction issue or something simple to resolve. 
+
+=== 29:00 - Let's Play Marvel Pinball
+
+There is a good roster of tables in the Marvel re-release, and we got through. 
+As we mentioned earlier, tables like "Doctor Strange" has had some work done to improve how shot-making is called out in the game. 
+
+Let's hope more tables in the collection can be updated in this style as well.
+
+We play through "Doctor Strange" and "Moon Knight" in this session.
+
+=== 42:00 - Let's Play Gearbox tables
+
+Chris experiences the two new Gearbox Entertainment tables being _Brothers in Arms: Win the War_ and _Borderlands: Vault Hunter_. 
+
+The first table is _Brothers in Arms_ which is designed by Thomas Crofts
+This is probably one of my favorite Zen original tables in Pinball FX. 
+
+image::Gearbox_Brothers_in_Arms_Bazooka_Hit_The_Tank_Jpg_Fullhd.jpg[Brothers in Arms tank mode]
+
+image::Gearbox_Brothers_in_Arms_View_1_Jpg_Fullhd.jpg[Brothers in Arms playfield view]
+
+The second table is _Borderlands_.
+This table is designed by Zoltan Vari.
+
+image::Gearbox_Borderlands_8_Multiball_Mode_Jpg_Fullhd.jpg[Borderlands table in multiball mode]
+
+image::Gearbox_Borderlands_Psycho_On_Playfield_Jpg_Fullhd.jpg[Borderlands psycho on playfield]
+
+This game is very strange to play because it doesn't really have any mode start hole. 
+You have to shoot around the playfield to start modes.
+We really had to look at the instructions to even have a hope of understanding how this table worked. 
+
+The skill shot mechanism could be spelled-out better during gameplay. 
+Even more frustrating is that the instructions to understand how the skill shot works are buried halfway through the embedded table guide. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
