@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "BlahCade 254: Let's Play Garfield and Snoopy"
+author: jared
+categories: [episodes, playthrough]
+image: assets/images/Peanuts_Snoopy_Pinball_Screenshot_1.png
+tags: [featured, sticky]
+---
+:experimental:
+
+We're taking a spin on _Peanuts Snoopy Pinball_ and _Garfield Pinball_, the last two carry overs from the _Zen Pinball Party_ mobile app into Pinball FX. 
+
+NOTE: For those that still need to take advantage of transferring owned titles from the Epic Games Store, use the https://forms.gle/VhYWMkES1euw3GJB9[Pinball FX Founders Form] to register your preference.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::Hr2zqcXprkw[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Lets-Play-Garfield-and-Snoopy-e203s98" height="200px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 01:00 - Some warm up banter
+
+Topics include:
+
+* Getting old technology to talk with new technology.
+
+* Pink Panther "Diamond Chase" side comp at BPAC.
+
+=== 15:00 - PS5 and Xbox reviews 
+
+While we set up the _Peanuts Snoopy Pinball_ Let's Play, we talk about some of the review reactions out there in the media.
+
+All reviews seem to be focusing on the Zen Coins aspect and the season pass aspect where the "monetization" piece happens.
+All are saying that it is not worth repurchasing them all because they are on FX3.
+
+All are totally missing the fact that you can purchase the tables and that the Pinball Pass is optional.
+Oh well.
+
+=== 20:00 - Let's Play Peanuts Snoopy Pinball
+
+This table is very easy to understand and Chris strolls through a bit of gameplay. 
+
+There are a few good mode tips to go for if you are playing in the Pinball FX Events. 
+
+Also, double-stacked outlanes play exactly like Stern's hungry double-stacked outlanes like Metallica and The Simpsons Pinball Party.
+
+=== 37:00 - Let's Play Garfield Pinball
+
+The _Garfield Pinball_ table was one of the last tables released on _Zen Pinball Party_. We didn't get an opportunity to play this during the beta builds.
+
+So this table is "new to us".
+
+This table is a bit of a mixed bag. The problems center around the usual issues of hard to decipher shotmaking and knowing where to shoot because of uninformative callouts.
+
+This game also allows you to stack several modes, and collect them even while you're in multiball. 
+This stacking approach is quite similar to Williams' _Monster Bash_ in that regard, but not as well executed. 
+
+This section also covers our tips for Zen about their instructional design for in-game instructions.
+They need 
+
+=== 50:00 - Instructional design for in-game instructions
+
+On some tables the way the instructions are ordered are not quite right.
+You want to lay out the basic instructions first like how to get a skillshot, increase multipliers, and start a mode, start an easy multiball. 
+These game elements are all things you will do in the first five minutes of play. 
+
+Then later on in the instructions go into how to score in game modes and unlock the more lucrative scoring modes.
+What modes can you stack?
+Can you run multiball during modes?
+
+Back to Garfield gameplay at about 55:00. 
+There seem to be some oddities with how the designers describe the shots. 
+Things like "center loops" turn out to be the loop off the right flipper. 
+The language seems to be inconsistent with what we expect as players.
+Maybe this is a "us" problem and not a "zen" problem here.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
