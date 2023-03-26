@@ -4,7 +4,6 @@ title:  "BlahCade 255: Let's Play Pinball FX and Look At Some Festering"
 author: jared
 categories: [episodes, playthrough]
 image: assets/images/255-borderlands-keyart.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

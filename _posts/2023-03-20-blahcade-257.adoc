@@ -2,7 +2,7 @@
 layout: post
 title:  "BlahCade 257: What? Pulp Fiction Pinball!"
 author: jared
-categories: [episodes, playthrough]
+categories: [episodes]
 image: assets/images/pulp-fiction-jules-aiming.jpg
 tags: [featured, sticky]
 ---

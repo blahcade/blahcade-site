@@ -4,7 +4,6 @@ title:  "BlahCade 256: Let's Play Garfield and Snoopy"
 author: jared
 categories: [episodes, playthrough]
 image: assets/images/Peanuts_Snoopy_Pinball_Screenshot_1.png
-tags: [featured, sticky]
 ---
 :experimental:
 

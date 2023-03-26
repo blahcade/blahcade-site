@@ -4,7 +4,6 @@ title:  "BlahCade 254: Pinball FX Feb 16 Launch Details"
 author: jared
 categories: [episodes]
 image: assets/images/216-pinballfx-logo.jpeg
-tags: [featured, sticky]
 ---
 :experimental:
 
