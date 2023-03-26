@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlahCade 257: What? Pulp Fiction Pinball?"
+title:  "BlahCade 257: What? Pulp Fiction Pinball!"
 author: jared
 categories: [episodes, playthrough]
 image: assets/images/pulp-fiction-jules-aiming.jpg
@@ -24,7 +24,7 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 
 == Watch and listen
 
-video::Hr2zqcXprkw[youtube, width=560, height=315]
+video::jn8qHDht-Bo[youtube, width=560, height=315]
 
 And here's the podcast audio:
 
@@ -94,6 +94,7 @@ Expect these *everywhere* good pinball is sited.
 
 Mark Ritchie returns (younger brother of Steve Ritchie)! 
 He is known for his cross-over rails pins like Taxi, Fish Tales, and Diner.
+
 But this game has none of those design cues in it at all.
 It is a pure "street level" two-flipper pinball game, but there is way more to this game than meets the eye. 
 There are subways, staged ball locks, innovative toys, and a magnet that throws the balls accurately into shots on the playfield.
