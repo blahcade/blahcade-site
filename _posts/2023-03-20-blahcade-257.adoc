@@ -1,0 +1,165 @@
+---
+layout: post
+title:  "BlahCade 257: What? Pulp Fiction Pinball?"
+author: jared
+categories: [episodes, playthrough]
+image: assets/images/pulp-fiction-jules-aiming.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+In a change of pace for us, we discuss actual pinball machines! 
+Three new machines have all been announced in the last few weeks, with Play Mechanix's _Pulp Fiction_ grabbing Chris' attention. 
+
+Now if only we had a spare $10,000 lying around. 
+We also look at JJP's _The Godfather_ and Stern Pinball's _Foo Fighters_ to balance out the discussion.
+
+Can Zen Studios learn lessons from these newer games and their designers?
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::Hr2zqcXprkw[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/What--Pulp-Fiction-Pinball-e215euv" height="200px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 02:30 - Plug for Sunshine Coast Pinball
+
+SCP in Nambour, Queensland, is an awesome place to play pinball up around Sunshine Coast in Queensland.
+
+I went up there with a mate and made a day of it in Mooloolaba, Queensland.
+
+It brought up the idea of distance traveled to pinball venues and what would be a spur-of-the-moment trip or a planned day trip.
+
+We also discussed the concept of a Pinball Club and our responsibility as members to keep the games working for the host.
+
+=== 12:30 JJP's new game, "The Godfather"
+
+JJP has released a long-awaited licensed table from The Godfather movie trilogy.
+
+There are three variants, and they are all stupendously expensive. 
+
+image::257-the-godfather.png[]
+
+Beautiful, but expensive at $16,000 (yes, that USD)
+
+=== 20:00 - Stern Pinball's new game "Foo Fighters"
+
+Stern make it tough for music pin fans with a Zombie Yeti art package (not Dirty Donny, as Jared incorrectly suggested) and a brand-new game design by Jack Danger!.
+
+image::257-foo-fighters-pinball.jpg[]
+
+The usual Pro vs. Premium compromises are visible in the models, notably the upper playfield and the innovative bang-back post near the outhole (very cool!). 
+
+Stern did include drop targets in the Pro.  
+And you get the never-seen-before inlane targets as well. 
+Very nice 
+Jack loaded this game with good ideas while keeping the bill of materials (BoM) in check. 
+
+Foo Fighters is the standard tiered Stern pricing:
+
+* Pro $7000
+
+* Premium $9700
+
+* LE $12000
+
+Not surprisingly, everyone will be getting one of these. 
+Expect these *everywhere* good pinball is sited.
+
+=== 31:00 - Play Mechanix' "Pulp Fiction"
+
+Mark Ritchie returns (younger brother of Steve Ritchie)! 
+He is known for his cross-over rails pins like Taxi, Fish Tales, and Diner.
+But this game has none of those design cues in it at all.
+It is a pure "street level" two-flipper pinball game, but there is way more to this game than meets the eye. 
+There are subways, staged ball locks, innovative toys, and a magnet that throws the balls accurately into shots on the playfield.
+
+It is an Eight Ball Deluxe or Centaur-era table.
+Seriously this thing is beautiful.
+They even went to the trouble of re-tooling to make a proper die-cast and chrome coin door in the style of an early 80s-style Bally coin door.
+
+image::257-pulp-fiction-le-closeup.jpg[]
+
+The topper is also very interactive, making up for most of the cost of the most expensive variant (to the order of $1500 extra for the collector's edition).
+There are a whopping 250 lines of dialog, and five licensed songs also appear in the game, which is a huge set of voice calls for a game.
+
+While Play Mechanix is the company responsible for the design team, Chicago Gaming Company is doing the build. 
+The featurette that Straight Down the Middle did with the design team revealed that CGC had the closest platform that enabled them to give that "classic era feel" they were going for.
+
+video::PrkIhDk0YCM[youtube, width=560, height=315]
+
+The team has many Bally Williams principal engineers involved and a sound designer (David Thiel) that has been around since Gottlieb Star Series 80s titles. 
+
+Pulp Fiction comes in two variants:
+
+* Special $8000
+
+* Limited $9500
+
+We then spend the rest of this part fawning over the playfield and other stuff, like the simplicity of the base rules.
+
+=== 52:00 - How a design philosophy like the Pulp Fiction experience can translate to design cues in digital pinball design
+
+The way the rules and gameplay have been laid out in Pulp Fiction made both Chris and I think that this clear example of game design needs to almost be a blueprint for how Zen Studios should design their gameplay exploration and rules structures.
+
+* Study the classics of pinball design and make a style guide based on these industry leader gameplay tropes. 
+
+* Keep your "walk-up rules" simple enough that anyone can start your digital pinball game and feel successful.
+
+* Structure your rule documentation in the order a player would logically encounter a gameplay experience.
+
+* Don't repeat your callouts, particularly if they are non-specific to any mode or shot. 
+
+* Make your insert lights abundantly clear what you need to hit and your progression to a shot goal.
+
+=== 60:00 - What would you spend your money on?
+
+What would you buy if you had the money to get any variant of either _Foo Fighters_ or _Pulp Fiction_?
+
+It is Foo Fighters Premium for Jared due to the innovation, theme, and features.
+
+For Chris, it is Pulp Fiction for the theme, humor, and rules accessibility.
+
+What would it be for you?
+We just wish we had US$20,000 to play with!
+
+=== 01:10.00 - Would you pay $50 for a digital versions
+
+If these tables were made for digital platforms, with full cabinet support, would you pay around $50 for that experience?
+
+How about a 1 year exclusive on Pinball Pass, then to other platforms at a later stage?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
