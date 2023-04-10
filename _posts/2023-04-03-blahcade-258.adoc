@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 258: Table Speculation Time"
 author: jared
 categories: [episodes]
-image: assets/images/216-pinballfx-logo.jpg
+image: assets/images/216-pinballfx-logo.jpeg
 tags: [featured, sticky]
 ---
 :experimental:
