@@ -1,0 +1,162 @@
+---
+layout: post
+title:  "BlahCade 258: Table Speculation Time"
+author: jared
+categories: [episodes]
+image: assets/images/216-pinballfx-logo.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Here we go again, our favorite thing to do: speculation! 
+Zen's latest Pinball Show gave us lots to chew on, and chew we do. 
+
+* Is South Park coming back? 
+
+* Will we see a Harry Potter table? 
+
+* Are Twilight Zone and Whirlwind next on the Williams collection?
+
+But first, Chris declares his addiction to Oakley frames, and old-school watches.
+He will happily accept offers of any frames you might want to get rid of!
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::vVJsGnJ54K0[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Table-Speculation-Time-e223643" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 02:30 - Oakley frames and watch 
+
+Chris has an addiction, and it is Oakley prescription frames. 
+
+If you want to feed his addiction, you can send him any Oakley frames you no longer want. 
+
+=== 12:00 - Pinball Bites
+
+The Pinball Show has changed studio locations to Europe, and now Akos and Linne are running the show from the Budapest office.
+
+The show features interviews from new Zen Pinball designers and punchy updates about the upcoming Steam release.
+
+Mel came on the show to update us on what was coming up.
+
+=== 16:00 - Mel's hints
+
+Mel mentioned that we would get a "Legendary table surprise" in his update.
+Is this hint a nod to those tables that didn't make it into FX3, such as _Ms. Splosion Man, Plants vs. Zombies_ or even older ones like _Street Fighter_.
+
+There will also be a Williams table released in April, along with a new partner that will surprise us.
+
+Mel basically confirmed that Super League Football is set to make an appearance again in Pinball FX in the same breath as the following:
+
+* Fairly good chance of South Park appearing again.
+
+* Portal and The Walking Dead might even come back. 
+
+* Aliens vs. Pinball and Balls of Glory
+
+Generally, if Mel says something about a table pack franchise, the ink is already dry on the contract, and it is only a matter of time until we see them on the platform.
+
+=== Five new tables are coming for April
+
+It has been a while since the studio announced any new tables, so it makes sense that five are coming in April.
+
+We both reckon that the Godzilla vs. Kong pack will be a three-pack.
+
+The key point about the "Williams table" is that it is singular.
+So that would probably mean a Bally table. 
+
+Based on the back wall hint, the Williams table will be either Twilight Zone or Whirlwind.
+If it was Twilight Zone, that would be a $10 table. 
+Oh, the enhancement possibilities in Twilight Zone. 
+
+=== 36:00 - Terminator 2 skull in the backdrop of the previous show
+
+The community alerted us to another possible hint of a T-600 skull on the back wall.
+
+This would be a welcome addition to the platform, but we'd prefer The Twilight Zone.
+
+=== 38:00 - Designer dream themes
+
+The last segment of Pinball Bites delved into the staff's preferences for what their dream table theme would be.
+
+Linne said, "Transformers".
+Zen already has a relationship with Hasbro, so that is a possibility.
+If a Transformers table is coming, Zen needs to go _all in_ on a transforming table. 
+Zen has experimented with a table that changes gameplay with _Blade_ and its day and night modes that score differently.
+
+Akos says he's been nagging the studio to get a license for a _Futurama_ table. 
+Just think of transporter tubes instead of rails. 
+Just hire the voice actors to do Fry and Leila callouts. 
+Zen already has a relationship with Fox, so Futurama could be arranged. 
+
+Deep said he already did his grail table, which was _Back to the Future_. 
+But if he could do another one, he'd choose _Killer Instinct_ from Midway. 
+Maybe you could retheme the _Street Fighter II_ table with Killer Instinct art?
+
+Anna said she would love to do a _Harry Potter_ table. 
+We wholeheartedly agree that a Quidditch table would be an easy sell. 
+Then you could do a table that was all about spells and magic.
+And then a story-based table focusing on some or all of the movie storylines.
+
+Gary wants to do a _Jazz Jackrabbit 2_ based pinball game. 
+We had yet to learn about what this game is about other than that it is a side-scrolling platformer.
+The main character transforms into a ball when it jumps between platforms.
+Maybe that's the idea behind the game designer.
+
+Chris would like to see a _Cowboy Bebop_ machine because of the excellent music and memorable sound bites.
+
+I think exploring a _Neon Genesis Evangelion_ table could work, particularly the whole battle scenes in that series. 
+Use the combat scenarios as modes.
+Chris riffed on that and suggested _Robotech_ or _Voltron_. 
+But please don't do Power Rangers. 
+
+=== 60:00 - Gary said a title based on "Music"
+
+Gary said that he was working on a music-themed table.
+The QA tester said that he is testing out a horror-themed table.
+That could be any Elvira pinball or even Dracula. 
+
+=== 1:05:00 - What original music table could Zen go after
+
+After joking about "The Barenaked Ladies" having their own pinball game, we speculate about what music license would have the most possibility.
+
+Think about which artists have done Superbowl half-time shows, and maybe start there?
+
+How hard would it be to decide what band to start negotiations with? 
+Who would you start talking with?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
