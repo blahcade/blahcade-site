@@ -1,0 +1,134 @@
+---
+layout: post
+title:  "BlahCade 260: Diving DEEP with Pinball FX's Peter Grafl"
+author: jared
+categories: [episodes]
+image: assets/images/260-title-card.png
+tags: [featured, sticky]
+---
+:experimental:
+
+We had the opportunity to send several questions to Peter 'Deep' Grafl, the lead pinball designer at Zen. 
+
+Today we share his answers with all of you!
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::i8j0eAidfJc[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Diving-DEEP-with-Pinball-FXs-Peter-Grafl-e2476nn" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 12:50 - Favourite pinball designers
+
+Who are some of your favorite pinball designers, and what of their influences can we see on your designs?
+
+=== 15:11 - Favourite pinball toy
+
+Do you have a favorite pinball _thing_? 
+For instance, ramps, bash toys, drop targets, multiball, wireframe habitrails, etc.?
+
+=== 17:10 - Code updates
+
+Why doesn't Zen follow the model of releasing code updates to tables in response to user feedback, much like Stern, JJP, and Spooky? Even 90's era Williams had multiple ROM updates.
+
+=== 22:30 - ROM status
+
+Is there a reason ROM status isn't carried over game-to-game for Williams/Bally recreations? 
+Some Zen originals have this, like Epic Quest and, most recently, Brothers In Arms. 
+When System 11 titles come into play, this will be more and more critical. 
+
+=== 30:00 - Design influences
+
+Has working on WMS recreations changed how you design pinball? 
+How so?
+
+=== 32:55 -DMD message speed
+
+A gripe we've had for several years with Zen originals is how critical DMD information is displayed when the ball is heading toward the flipper. 
+Is this by choice? 
+Is it a scripting issue? 
+Or is it something you've never even noticed?
+
+=== 38:00 - General illumination lighting approaches
+
+Talk to us about lighting. 
+On Zen originals, physical GI lighting seems scarce compared to an actual machine. 
+Does any thought go into how you'd light a purely digital table like a physical machine? 
+
+=== 45:00 -  Modern light shows
+
+The light show on modern pinball machines has ramped up since Jersey Jack stepped onto the scene with Wizard of Oz. 
+A lot goes into it, from making the lighting informational to help tell the story of what is going on with a mode. 
+Some machines now have over 300 RGB lights on them! 
+Can we expect Zen to try and follow suit?
+
+=== 47:30 - Pinball designer responsibilities
+
+We learned from this last Pinball Show that the lead designer controls every aspect of a table. 
+We know the layout is what designers are most known for, but are they responsible for scripting callouts, creating game rules, talking with licensors, sound design, etc.? 
+Seems rather than 'designer', they are more 'director'!
+
+=== 51:30 - Table do-over
+
+What Zen creation from the past do you think is great as-is, and what design would you love to have a second go at, whether it be a color pallet, rules, music, or layout? 
+This is across the entire Zen catalog, not just your designs.
+
+=== 55:55 - Unreal Engine 5
+
+Switching to Unreal Engine, what opportunities have opened up both for existing tables and new ones yet to be released? 
+Will switching to Unreal 5 be on the horizon, and if so, what challenges or advantages do you anticipate?
+
+=== 57:00 - Simulated mechanical differences
+
+Different eras of machines have different mechanics. 
+Flippers from an early 80s Bally are nothing like a modern Stern.
+Depending on the machine, springs on plungers have different tensile strengths (such as Twilight Zone's soft spring). 
+Do you use different physics on table parts to accurately simulate how a machine plays? 
+Or do you have one size fits all table parts you've modeled?
+
+=== 1:03:00 - Cabinet interfaces for accessories
+
+Do you think about how pinball cabinet accessories like rumble motors, solenoids, backglass interaction, and the like might need to be considered?
+
+=== 1:04:00 - Dual-flipper buttons
+
+Zen has avoided dual flipper buttons in all their titles to date.
+Even so, we know that certain titles like _The Shadow_ or _Black Knight_ demand it. 
+Has this been a discussion point?
+
+Also, why can't we remap buttons on controllers in any way we want, unlike the set controller options offered?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
