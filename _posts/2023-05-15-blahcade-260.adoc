@@ -4,7 +4,6 @@ title:  "BlahCade 260: Diving DEEP with Pinball FX's Peter Grafl"
 author: jared
 categories: [episodes]
 image: assets/images/260-title-card.png
-tags: [featured, sticky]
 ---
 :experimental:
 

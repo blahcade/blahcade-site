@@ -1,0 +1,176 @@
+---
+layout: post
+title:  "BlahCade 262: Poll Results for the Best of New in Pinball FX"
+author: jared
+categories: [episodes]
+image: assets/images/262-title-card.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Get comfy, because this is probably our longest show yet! 
+
+We go over what we think are the best of the best of the 29 tables (Williams, and Zen Originals) that are new in Pinball FX, as voted on by you our viewers.
+
+If you are a new adopter on the Nintendo Switch version or new to the Pinball FX platform, we hope these results help you start a strong collection.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::p2R3HaiJQQE[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Poll-Results-for-the-Best-of-New-in-Pinball-FX-e26qgqn" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 05:30 - Haggis Pinball Centaur Remake
+
+This new remake from Australian boutique pinball manufacturer Haggis Pinball is absolutely beautiful.
+
+But at A$15,000 for the "Premium" and A$25,000 for the "Limited Edition" are they going to sell any?
+Yes, and probably in a matter of hours after they go on sale.
+
+=== 19:20 - Poll Results
+
+To get these contenders we did an initial vote between Chris and I on each of the listed categories on _Zen Original tables only_.
+
+Then Chris put the selections into public polls on Twitter, Discord, and Reddit.
+
+The results are in!
+
+NOTE: Vote percentages, and which tables we selected are in brackets. 
+If the numbers are the same there was some anomaly that we point out in the show.
+
+=== 21:30 - Best "one more time" table
+
+* Brothers in Arms (Chris)
+* Snoopy
+* The Mandalorian
+* A Samurai's Vengeance (Twitter: 46%, Reddit: 47%) (Jared)
+* World War Z
+ 
+=== 21:00 - Hardest, but in a good way table
+
+* Brothers in Arms (Chris)
+* The Mandalorian (Twitter: 40%, Reddit, 40%)
+* World War Z (Twitter: 40%)
+* Homeworld (Jared)
+
+=== 27:00 - Easiest, but in a good way table
+
+Contenders:
+
+* My Little Pony (Twitter: 46%, Reddit: 58%) (Jared)
+* Kung Fu Panda
+* Snoopy (Chris)
+* Curse of the Mummy
+* Dragons
+
+=== 31:00 - Best rules
+
+* Grimm Tales (Chris)
+* The Mandalorian 
+* Brothers in Arms 
+* Curse of the Mummy (Twitter: 37%, Reddit: 61%) (Jared)
+* World War Z
+
+=== 33:00 - Best theme and gameplay integration
+
+* Grimm Tales
+* A Samurai's Vengeance (Twitter: 64%, Reddit: 63%) (Chris)
+* Snoopy (Jared)
+* Mandalorian
+* Homeworld
+
+=== 36:00 - Best callouts and DMD use
+
+* Grimm Tales (Reddit: 38%) (Jared)
+* Godzilla vs Kong (Reddit: 38%)
+* Snoopy (Twitter: 45%) (Chris)
+* Kung Fu Panda
+
+=== 39:00 - Most likeable with minimal play
+
+* Grimm Tales (Twitter: 46%, Reddit: 35%)
+* World War Z 
+* Snoopy (Reddit: 35%) (Chris)
+* Kung Fu Panda (Jared)
+
+=== 41:00 - Most likeable after understanding table
+
+* Brothers in Arms (Chris)
+* Mandalorian
+* Mysterious Island (Reddit: 32%)
+* Homeworld (Twitter: 59%) (Jared)
+
+=== 47:00 - Best toy
+
+* Noir "pistol" - (Chris)
+* Borderlands "ball lock"
+* Curse of the Mummy "left upper playfield" (Twitter: 46%, Reddit: 59%) (Jared)
+
+=== 51:00 - Best "only in digital pinball" moment
+
+This was basically a tie on both Twitter and Reddit.
+
+* Kong "upside down" (Reddit: 29%)
+* Wrath of the Elder Gods "creature" (Twitter: 33%)
+* Homeworld "salvage" (Twitter: 33%) (Chris)
+* Star Wars Collectibles "figurines" (Reddit: 29%)
+
+=== 55:00 - Best visual enhancements on a Williams table
+
+* Whirlwind (Chris)
+* Twilight Zone (Twitter: 60%, Reddit: 36%) (Jared)
+* Bride of Pinbot 
+* The Addams Family
+
+=== 1:04:00 - Top three wishes for add-ons to the Pinball FX platform
+
+Chris and I list off our Top 3 things we'd like changed on the platform.
+
+* Remappable buttons and shoulder button swaps as secondary flippers or special buttons.
+* Adjustable tilt sensitivity so you can do a full nudge but only tilt a percentage of a full tilt.
+* 
+* Fan Cave environment for Williams Pinball tables like Star Wars Pinball VR.
+* Be able see leaderboards for all play modes once you select a table from the My Tables menu.
+* Be able to select different play moded without having to exit the table and go back in.
+
+=== 1:18:00 - Notes on all 20 new Zen Originals
+
+Because we are well over time already, this is about 30 minutes of Chris and I sharing our candid thoughts (both praise and constructive criticism) about all the 20 Zen Originals that were released since the start of Epic Games Early Access until the recording date.
+
+You'll hear a recurring theme through out commentary about all these tables where we think improvements could be made.
+See if you can pick what it is and tell us in the comments.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
