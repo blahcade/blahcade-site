@@ -4,7 +4,6 @@ title:  "BlahCade 262: Poll Results for the Best of New in Pinball FX"
 author: jared
 categories: [episodes]
 image: assets/images/262-title-card.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 
