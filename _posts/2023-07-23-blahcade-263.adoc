@@ -1,0 +1,170 @@
+---
+layout: post
+title:  "BlahCade 263: Is This Zen After Dark (Pinball M)?"
+author: jared
+categories: [episodes]
+image: assets/images/263-title-card.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Our favorite sort of episode: one filled with speculation! 
+
+Zen soft announced _Pinball M_, a mature horror-themed pinball experience coming soon. 
+We dig into what is, what might be, and what should be with this new product line.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::gZN_bnIEd9U[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Is-This-Zen-After-Dark-Pinball-M-e27bn01" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 08:00 - So "Pinball M" is a thing
+
+Out of the blue, Jared got a tip-off from PinballWiz45b on Discord about this sneaky listing from Zen.
+
+Zen Studios have announced what Farsight Studios could never quite achieve and have a bonafide listing for a Mature rated pinball offering.
+
+So what could Zen possibly be wanting to include in this offering? 
+Here are their app listing details:
+
+====
+Get ready to tilt into terror. The new horror-inspired pinball platform for fearless players. Prove your skills on the most sinister, gory, and badass tables ever brought to life.
+
+Spine-chilling features:
+
+- Wrath of the Elder Gods: Director's Cut - experience the eldritch horror unrestricted
+- A library of brand-new, never-before-seen tables filled with fear and carnage
+- Thrilling competition
+- Zen Studios' ultimate pinball simulation
+====
+
+=== 13:45 - The difference between "M" tables
+
+On YouTube, Chris brings up two comparison images of what Wrath of the Elder Gods looks like in its "regular" and "director's cut" editions. 
+
+The main difference is the amount of blood.
+There are blood drag marks all up the ramps and lanes, bloodies hand prints on the table, meatier look to all the flesh surfaces.
+
+Let's hope they also do a pass on music and callouts on this table to make it more menacing. 
+
+=== 18:00 - The Fan Cave is very different
+
+The whole Fan Cave experience has been given a big switch-up.
+
+There are a few different options in this app as well, which we speculate on:
+
+* Pinball M Challenges
+
+* Leagues
+
+* Campaign
+
+* Play Corner Settings
+
+* Table Settings
+
+* Table Masteries.
+
+=== 23:00 - So if Pinball FX is "the core" platform, what is "this"?
+
+Could the studio use Pinball M to experiment with new features away from the main app?
+
+Could this be a strategic move to cater better to consoles, where mature DLC items can sometimes be restricted for purchase in a lower-rated core game?
+
+Could we see Steam versions get access to Pinball M content because of the lack of rating? 
+
+Could this Pinball M "Play Corner" be a new room/tab/zone off your Pinball FX fan cave?
+You could also lock the room/tab/zone with parental settings.
+
+=== 26:30 - What content could we see appear in this app?
+
+Here are some of our best bets:
+
+* Scared Stiff
+
+* Elvira and the Party Monsters
+
+* Doom (with more blood)
+
+* Aliens (with more "choice" lines)
+
+* Predator (Director's Cut)
+
+* World War Z (Director's Cut)
+
+* Telltale Games "The Walking Dead" (if they can get it back)
+
+So what other "new horror licenses" could they get into this platform
+
+* Friday the 13th
+
+* Hellraiser
+
+* Scream (or some other contemporary franchise)
+
+Could Spooky Pinball eventually find its way into this app with its horror titles?
+
+=== 36:00 - Can these games ever end up back in the main app
+
+We will know how they will handle expectations once we get the next Pinball Bites show from Zen.
+
+We already have examples of "buy here, unlock over there" with Marvel Pinball, Star Wars Pinball, and Pinball FX2.
+If you unlocked the tables in the secondary apps, they were added to the Pinball FX2 app. 
+
+=== 40:00 - Let's talk about VR and cabinets
+
+The VR landscape has changed since Zen suggested VR would be a thing.
+
+Meta announced that the Meta Quest Pro 2 is canned and will invest instead in Meta Quest 3.
+The problem with VR is that it still fills quite a niche, even though the Meta Quest 2 helped enormously with adoption.
+
+So how is Zen going to "do VR" in Pinball FX? 
+They didn't add any new content to Star Wars Pinball VR, so that platform is essentially abandoned.
+When they get around to it, you can expect that Quest 2 will be the hard cut-off.
+I also feel that they won't offer a native Quest 3 experience on-device. 
+The experience will be better if you have a wired connection to your PC or have a high-bandwidth AirLink.
+
+We both feel that cabinets will get more attention than VR.
+Arcade 1Up and AtGames are both very quiet on the commercial cabinet front.
+So is the studio leaning into the home-brew market.
+We both hope there will be a solution for those who just can't be bothered with tinkering. 
+
+=== 54:00 - When do we reckon this is coming out?
+
+We've already had Pinball Bites in July 2023, so theoretically, we can expect an official acknowledgment of the Pinball M platform in August 2023.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
