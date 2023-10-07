@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "BlahCade 264: Top 5 Pinball Arcade Bally Wiliams Tables We Want Next in Pinball FX"
+author: jared
+categories: [episodes]
+image: assets/images/264-title-card.jpg
+---
+:experimental:
+
+Join us as we discuss which of the 34 remaining tables from The Pinball Arcade we'd like most to see next come to Pinball FX. 
+
+Oh, and also some IMAX talk and the fact that Chris might experience a hurricane for the first time ever in SoCal.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::NEUGSmLGVk8[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Top-5-Pinball-Arcade-Bally-Williams-Tables-We-Want-Next-in-Pinball-FX-e2a93he" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 00:19 - California Prepares for Major Storm 
+
+"The storm is coming. Return to your homes."
+
+Chris tells us that California is bracing itself for an unprecedented tropical storm, the first in 87 years. Predictions indicate heavy rainfall, particularly in desert areas, potentially filling up reservoirs providing crucial water security for the state. Chris is pretty chill about it, though. 
+
+=== 08:00 - Evolution of Cinema Formats: Cinerama to IMAX to Modern Innovations 
+
+The brief discussion delves into challenges faced by some older "innovative" movie formats like Cinerama, such as synchronization and vibration issues.
+We also discuss how contemporary cinemas are experimenting with immersive wrap-around screen experiences. However, some drawbacks, like distracting light spectacles, remain. 
+
+Despite these challenges, the evolution of cinema formats continues as cinemas continue to adapt to remain relevant in a growing media market.
+
+=== 17:00 - Top Five Pinball Tables Wishlist
+
+Chris and I discuss our top five pinball tables wishlist from 34 Williams Bally tables.
+These tables are currently in Farsight's _The Pinball Arcade_ but have yet to reach Pinball FX. 
+
+We know that some tables in the list of 34, particularly early solid-state and EM tables, may never be converted to Pinball FX. 
+
+The discussion revolves around our personal preferences and experiences with these tables. 
+
+=== 25:30 - Honorable Mentions for Pinball Tables 
+
+We share our honorable mentions for pinball tables that could have made our top five wishlists. 
+
+_Earth Shaker_ and _Jackbot_ are mentioned along with others on the list.
+The conversation also touches on potential visual extras for Earth Shaker, like the prototypical descending number tower, that could enhance the gameplay experience. 
+
+=== 1:00:00 - Top 5 Most Wanted Non-Williams Tables 
+
+In this section, we talk about our Top 5 most wanted non-Williams pinball tables. 
+Various manufacturer's tables are discussed, including Aliens, Metallica, Lord of the Rings, The Hobbit, Dialed In, Guns and Roses, Infinity War Pro, Big Bang Bar, and Rick and Morty. 
+
+We use the opportunity to provide insights into what makes these tables special and why we want to see them in digital pinball. 
+
+== Thanks for listening
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
