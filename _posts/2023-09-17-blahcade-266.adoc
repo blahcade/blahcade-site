@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "BlahCade 266: Hastily thrown together reaction to AtGames Legends 4K"
+author: jared
+categories: [episodes]
+image: assets/images/266-title-card.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+The announcement about the partnership between AtGames and Zen Studios came out of the blue, so here we are reacting to it!
+
+Yep, Zen has moved on from Arcade 1Up and instead has partnered with AtGames for their upcoming 4K pinball cabinet.
+
+We've got plenty of questions and only a few answers.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::AMP6y9Oh1TE[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Hastily-Thrown-Together-Reaction-to-AtGames-Legends-4K-Pinball-e2a92ma" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+    
+=== Chris gets to play an Arcade 1Up Star Wars Machine
+
+The Arcade 1Up Star Wars machine was found to be smaller than expected, which initially surprised Chris. 
+However, the size didn't significantly affect the gameplay experience after you start playing it for a bit. 
+While the haptics and 720p graphics weren't outstanding, the flipper lag was minimal, making it a decent gaming experience. 
+But not for the price that has stayed the same since its release.
+
+=== 05:40 - Hardware Specifications of the AtGames Legends Pinball 4K 
+
+The AtGames Legends Pinball 4K has a 32-inch 4K playfield, a 23.8-inch HD back glass display, and an 8-inch HD DMD. 
+
+It features built-in solenoids and speakers for haptics, 3.5-inch audio speakers, and a refreshed user interface. 
+
+Additionally, it supports optional accessories such as an arcade control panel and a surround sound feedback kit.
+
+The cabinet is designed to provide an authentic pinball experience. 
+It includes integration options with PC so you can play Pinball FX through what AtGames calls USB On The Go (OTG). 
+
+=== 11:00 Concerns About the Rockchip 3588 System-on-a-Chip 
+
+One major concern raised by Jared was the use of the Rockchip 3588 system-on-a-chip in the AtGames Legends Pinball 4K. 
+While the chip has multi-monitor capabilities, Jared thought it could struggle to handle demanding games like 'The Addams Family' at 4K resolutions.
+
+The absence of a dedicated GPU raises questions about potential graphical sacrifices for the embedded tables. 
+The placement of the control panel at the top of the screen is also a concern, although it might be subject to change. 
+
+=== 16:00 Price and Editions
+
+The pricing for The Addams Family Pinball cabinet is $1,500 at full MSRP. It can be pre-ordered for as low as $1,100 during a very limited and specific period. 
+
+This version of the cabinet will be unlimited in number.
+
+Additionally, Zen plans to release 15 other Collector's Editions of the cabinet, limited to 5000 units, with custom toppers. 
+
+All AtGames products are only available in the United States. 
+There are no distribution partners outside the US for Europe or Asia-Pacific. 
+So, if you want one and don't live in the US, expect hefty import fees and no warranty.
+
+=== 21:49 - Game Titles and Compatibility 
+
+The cabinet includes The Addams Family and 14 other titles, most of which are Zacharia Deluxe tables. 
+
+Notably, if you already own Legends pinball tables on the HD platform, they *do not transfer* to the Legends 4K platform. 
+
+The option of buying additional Zen Pinball FX tables on this cabinet was unclear at the recording time. 
+
+=== 27:46 Haptic Feedback through the PC 
+
+Haptic feedback through the PC is essential for an immersive pinball experience, and the cabinet must provide this feature to justify the price. 
+
+Connecting the cabinet to a PC should be seamless, ideally with a one-click cabinet mode in Pinball FX to fully utilize its capabilities. 
+
+=== 32:30 - Subscription Service 
+
+AtGames offers a subscription service to 160 games for $15 a month. 
+It also seems as though you need the subscription service to access online leaderboards and special exclusive tournaments.
+
+=== 40:35 - Zen Pinball Cabinet Discussion 
+
+We're excited about the AtGames Legends 4K Pinball Cabinet with its features and integration options. 
+We're very excited about the possibility of connecting a PC to enhance gameplay. 
+But is the price right if you don't get in on the pre-order?
+
+Now that Zen has a hardware partner, Chris and I both feel that there should be renewed interest and development investment in more cabinet options from Zen Studios. 
+
+=== Footnote: Wagner's Tech Talk Deep Dive
+
+Thanks to _Wagner's Tech Talk_ site for their deep-dive into an AtGames Legends 4K Pinball engineering sample they received.
+
+It is really worth checking out at https://wagnerstechtalk.com/alp4kevt/#Video_Series[Wagner's Tech Talk page about the AtGames Legends Pinball 4K EVT (Engineering Sample)] because it offers a comprehensive review of the product. 
+One of the videos even conducts an experiment measuring round-trip lag times with buttons. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

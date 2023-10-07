@@ -4,7 +4,6 @@ title:  "BlahCade 263: Is This Zen After Dark (Pinball M)?"
 author: jared
 categories: [episodes]
 image: assets/images/263-title-card.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 
