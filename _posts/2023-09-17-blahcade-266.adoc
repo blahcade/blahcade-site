@@ -4,7 +4,6 @@ title:  "BlahCade 266: Hastily thrown together reaction to AtGames Legends 4K"
 author: jared
 categories: [episodes]
 image: assets/images/266-title-card.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

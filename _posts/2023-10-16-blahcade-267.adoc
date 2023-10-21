@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "BlahCade 267: Unboxing AtGames Legends Pinball Arcade Control Panel, and South Park"
+author: jared
+categories: [episodes]
+image: assets/images/267-title-card.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+We unbox the AtGames Legends Pinball Arcade Control Panel, look at the Pinball M demo, and show some differences with South Park in Pinball FX compared with Pinball FX2.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::lB4fUXGlwQY[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Unboxing-AtGames-Legends-Pinball-Arcade-Control-Panel--and-South-Park-e2as8ft" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+ 
+=== 00:30 - Unboxing of the Arcade Control Stick
+
+Chris unboxed the Legends Pinball Arcade Control stick from AtGames that he bought in anticipation of the Legends 4K Pinball table arriving.
+We examined its overall design, build quality, and features. This included its buttons, the trackball and its potential use for navigation, and the thickness of the top panel wood. 
+Overall, we both thought the unboxing revealed a solid and well-built device that should let Chris navigate easily through the OTG connection. 
+
+=== 09:20 - First Impressions of Pinball M Demo 
+
+Chris and I share our initial impressions of the Pinball M demo. We cover the user interface, highlighting some clunkiness in some areas of the UI and the need to understand the extra menu layers and how they relate to controller buttons. 
+
+We also emphasize why user feedback is so important in shaping the future of Pinball M.
+It is full of experiments in the wild and what sticks will be down to what features the community loves. 
+
+=== 36:30 - Visual Differences in South Park Table 
+
+In comparing the South Park pinball table between FX and FX2, it's evident that FX offers improved lighting and more natural shadows. 
+However, FX2's lighting is more balanced. 
+This aspect makes the table easier on the eyes and provides a less harsh transition between lighting states. 
+
+While the FX version has brighter colors, it can feel somewhat washed out and lacks the subtlety seen in the FX2 version. 
+The bus's yellow feels really blown out in FX compared with the defined gradients in the yellow that give the bus some cartoon depth.
+
+FX2's presentation appears to be more visually appealing. However, the enhanced lighting effects added to Pinball FX make the winner out of the two variants challenging.  
+
+=== 45:40 - Critique of the design approach in South Park Pinball 
+
+The South Park pinball table definitely falls into the "spell-o-rama" category. 
+Both Chris and I feel that South Park Pinball is less appealing than the two South Park tables. 
+
+The table's design could be more coherent, and the mission goals could be clearer. 
+The table features multiple simultaneous storylines and frequent character dialogues, making it challenging for players to follow. 
+
+While it remains faithful to the show's style by not overloading with 3D visual effects, some extra visual cues, like lighting character heads to represent progression, would enhance the table's playability. 
+
+=== 54:40 - Comparison of Butters Tables (FX2 vs. FX3) 
+
+This segment discusses the differences between the FX2 and FX3 versions of the Butters Pinball table from the South Park Pinball pack in Pinball FX.
+
+We compare various aspects, such as the lighting, graphics, and gameplay. 
+
+In stark contrast, the visual details, shadowing, and overall quality differences between the two versions make the Pinball FX version of Butters the better version. 
+
+=== 1:03:00 - Upcoming Zen Studios Pinball Tables 
+
+We touch upon Zen Studios' plans for pinball tables with the partnership with Asmodee Games and the first _Game Night Volume 1_ announcement. 
+This initial batch of announced tables includes adaptations of popular board games like Gloom Haven, Exploding Kittens, and Terraforming Mars. 
+
+The Asmodee Games partnership could offer many possibilities based on the number of board game brands this company owns. We both reckon that there will be a significant influx of pinball content in 2024 from this partnership. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode. 
+We hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
