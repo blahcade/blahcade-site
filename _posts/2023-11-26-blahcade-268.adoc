@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "BlahCade 268: Pinball FX has 14 new tables!"
+author: jared
+categories: [episodes]
+image: assets/images/268-title-card.jpg
+tags: [featured, sticky]
+---
+:experimental:
+
+Zen Studios just announced 14 new tables coming to Pinball FX within 1 week of each other! 
+What?? 
+
+We start the show by looking at changes that AtGames has made to the ALP 4K and some new SKUs they just announced in partnership with Zen Studios.
+
+We then delve into all the new things and discuss the announced quality-of-life patches coming to the game. 
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::3YLdt8HVVRk[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Unboxing-AtGames-Legends-Pinball-Arcade-Control-Panel--and-South-Park-e2as8ft" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+ 
+=== Updates to the Adams Family 4K Cabinet [09:37]
+
+The Addams Family 4K Cabinet has undergone changes based on user feedback. 
+The logo on the top has been replaced with The Addams Family logotype. 
+Graphics have been added to the speaker grills, and the coin door is now centered with a maker plate in the middle. 
+The topper is also lit up, giving it a more premium look. 
+
+Some users have expressed dissatisfaction with the plunger design and have suggested alternative options, like replacing it with a more regular Williams-style plunger. 
+Hopefully, the modding community can develop an after-market solution for owners who want to replace their stock plunger.
+
+=== New Snoopy Cabinet by Zen [13:43]
+
+AtGames has announced a new collector's edition cabinet featuring Snoopy in collaboration with Zen. 
+The cabinet has a predominantly yellow design, in line with the theme. 
+It showcases graphics on the back box and incorporates elements that capture the essence of Snoopy. 
+
+Some people have expressed reservations about the amount of yellow used in the design. Still, overall, the cabinet is visually appealing and captures the franchise's spirit. 
+
+What is interesting about this is that both Chris and I thought that it would only be Williams collector's editions, not Zen Studios originals. 
+This announcement kind of changes everything!
+
+=== Surprise announcement of Star Trek Pinball tables [16:00]
+
+During a recent Pinball Bites episode, it was revealed that there will be three new Star Trek pinball tables coming out from Zen. This announcement was a complete surprise to fans, as it had yet to be previously announced. 
+
+The tables will include versions based on the Star Trek: Kelvin timeline, Star Trek: Discovery, and Star Trek: Deep Space Nine. 
+All tables feature deep theme integration, and some include movie snippets and voice calls.
+
+The announcement of the Star Trek pinball tables further demonstrates Zen's ability to respect a franchise and secure licensing agreements for what must have been a really tough deal to negotiate. 
+There are actual movie actor licenses on the Kelvin table and obvious actor likenesses on the Disco and DS9 tables. 
+
+It is also impressive that they could narrow down the material to include in the tables, especially considering the vast amount of content from the Star Trek canon. 
+
+=== Pinball FX updates [32:00]
+
+Updates to the Pinball FX core app appear to be quite exciting. 
+One of the new features mentioned is the long-awaited control remapping, which allows players to customize their control scheme. 
+Another feature is Quick Play, which randomly selects a table for the player to play.
+
+Local leaderboards also make a welcome return, as do system-based achievements on Steam for all December 2023 content update tables.
+This feature will be retroactively applied to previously released titles over time. Still, no firm commitment was made about when all older tables will receive this feature.
+
+There haven't been any Williams releases since August 2023 with Star Trek: The Next Generation.
+And the recent set of content announcements are decidedly silent about any Williams content.
+Let's hope that 2024 sees a return to more Williams releases.
+             
+== Thanks for listening
+
+Thanks for watching or listening to this episode. 
+We hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
