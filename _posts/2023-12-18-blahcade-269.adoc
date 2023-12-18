@@ -3,7 +3,7 @@ layout: post
 title:  "BlahCade 269: End of 2023 Interview with Zen's Mel Kirk"
 author: jared
 categories: [episodes,interviews]
-image: assets/images/269-title-card.png
+image: assets/images/269-title-card.jpg
 tags: [featured,sticky]
 ---
 :experimental:
