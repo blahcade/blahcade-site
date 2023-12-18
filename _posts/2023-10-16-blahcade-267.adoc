@@ -4,7 +4,6 @@ title:  "BlahCade 267: Unboxing AtGames Legends Pinball Arcade Control Panel, an
 author: jared
 categories: [episodes]
 image: assets/images/267-title-card.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 
