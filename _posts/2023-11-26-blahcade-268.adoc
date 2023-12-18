@@ -28,7 +28,7 @@ video::3YLdt8HVVRk[youtube, width=560, height=315]
 And here's the podcast audio:
 
 ++++
-<<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Pinball-FX-has-14-new-tables-e2dcf56" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Pinball-FX-has-14-new-tables-e2dcf56/a-aaoj44s" height="315px" width="560px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
