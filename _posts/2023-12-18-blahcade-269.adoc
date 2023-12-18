@@ -1,0 +1,175 @@
+---
+layout: post
+title:  "BlahCade 269: End of 2023 Interview with Zen's Mel Kirk"
+author: jared
+categories: [episodes,interviews]
+image: assets/images/269-title-card.png
+tags: [featured,sticky]
+---
+:experimental:
+
+It's an annual tradition of having Zen COO Mel Kirk join us to discuss everything happening with Zen Studios and reflect upon what was a massive year for the studio.
+
+We discuss Pinball M, AtGames ALP 4K, and what to expect in 2024.
+
+The interview is shorter than the ones we have done in the past because we used to ask about development stuff, which Mel is no longer close enough to.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::37gx65itjhg[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/End-of-2023-Interview-with-Zens-Mel-Kirk-e2dcmb0/a-aaojsh0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 01:00 - Was Pinball M supposed to be a Halloween release?
+
+Yep, it was most certainly supposed to be Halloween-aligned, but the delays were not necessarily to do with Zen Studios. 
+
+With the downturns that have happened across several industries over 2023, these affected licensor teams, which were responsible for doing license negotiations, as well.
+
+Mel suggested that it was quite remarkable that they were able to release Pinball M only one month after Halloween, given the factors outside their control.
+
+=== 02:00 - What actually _is_ Pinball M to the studio
+
+Mel knew that they had to do something new and fresh.
+So, the entire team (not just the pinball divisions) put forth their ideas for modes and challenges.
+
+These new features are really tracking well based on user feedback received to date.
+The most popular thing in Pinball M seems to be the Play Corner idea in Pinball M.
+Stats suggest that people are actually spending time customizing their play corners.
+
+=== 08:00 - Star Trek table footage and HD video challenges
+
+Mel shared that while the HD video display is the right direction, there are a lot of licensing challenges getting footage.
+
+Mel was saying that video footage licensing is at the same level of difficulty as music licensing, and we know how hard that is to get right.
+
+=== 10:30 - Paramount is a key strategic partner
+
+Paramount has become a significant partner.
+
+Star Trek took a *very* long time to get right.
+
+December 7th was supposed to look very different. 
+
+=== 12:00 - Williams table release slowdown
+
+One-off Williams licensing deals don't really happen anymore. 
+So, the studio has to come up with more ideas to present to licensors to get them excited about doing the legals for the third-party Williams releases.
+
+There are a few big Williams licenses coming down the pipe in 2024, including a multiple-table original and Zen Original tie-in. 
+
+More on roadmaps later in the episode.
+
+=== 15:00 - Is Terraforming Mars considered a sequel to the "Mars" table in FX2 
+
+Mel doesn't consider it a sequel as such, but he can see how those comparisons could be drawn. 
+
+He said the engagement with the licensor was to make something original.
+My take on it is that there isn't a lot you can do with a red planet's sandy environment, so the mood is always going to have a similar feeling to it.
+
+=== 16:00 - Where is Steam as a platform?
+
+Mel could see that the team at AtGames was going in the right direction with cabinet pinball.
+Mel confirmed that he only wants to partner with companies that are forerunners in their area of specialty, and AtGames has a solid track record now.
+
+The process of building a cabinet was for the studio to gain an appreciation of what folks in the community face when building a cabinet.
+Mel was clear that cabinet play presents a huge potential for both Zen and AtGames.
+There were other people asking Zen to partner for cabinet play, but they went with AtGames because of their established infrastructure and solid track record of getting products to market. 
+
+At the end of the day, Zen is a _software partner_, and AtGames is the _hardware partner_. 
+Zen Studios is responsible for making the software work on the AtGames hardware to AtGames specifications for the AtGames roadmap.  
+
+=== 18:00 - Will OTG feature sets be comparable with the on-board games?
+
+AtGames store titles have extra software coded in by Zen Studios that make them first-tier experiences for the AtGames hardware platform.
+
+The experience you get on the OTG platform will definitely be different, so don't expect a 1:1 experience.
+
+AtGames is going to feature approved backglass assets for their first-tier experience. 
+There are some companies out there that are selling officially licensed backglasses, but Mel would like to offer at least a basic backglass included with every table.
+
+The other challenge with these digital tables is that licensors don't quite get how you can download their game on the platform and then play a bunch of other tables from other licensors on the same platform.
+Mel doesn't quite understand that logic because isn't the PlayStation 5 and Xbox One the same thing but different?
+Anyhow, there is some ground to break when it comes to helping licensors understand how the digital pinball ecosystem works compared with other types of game offerings.
+
+=== 22:00 - Mobile app?
+
+We will see it in 2024, and the approach won't be like Williams Pinball on iOS and Android.
+
+You can either buy tables or play with advertising.
+This is now the standard monetization model for mobile, and Zen doesn't want to deviate from what is considered standard.
+
+=== 23:30 - VR in 2024?
+
+Something very big is going to happen in VR in 2024, according to Mel. 
+Nothing more than that at this stage.
+
+=== 24:00 - Table roadmap in 2024
+
+The focus will be on expanded distribution (VR, Mobile, AtGames) to assist with revenue health for the company.
+
+To let the team focus on the expanded platform roadmap, the studio will not be releasing 30 games in 2024:
+
+* There are 6 Williams games confirmed.
+
+* There are 9 Pinball FX and Pinball M releases confirmed in total (not per app) across those two apps.
+
+A total of about 15 new releases in 2024.
+And VR.
+And Mobile.
+That's quite a bit if you put that into perspective.
+
+You will see Pinball FX and Pinball M cross-over table packs, with the _intent_ to offer the same title on both platforms in the same ecosystem.
+
+Think Wrath of the Elder Gods (WOTEG) on Pinball FX and Pinball M on your Steam account.
+But not WOTEG regular on your Steam account and WOTEG Directors Cut on your PlayStation account.
+Get it? Got it? Good.
+
+Just remember, licensing is hard, but the studio really wants to make this work.
+Let's see if they can get it over the line with their licensors.
+
+=== 26:00 - Texas Chainsaw Massacre and Spooky Pinball
+
+Mel confirmed that there is absolutely no relationship between Zen's release and Spooky's release.
+Mel confirms that they actually have had sharing sessions about ideas.
+But he then follows up that Zen's version is based on the TCM Netflix version, and the Spooky table is based on the movie version.
+
+=== 30:00 - Mel's take on 2023
+
+It has definitely felt like the studio was in "launch mode" all year.
+He confirmed that releasing this many tables was "nuts".
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how you can help the show.
+
+If you want to make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
