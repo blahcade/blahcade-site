@@ -1,0 +1,146 @@
+---
+layout: post
+title:  "BlahCade 270: Target Alpha, New Toys for 2024!"
+author: jared
+categories: [episodes]
+image: assets/images/270-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+Chris became an EM owner since the last episode with a Gottlieb Target Alpha, and it was as close to a barn find to be had without the actual barn! 
+
+Things start with the annual tradition of the best movies seen in 2023 and the worst.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::fzyFpY_Oz0w[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Target-Alpha--New-Toys-for-2024-e2eutir/a-aat11mr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+The first half, up until about 30, discusses Chris' usual coverage of the movies he watched in 2023. 
+Here is a summary of the movies and a few lines on each.
+
+=== The Intriguing Twist: "The Menu"
+
+Chris dives into "The Menu," a movie he initially perceived as a satire on the rich but turned out to be a gripping horror experience. 
+The discussion delves into the unexpected twists and the film's unique storytelling approach.
+
+=== Unsettling Tension: "Leave the World Behind"
+
+"Leave the World Behind" captures Chris's attention with its directorial finesse by Sam Esmail. 
+The movie on Netflix draws praise for its visual storytelling and ability to create tension through camera framing.
+
+=== Blockbuster Sequels: "John Wick Chapter 4" and "Guardians of the Galaxy 3"
+
+Chris shares his thoughts on "John Wick Chapter 4" and "Guardians of the Galaxy 3." 
+While the former is dubbed a "greatest hits" compilation, the latter receives accolades for sticking the landing in the trilogy.
+
+=== Animated Marvel: "Spider-Man Across the Spider-Verse"
+
+The discussion shifts to the animated realm with "Spider-Man Across the Spider-Verse." 
+Chris commends its groundbreaking animation style, diverse character designs, and the promise of a continued Spider-Man franchise.
+
+=== Unexpected Pleasure: "Sisu"
+
+"Sisu" surprises Chris with its portrayal of a Finnish miner during World War II. The film blends action, history, and vengeance, offering a unique cinematic experience.
+
+=== A Nostalgic Return: "Indiana Jones and the Dial of Destiny"
+
+Chris revisits the Indiana Jones franchise with "Indiana Jones and the Dial of Destiny." 
+Expressing relief at the film's departure from the disappointing "Kingdom of the Crystal Skull," Chris finds satisfaction in this nostalgic installment.
+
+=== Mission Accomplished: "Mission Impossible Dead Reckoning Part One"
+
+The Mission Impossible franchise continues to impress with "Dead Reckoning Part One." 
+Chris lauds the film's opening sequence, likening it to a spectacular set piece from the Uncharted video game series.
+
+=== A Sci-Fi Gem: "The Creator"
+
+"The Creator" earns praise for its stunning visuals and thought-provoking narrative. 
+Chris encourages viewers to explore this sci-fi film, highlighting its interesting take on geopolitical themes.
+
+=== Monstrous Delight: "Godzilla Minus One"
+
+Not a traditional Godzilla fan, Chris expresses his enjoyment of "Godzilla Minus One." 
+The film's CGI excellence and emphasis on human characters create a refreshing monster movie experience.
+
+== Movie Misfires: A Few to Avoid
+
+Chris wraps up the discussion with a quick rundown of movies that missed the mark in 2023. From "Black Adam" to "Evil Dead Rise" and "Fast X," he shares insights on the disappointing aspects of these films.
+
+== Bonus Movie Recommendations
+
+Jared shares his movie recommendations, including the animated gem "Suzume" and the unexpected rom-com "Anyone But You." 
+
+Both films are worth checking out, but they are very different concepts. 
+Suzume's realization of natural disasters is a very impressive visual element that genuinely makes you uncomfortable and nervous. 
+
+=== The Unexpected Journey of Acquiring a 1976 Target Alpha
+
+[30:17-1:00:45]
+ 
+In the world of pinball enthusiasts, unexpected opportunities can arise that lead to acquiring a new treasure. 
+It was a 1976 Gottlieb Target Alpha, an electromechanical (EM) wonder.
+
+Upon receiving the offer, Chris was skeptical, expecting a worn-out and neglected machine. However, when he laid eyes on the Target Alpha, his expectations were shattered. 
+The pinball machine was in stellar condition, defying the typical wear and tear associated with EM machines. 
+
+- The back glass was flawless, showcasing vibrant colors and immaculate preservation.
+- The coin door, usually prone to deterioration, appeared as if it had been recently refurbished, gleaming with a chrome-like shine.
+- The machine's interior was clean, devoid of the usual dust and grime in aged pinball machines.
+- The intact Mylar on the playfield and the absence of yellowing on the drop targets all contributed to the sense of uncovering a hidden gem.
+-  The machine's internal components, including relays and transformers, exhibited cleanliness and functionality that defied its age.
+-  Even the playfield, while showing signs of ball swirl in certain areas, retained its vibrant colors without succumbing to the UV and wear issues common in older pinball machines.
+
+There appeared to be an issue with the score match system and occasional player assignment anomalies.
+But EMs are designed to be played constantly, so a few dozen games on the machine started to free up some of the gummed-up mechs.
+
+Chris talked about the auditory experience provided by EM machines. 
+The distinct sounds, reminiscent to him of adding machines from the early '80s, create a visceral and engaging atmosphere. 
+Not only are the noises enjoyable, but they also become an essential part of diagnosing faults. 
+Familiarizing oneself with these sounds becomes a musical soundtrack, providing cues about the machine's operation.
+
+== Exploring VR in Pinball FX with the Unreal Engine VR Mod (UEVR)
+
+Jared tried the https://github.com/praydog/UEVR[PrayDog UEVR^] mod to turn Unreal Engine 4 or 5 games into a VR experience. In particular, I want to know how this worked with Pinball FX.
+
+There is definite potential in this open-source implementation, but it isn't easy to set up and get working. 
+You need to invest time tweaking the settings to get the game running acceptably.
+
+Official VR support should be coming to Pinball FX in 2024, so if you don't like to tinker, you may just want to wait. 
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
