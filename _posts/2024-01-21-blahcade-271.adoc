@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "BlahCade 270: Target Alpha, New Toys for 2024!"
+title:  "BlahCade 271: Top 10 Zen Originals We Always Play"
 author: jared
 categories: [episodes]
-image: assets/images/270-title-card.jpg
+image: assets/images/271-title-card.jpg
 tags: [featured,sticky]
 ---
 :experimental:
 
-Chris became an EM owner since the last episode with a Gottlieb Target Alpha, and it was as close to a barn find to be had without the actual barn! 
-
-Things start with the annual tradition of the best movies seen in 2023 and the worst.
+They may not be the best, and they may not be our favorites, but these are the top 10 Zen Originals we always have a game or two on when booting up Pinball FX.
 
 == Chat on Discord
 
@@ -20,12 +18,12 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 
 == Watch and listen
 
-video::fzyFpY_Oz0w[youtube, width=560, height=315]
+video::bxrSF53zWTA[youtube, width=560, height=315]
 
 And here's the podcast audio:
 
 ++++
-<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Target-Alpha--New-Toys-for-2024-e2eutir/a-aat11mr" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Top-10-Zen-Originals-We-Always-Play-e2f2gfi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
@@ -42,97 +40,86 @@ BlahCade is available everywhere good podcasts are hosted:
 
 == Show notes
 
-The first half, up until about 30, discusses Chris' usual coverage of the movies he watched in 2023. 
-Here is a summary of the movies and a few lines on each.
+Here are our Top 10 Zen Originals that we naturally always play 
 
-=== The Intriguing Twist: "The Menu"
+=== Epic Quest
 
-Chris dives into "The Menu," a movie he initially perceived as a satire on the rich but turned out to be a gripping horror experience. 
-The discussion delves into the unexpected twists and the film's unique storytelling approach.
+For Chris, this could be a real pinball table. 
+There aren't many fantasy effects elements on it that couldn't be done in real-world pinball.
 
-=== Unsettling Tension: "Leave the World Behind"
+For Jared, the humorous and light-hearted theme makes it very accessible. 
+The callouts don't get tired even after hearing them for the 10th time, and the game has depth if you want to get to the wizard mode.
 
-"Leave the World Behind" captures Chris's attention with its directorial finesse by Sam Esmail. 
-The movie on Netflix draws praise for its visual storytelling and ability to create tension through camera framing.
+=== Wild West Rampage
 
-=== Blockbuster Sequels: "John Wick Chapter 4" and "Guardians of the Galaxy 3"
+Chris admits he isn't good at this table, but this is *very* Addams Family in its layout.
 
-Chris shares his thoughts on "John Wick Chapter 4" and "Guardians of the Galaxy 3." 
-While the former is dubbed a "greatest hits" compilation, the latter receives accolades for sticking the landing in the trilogy.
+For me, the mini playfield is the fun part of this game. 
+It's a spell-o-rama of doom, but you can shoot happily away on it.
+Just not for that long before you want to move on to something else.
 
-=== Animated Marvel: "Spider-Man Across the Spider-Verse"
+=== Jurassic Park
 
-The discussion shifts to the animated realm with "Spider-Man Across the Spider-Verse." 
-Chris commends its groundbreaking animation style, diverse character designs, and the promise of a continued Spider-Man franchise.
+Chris and I love the callouts, and the layout of this table has fun, flowy shots.
+You can just step up and play this as it lies and not have to think that much.
 
-=== Unexpected Pleasure: "Sisu"
+This reminds me of the Data East pinball of the same name but with more fun rules.
+I didn't include this because I only focused on the Zen Originals category in the game. Still, I would have definitely put this on my list.
 
-"Sisu" surprises Chris with its portrayal of a Finnish miner during World War II. The film blends action, history, and vengeance, offering a unique cinematic experience.
+=== Curse of the Mummy
 
-=== A Nostalgic Return: "Indiana Jones and the Dial of Destiny"
+I love this game because of the upper playfields and their fun bash toys.
+The modes are a light version of spell-o-rama (about three shots a piece), but they are stackable. 
+And you can stack them in Multiball, which causes chaos on the playfield and creates compelling scoring opportunities.
 
-Chris revisits the Indiana Jones franchise with "Indiana Jones and the Dial of Destiny." 
-Expressing relief at the film's departure from the disappointing "Kingdom of the Crystal Skull," Chris finds satisfaction in this nostalgic installment.
+Chris made the point that the camera zoom does take you out of the moment, so cabinet play might be a bit strange unless they have addressed this issue.
 
-=== Mission Accomplished: "Mission Impossible Dead Reckoning Part One"
+=== South Park: Butters
 
-The Mission Impossible franchise continues to impress with "Dead Reckoning Part One." 
-Chris lauds the film's opening sequence, likening it to a spectacular set piece from the Uncharted video game series.
+Chris just loves Butters as a character, which flows into his love for the table. 
+Accurate voice callouts from the game and key memes from the show are present.
 
-=== A Sci-Fi Gem: "The Creator"
+I would step up to Butters if presented with South Park and Butters side-by-side.
+This table shows a deep understanding of a character in a franchise and how the table producer can dive deep into that universe.
 
-"The Creator" earns praise for its stunning visuals and thought-provoking narrative. 
-Chris encourages viewers to explore this sci-fi film, highlighting its interesting take on geopolitical themes.
+=== A Samurai's Vengeance
 
-=== Monstrous Delight: "Godzilla Minus One"
+This was my pick because it looks incredible. 
+It does have its challenges with the entry into the upper playfield from the sheath. 
+This table is like the Bally _The Champion Pub_ table, but with Samurai.
 
-Not a traditional Godzilla fan, Chris expresses his enjoyment of "Godzilla Minus One." 
-The film's CGI excellence and emphasis on human characters create a refreshing monster movie experience.
+Chris' dislike for mini-playfields sours this one for him, and I take on his point that the entry to the upper playfield from the lower mini-playfield is frustrating until you can dial in the shot. 
+You can't trap and shoot, so it feels like you are monkey-flipping up there in some cases.
 
-== Movie Misfires: A Few to Avoid
+=== Castle Storm
 
-Chris wraps up the discussion with a quick rundown of movies that missed the mark in 2023. From "Black Adam" to "Evil Dead Rise" and "Fast X," he shares insights on the disappointing aspects of these films.
+Chris loves the great lighting but still has no clue what's happening. 
+The game has some strange angles and odd shots for Chris, but he still loves it despite these criticisms. 
+It is a spell-o-rama, but the rules tell you how to get the most out of it.
+Chris has no issue with the mini-playfield on this table, which is saying something.
 
-== Bonus Movie Recommendations
+=== Excalibur
 
-Jared shares his movie recommendations, including the animated gem "Suzume" and the unexpected rom-com "Anyone But You." 
+I'm so glad that this table has made a return.
+With the new lick of paint and time to review the rules (which you need to do), it is a really satisfying table to sit down with and progress.
 
-Both films are worth checking out, but they are very different concepts. 
-Suzume's realization of natural disasters is a very impressive visual element that genuinely makes you uncomfortable and nervous. 
+=== Sorcerer's Lair
 
-=== The Unexpected Journey of Acquiring a 1976 Target Alpha
+Everyone knows this table, and the rules are well-explained in the rulesheet.
+But the difference here is that the on-playfield rules are very well explained through visual extras instead of insert lights.
+It is easy to learn but quite hard to master.
 
-[30:17-1:00:45]
- 
-In the world of pinball enthusiasts, unexpected opportunities can arise that lead to acquiring a new treasure. 
-It was a 1976 Gottlieb Target Alpha, an electromechanical (EM) wonder.
+Chris just can't get into this table. 
+Even though he's played it since Pinball FX2, he still can't get into it.
 
-Upon receiving the offer, Chris was skeptical, expecting a worn-out and neglected machine. However, when he laid eyes on the Target Alpha, his expectations were shattered. 
-The pinball machine was in stellar condition, defying the typical wear and tear associated with EM machines. 
+=== Verne's Mysterious Island
 
-- The back glass was flawless, showcasing vibrant colors and immaculate preservation.
-- The coin door, usually prone to deterioration, appeared as if it had been recently refurbished, gleaming with a chrome-like shine.
-- The machine's interior was clean, devoid of the usual dust and grime in aged pinball machines.
-- The intact Mylar on the playfield and the absence of yellowing on the drop targets all contributed to the sense of uncovering a hidden gem.
--  The machine's internal components, including relays and transformers, exhibited cleanliness and functionality that defied its age.
--  Even the playfield, while showing signs of ball swirl in certain areas, retained its vibrant colors without succumbing to the UV and wear issues common in older pinball machines.
+This game is great in Time Challenge mode.
+This gameplay mode is an excellent way to get your head around the rules, and after you get your head around it, you want to explore it more in regular modes.
 
-There appeared to be an issue with the score match system and occasional player assignment anomalies.
-But EMs are designed to be played constantly, so a few dozen games on the machine started to free up some of the gummed-up mechs.
-
-Chris talked about the auditory experience provided by EM machines. 
-The distinct sounds, reminiscent to him of adding machines from the early '80s, create a visceral and engaging atmosphere. 
-Not only are the noises enjoyable, but they also become an essential part of diagnosing faults. 
-Familiarizing oneself with these sounds becomes a musical soundtrack, providing cues about the machine's operation.
-
-== Exploring VR in Pinball FX with the Unreal Engine VR Mod (UEVR)
-
-Jared tried the https://github.com/praydog/UEVR[PrayDog UEVR^] mod to turn Unreal Engine 4 or 5 games into a VR experience. In particular, I want to know how this worked with Pinball FX.
-
-There is definite potential in this open-source implementation, but it isn't easy to set up and get working. 
-You need to invest time tweaking the settings to get the game running acceptably.
-
-Official VR support should be coming to Pinball FX in 2024, so if you don't like to tinker, you may just want to wait. 
+But it does have its issues. 
+Small and uninformative insert lights and indistinct callouts like "catch those critters" don't help with table comprehension.
+You need to memorize the rules for this one, and the playfield lights and callouts trigger that recall rather than lay out the shots you need to make. 
 
 == Thanks for listening
 
