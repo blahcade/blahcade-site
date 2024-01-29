@@ -4,6 +4,7 @@ title:  "BlahCade 270: Target Alpha, New Toys for 2024!"
 author: jared
 categories: [episodes]
 image: assets/images/270-title-card.jpg
+tags: [featured,sticky]
 ---
 :experimental:
 
