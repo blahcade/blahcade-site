@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "BlahCade 272: Netflix and Zen?"
+author: jared
+categories: [episodes]
+image: assets/images/272-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+Zen Studios has partnered with Netflix for a _free with subscription_ game called _Zen Pinball Masters_. 
+
+Not only that, the studio has also released a brand new table, _System Shock_ for their Pinball M platform.
+
+Gregg from  @SpaciesArcade also produced some cool videos to help Chris with VPX so he can get started fast with the AtGames Legends 4K Pinball and PC OTG. 
+
+There's plenty to catch up on this episode, so enjoy it!
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::T7CnQXPYoio[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Netflix-and-Zen-e2gtqo5/a-ab28urj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== Clueless about EM Repair Series
+
+Chris messes around with his newly acquired Target Alpha machine.
+
+The series motivates Chris to fix all his bandaid solutions on his other two machines: Eight Ball Deluxe and Firepower.
+
+Chris also compares his restoration efforts to a channel dedicated to doing high-end restorations for pinball machines. 
+We get into the weeds with how you scope out the repair you do to a pinball machine and the things you choose to fix or leave.
+
+=== Slot Shots Ultimate by Pinblend Studios
+
+This is a different take on pinball from Pinblend Studios. 
+
+They use a https://assetstore.unity.com/packages/templates/systems/pinball-creator-74772[Pinball Creator for Unity] plugin that lets anyone create pinball tables with rules and missions. 
+
+The tables combine slot machine mechanics and pinball gameplay together with surprising results.
+
+=== Spacies Arcade Guides to Installing VPX 
+
+Greg from Spacies Arcade did a couple of installation videos for Chris so he could get started with VPX. 
+
+video::oDW3e03vaJU[youtube, width=560, height=315]
+
+If you've ever wanted to give VPX a go but have felt overwhelmed at the prospect of it, check out this video.
+
+=== System Shock on Pinball M
+
+Based on the first-person action adventure, Zen Studios gives us a very interesting take on the mood of this game.
+
+The game has this very cool tri-level playfield assembly that is deeply integrated into the game.
+
+It passes the "walk up and play" test for exploration without looking at the instructions first. 
+And it has a very cool skill shot mechanic that I've never seen before in a pinball game. 
+
+Lots of new innovations from Zoltan Vari in this release. 
+Let us hope this standard continues in 2024.
+
+=== The "FX3 is better" crowd
+
+We're both confused about why some people on the various forums claim that the _PX Engine Pinball FX3_ is still better than the _Unreal Engine Pinball FX_.
+
+Graphically, there is no comparison between the two versions.
+Features like HDR and extra graphical support like NVidia Reflex push the graphical capabilities way further than what was possible with the PX Engine.
+
+The Pinball FX platform is at what I'd consider "stable" status in that proper foundations are set to build upon. 
+The challenge now is to further refine the performance throughout 2024 so they can support platforms like on-device VR and Mobile.
+And don't forget their partnership with AtGames, which has limited hardware constraints with the Rockchip platform the on-board platform relies upon.
+
+=== Zen Pinball Masters on Netflix Gaming
+
+Out of nowhere, Zen has announced that they have released Pinball Masters on your Mobile device.
+
+It has eight tables: The Addams Family, Godzilla, Kong, Godzilla vs Kong, Curse of the Mummy, WOTEG, Noir, and Grimm Tales.
+
+So, what does this mean for future titles?
+Could the Texas Chainsaw Massacre table debut in the Netflix app first? 
+Could a table based on Stranger Things or other top Netflix titles appear in the app?
+If that is the case, let's hope they eventually make their way into the core Pinball FX app.
+
+The gameplay on mobile devices really needs some more thought.
+The super wide-body tables, like Godzilla vs Kong, make the ball look like a toy pinball.
+
+You can rest assured that the feedback they get from this app is only the beginning of the long-term mobile gaming experience coming this year.
+
+=== Cross-licensing deals and what we see in Pinball FX
+
+There seems to be a pattern emerging where the AAA licenses exist for a table, the deal is struck on the larger package, and then the lesser licenses, like Williams tables, are included in the larger deal.
+
+Think of the _Star Trek: TNG_ table and then the three-pack of Star Trek tables that suddenly appeared. 
+Those tables were clearly part of a larger deal with the license holder. I don't think the Williams table was driving the decisions there.
+
+=== Questlines and DOF Support
+
+The special modes you first experienced in Pinball FX have appeared in the core Pinball FX platform.
+
+Their names are toned down to fit the core platform design language, but the gameplay is the same. 
+The studio said they'd look closely at the qualitative (metrics) and quantitative (player feedback) data to see what features they bring back.
+
+Cabinet users also have DOF support, which lets them set up physical actuators and exciters to enhance the experience.
+There is a definite move towards offering more features for cabinet users, which is great to see.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

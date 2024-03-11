@@ -4,7 +4,6 @@ title:  "BlahCade 271: Top 10 Zen Originals We Always Play"
 author: jared
 categories: [episodes]
 image: assets/images/271-title-card.jpg
-tags: [featured,sticky]
 ---
 :experimental:
 
