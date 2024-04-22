@@ -4,7 +4,6 @@ title:  "BlahCade 272: Netflix and Zen?"
 author: jared
 categories: [episodes]
 image: assets/images/272-title-card.jpg
-tags: [featured,sticky]
 ---
 :experimental:
 
