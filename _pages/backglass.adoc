@@ -5,14 +5,34 @@ permalink: "/backglass.html"
 
 Download as many as you want now for free!
 
-This Attack From Mars backbox is just one of the backbox art assets you can get for free for your digital pinball cabinet.
+The backglass numbers match the numbering requirements for Pinball FX and Pinball FX3 so you should be able to drop them into the corret folder and they should work without modification.
 
-image::afm-backglass.png[Attack From Mars backglass image]
+If they don't work please let us know.
+Software changes all the time and we can't keep track.
 
-.Google Drive FX Box Preview
+== Google Drive Pinball FX Original Backglasses Preview
+
 ++++
-<iframe src="https://drive.google.com/embeddedfolderview?id=1Xuo8wqpQvo7WqCPVAMEkHBouxbmxXPHb#grid" width="100%" height="480"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=1KlOAHVTm-zz_M9uw30Dmk2eqicK-sCNH#grid" width="100%" height="480"></iframe>
+++++
+
+== Google Drive Pinblal FX Alternative Art Preview
+
+++++
+<iframe src="https://drive.google.com/embeddedfolderview?id=1gqYbMrTCCYZP_vw9jYlD9qj1uhFGZNCr#grid" width="100%" height="480"></iframe>
+++++
+
+== Google Drive Pinball M Backglasses Preview
+
+++++
+<iframe src="https://drive.google.com/embeddedfolderview?id=1yVQLk4Lg4Bjpu19llRWKNxTYWopOBP8x#grid" width="100%" height="480"></iframe>
+++++
+
+== Google Drive Pinball FX3 Formatted Backglasses Preview
+
+++++
+<iframe src="https://drive.google.com/embeddedfolderview?id=1DsuNkSYJIAJrbtPpwYLQZohfoZMbNuoY#grid" width="100%" height="480"></iframe>
 ++++
 
 Don't forget to consider donating to the show if you use them in your build. 
-And make sure you tweet us or send us pics! 
+And make sure you send us your pics of your awesome digital cabinet! 
