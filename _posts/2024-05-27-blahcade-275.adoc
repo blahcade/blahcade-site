@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "BlahCade 275: So many new Pinball FX tables to play"
+author: jared
+categories: [episodes]
+image: assets/images/275-title-card.jpg
+---
+:experimental:
+
+Since the last episode, seven tables have dropped on Pinball FX! 
+Chris and Jared take a look at them through an abbreviated play-through. 
+
+Before that happens, Chris talks about Zen's 45 new table packs coming to AtGames Legends Pinball 4K.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::Oblkjto1flw[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/So-many-new-Pinball-FX-tables-to-play-e2njpt7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+The show notes are the main reason why audio episodes are delayed. 
+They take as long as the show takes to record to produce because to do it right (not with ChatGPT summaries) I have to listen back through the show and summarize them.
+
+If you're missing the show notes and care enough about them, send this message to our BlahCade Twitter account or to blahblahblahcade@gmail.com:
+
+`I miss the BlahCade show note summaries in Episode 274 and Jared told me to send this message.`
+
+I'm doing a test to see how many people even read the notes from our show, and you sending this message is the only way I can truly work that out.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
