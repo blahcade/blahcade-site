@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "BlahCade 276: The pros and cons of real and digital pinball cab ownership"
+title:  "BlahCade 279: The Jurassic Park Home Edition $4900 Question"
 author: jared
 categories: [episodes]
-image: assets/images/276-title-card.jpg
+image: assets/images/279-title-card.jpg
 ---
 :experimental:
 
-In this episode, Chris and Jared break down all the advantages and disadvantages of owning a real pinball machine versus a digital pinball cabinet.
+This go around Chris got his hands on Stern's Jurassic Park Home Edition at his local Costco and is here to address that price point. 
+
+Also on the show we look at the WORST pinball machines from Bally, Data East, Gottlieb, Sega, Stern, and Williams. 
+
+Let's see what debate that starts!
 
 == Chat on Discord
 
@@ -17,12 +21,12 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 
 == Watch and listen
 
-video::p91deiwmdO4[youtube, width=560, height=315]
+video::4NOLrQgeQ4c[youtube, width=560, height=315]
 
 And here's the podcast audio:
 
 ++++
-<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/The-pros-and-cons-of-real-and-digital-pinball-cab-ownership-e2njq0u/a-abgd9s2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/The-Jurassic-Park-Home-Edition-4900-Question-e2qoa1p/a-abkd4gn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
@@ -30,8 +34,6 @@ BlahCade is available everywhere good podcasts are hosted:
 * https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
 
 * https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
-
-* https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vQmxhaENhZGVQb2RjYXN0LnhtbA?sa=X&ved=0CAMQ4aUDahgKEwjYtqi8sIX1AhUAAAAAHQAAAAAQlgI[Google Podcasts]
 
 * https://www.breaker.audio/blahcade-podcast[Breaker]
 
@@ -44,7 +46,7 @@ They take as long as the show takes to record to produce because to do it right 
 
 If you're missing the show notes and care enough about them, send this message to our BlahCade Twitter account or to blahblahblahcade@gmail.com:
 
-`I missed the BlahCade show note summaries in Episode 276 and Jared told me to send this message.`
+`I missed the BlahCade show note summaries in Episode 279 and Jared told me to send this message.`
 
 I'm doing a test to see how many people even read the notes from our show, and you sending this message is the only way I can truly work that out.
 

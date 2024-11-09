@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "BlahCade 281: Mel Kirk talks Zen and Goings On with AtGames"
+author: jared
+categories: [episodes]
+image: assets/images/281-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+This is an excerpt from our interview (episode 280) with Zen Studios COO coming out next week. 
+
+This small bit is all about Zen and their partnership with AtGames this past year and into 2025.
+
+If featuring any portion of this episode in another original piece of content, follow the video license's CC-BY (Attribution) requirements.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::5SraYGMWGRM[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Mel-Kirk-talks-Zen-and-Goings-On-with-AtGames-e2qoa47/a-abkd4ij" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+You'll get answers to these questions in the episode:
+
+* Your partnership with AtGames seems to be gaining momentum. 
+Many titles, latency updates, and CE cab announcements are coming out regularly. 
+Is Zen exactly where you want them to be with Legends 4K Pinball, or are other dream scenarios in the works?
+
+* Many teams, including Magic Pixel, seemed to help Zen work on the latency issue. 
+Can you describe the working relationship between your two studios?
+
+* Without getting into numbers, how are sales and distribution of this cabinet vs the Arcade 1Up experience? 
+Do you feel you are reaching a different audience segment, or is it the same audience but on a different platform?
+
+* The ALP 4K ports have true top-down views, no zooming to plungers or specialized playfield areas, and pre-installed backglass. 
+Is there a reason these options are not available in Pinball FX cab mode?
+
+* Will Pinball FX support AtGames' SSF kit in the future? 
+
+* As optimization continues for Pinball FX, can we expect more graphical enhancement updates to come to ALP 4K? Are there lessons learned from porting to ALP 4K and that platform that are now being applied to the core platform of Pinball FX?
+
+* Will we ever see an animated backglass for Pinball FX?
+
+* Can you speak on whether AtGames plans to release cabinets outside the United States? 
+What about big box retail such as Costco or Best Buy?
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
