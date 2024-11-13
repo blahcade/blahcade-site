@@ -2,8 +2,9 @@
 layout: post
 title:  "BlahCade 281: Mel Kirk talks Zen and Goings On with AtGames"
 author: jared
-categories: [episodes]
+categories: [episodes,interviews]
 image: assets/images/281-title-card.jpg
+tags: [featured,sticky]
 ---
 :experimental:
 
@@ -11,7 +12,7 @@ This is an excerpt from our interview (episode 280) with Zen Studios COO coming 
 
 This small bit is all about Zen and their partnership with AtGames this past year and into 2025.
 
-If featuring any portion of this episode in another original piece of content, follow the video license's CC-BY (Attribution) requirements.
+If linking to any portion of this video, or featuring this video in another original piece of content, follow the CC-BY (Attribution) requirements of the video license.
 
 == Chat on Discord
 

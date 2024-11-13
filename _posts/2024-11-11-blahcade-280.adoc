@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "BlahCade 280: The 2024 State of Zen with Mel Kirk"
+author: jared
+categories: [episodes,interviews]
+image: assets/images/280-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+Our annual discussion with Zen Studios COO Mel Kirk is here to talk all things pinball that happened in 2024 and a sneak peak at what to expect in 2025. 
+
+It is fantastic to hear things from the source and fuel speculation of what will come. 
+
+Thank you to all of those who sent questions in for Mel.
+
+If linking to any portion of this video or featuring this video in another original piece of content, follow the CC-BY (Attribution) requirements of the video license.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::CxoXx8SQ8FA[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://podcasters.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/The-2024-State-of-Zen-with-Mel-Kirk-e2qtush/a-abkk5up" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+=== 0:00:00 - AtGames
+
+See the snipped video for talking points from this video.
+
+=== 0:20:50 - VR
+
+* How is VR shaping up?
+
+* Can you reveal in which quarter we might expect to see it?
+
+* Is it going to be part of the core Pinball FX app or a separate app?
+
+* Will it be Steam VR, MetaQuest native, PSVR, or other?
+
+* Is support for peripheral controllers (for example, but not specifically, Gibson Pinball) planned for VR to give a more immersive experience?
+
+* Can we expect a release model similar to ALP 4K where content releases roll out weekly or bi-weekly until all titles are available?
+
+=== 0:23:50 - Mobile
+
+News of the Pinball Mobile Beta starting up, but not much more at this stage.
+
+=== 0:27:00 - Studio Update
+
+* Where are we in terms of staffing at Zen? Back to expanding or maintaining the status quo?
+
+* Is Zen in control of their own future now? Or at least not under threat as so many studios were a year ago?
+
+* Are there genres beyond pinball, golf, and RPG you’d like to see Zen expand into? Or is it about sticking to what you are good at and improving on that?
+
+* FarSight is done, they let go their last person that had anything to do with Pinball Arcade. Do you have any insight into their Gottlieb agreement? If it is not a license Zen would pursue, is there any chance you would use your licensing know-how to help AtGames secure it as they did with Taito for Magic Pixel? 
+
+* Current pinball designers seem to be taking cues from Zen about gameplay elements that a few years back would have seemed like impossibilities in the real world. Pure coincidence or does the studio feel they are being influential?
+
+=== 0:34:40 - Pinball M
+
+* How is Pinball M going a year after its release?
+
+* Has the scope for what types of content fall under the Pinball M banner been expanded?
+
+* Pinball M titles have come to ALP 4K with a parental restriction filter. Could the same be done to bring them within Pinball FX?
+
+* Are there any IP that changed their minds about being part of this platform, or any that came knocking because of it?
+
+* Are licensors happy with the ability to fully realize their adult themes?
+
+* What has the general feedback been about the content released so far?
+
+* Are there any IP that changed their minds about being part of this platform, or any that came knocking because of it?
+
+* How has the scope for what types of content fall under the Pinball M banner been expanded?
+
+* Will this continue to be a Zen Originals-only platform?
+
+* Can you give us an update on the whole Pinball M to Pinball FX cross-buy blockers?
+
+* Pinball M titles have come to ALP 4K with a parental restriction filter. Could the same be done to bring them within Pinball FX?
+
+* Is there a stand-out title or pack that statistically reports as the most popular?
+
+=== 0:47:00 - Pinball FX
+
+* What happened to Pinball Royale?
+
+* What are Zen's current views about multiplayer and what can be done with it?
+
+* How many tables are planned out for 2025?
+
+* How is the roadmap looking past this date, several years into the 10-year platform strategy?
+
+* Are you looking to bring in other real-world pinball brands in the next year?
+
+* Regardless of who Zen currently has a license with, what are your top 5 holy grail tables you'd like to see in Pinball FX at some point?
+
+=== 0:55:15 - Zen Originals
+
+* How do Zen originals play a role in the roadmap between the licensed properties?
+
+* How important are originals to Zen's bottom line?
+
+* Are there R&D differences between wholly original Zen titles and those with a license?
+
+* Is there a stand-out title or pack (apart from Wild West and Sorcerers) that statistically reports as the most popular?
+
+=== 1:00:45 - Licensing
+
+* So is the situation that licensors are mostly seeking the studio out rather than the studio having to chase down potential partners?
+
+* Is Aliens coming back?
+
+* Does retiring the Balls of Glory table from FX3 amount to necessary steps to secure it for Pinball FX? 
+
+* Are there some challenges with renewing the licenses (someone hypothesized Archer)? 
+
+* Is there a stand-out title or pack that statistically reports as the most popular?
+
+1:05:02 - Williams
+
+* How many more tables do you think realistically remain for the Williams franchise?
+
+* Have you had any luck with resolving the expertise issue with emulation changes?
+
+* Is there an emulation era that is a cutoff point? (pre-1981, or no EMs, no Bally 6803 titles, etc)
+
+* The backglass plays a prominent role in many titles, such as Banzai Run, NBA Fastbreak, Scared Stiff, Cyclone, and more. 
+Does that factor in with deciding what titles Zen emulates?
+
+* Is there a stand-out title or pack (apart from Fish Tales) that statistically reports as the most popular?
+
+=== 1:12:47 - Final Thoughts
+
+Closing thoughts from us all.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
