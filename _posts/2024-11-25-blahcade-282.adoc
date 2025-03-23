@@ -2,9 +2,8 @@
 layout: post
 title:  "BlahCade 282: Were you finished? Allow me to retort."
 author: jared
-categories: [episodes,interviews]
-image: assets/images/280-title-card.jpg
-tags: [featured,sticky]
+categories: [episodes]
+image: assets/images/282-title-card.jpg
 ---
 :experimental:
 
