@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "BlahCade 283: End of year pinball bonanza!"
+author: jared
+categories: [episodes]
+image: assets/images/283-title-card.jpg
+---
+:experimental:
+
+Three new tables have been added to Pinball FX as well as a whole new way to play Zen on a mobile app, Pinball World. 
+
+Plus, there's new content from Zen for AtGames Legends Pinball 4K! 
+
+So. Much. Pinball!
+
+If linking to any portion of this video or featuring this video in another original piece of content, follow the CC-BY (Attribution) requirements of the video license.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::IDHSxHU3ZAU[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://creators.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/End-of-year-pinball-bonanza-e30hmkf/a-abrk02s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+Here's a summary of the topics discussed in the video (summarized by Google Gemini):
+
+* **Amazon Prime Video:** The hosts discuss their experience with ads on Prime Video, including the frequency and repetition of ads, and the poor user interface https://youtu.be/IDHSxHU3ZAU&t=134[02:14].
+
+* **AI upscaling:** They talk about the disappointing AI upscaling of the movie Interstellar 5555, and the issues with AI-generated images https://youtu.be/IDHSxHU3ZAU&t=504[08:24].
+
+* **Pinball machine repair:** One of the hosts shares his frustrating experience trying to fix a short circuit in his Williams Pokerino pinball machine https://youtu.be/IDHSxHU3ZAU&t=1169[19:29].
+
+* **Zen Pinball World:** The hosts review the new Zen Pinball World mobile app, including the graphics, input lag, and pricing https://youtu.be/IDHSxHU3ZAU&t=1434[23:54].
+
+* **New Zen Pinball tables:** They discuss the new Williams pinball tables in Pinball FX, including Bonsai Run, Earthshaker, and Black Knight 2000 https://youtu.be/IDHSxHU3ZAU&t=2475[41:15].
+
+* **AtGames Pinball:** The hosts talk about the release of Fishtales on AtGames Pinball, and the upcoming release of Charlie Brown Christmas and Wild West Rampage https://youtu.be/IDHSxHU3ZAU&t=4536[01:15:36].
+
+* **Zen Pinball FX3:** They discuss the possibility of transferring previously purchased FX3 tables into Pinball FX https://youtu.be/IDHSxHU3ZAU&t=5034[01:23:54].
+
+* **Video game trailers:** The hosts share their thoughts on the trailers for the new Indiana Jones game, and the upcoming Witcher 4 game https://youtu.be/IDHSxHU3ZAU&t=5479[01:31:19].
+
+* **Electronics pricing:** They discuss the potential impact of upcoming tariffs on the price of electronics https://youtu.be/IDHSxHU3ZAU&t=5637[01:33:57].
+
+* **Upcoming movie review show:** The hosts announce that their next show will be a review of the best and worst movies of the year https://youtu.be/IDHSxHU3ZAU&t=5812[01:36:52].
+
+http://googleusercontent.com/youtube_content/1
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
