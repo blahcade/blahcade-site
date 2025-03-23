@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "BlahCade 286: $1000 Pinball? Alice Goes To Wonderland"
+author: jared
+categories: [episodes]
+image: assets/images/286-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+In this episode, we dive into Zen's announcement for Pinball FX VR! 
+
+We also give our gut reaction to the Kickstarter for Wonderland Amusement's Alice Goes To Wonderland pinball machine. 
+Is it a toy or is it more to it than this label?
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::wFi9fgur4g0[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://creators.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/1000-Pinball--Alice-Goes-To-Wonderland-e30hv11/a-abrkabc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+Here's a summary of the topics discussed in the video:
+
+* **Twin Peaks Blu-ray** https://www.youtube.com/watch?v=wFi9fgur4g0&t=125[02:05]: The hosts discuss the Twin Peaks box set, noting the high-quality transfer. 
+Chris also commented on the interesting experience of seeing focus issues that were not apparent when viewing the series on CRT TVs (when the series originally screened on television).
+
+* **AtGames and Zen Pinball Updates** https://www.youtube.com/watch?v=wFi9fgur4g0&t=403[06:43]: They talk about the AtGames Zen calendar being inaccurate and the unexpected release of Williams tables. 
+They also discuss the addition of original music to Jurassic Park tables and the option to turn off copyrighted music.
+
+* **Pro Pinball on Steam** https://www.youtube.com/watch?v=wFi9fgur4g0&t=1108[18:28]: The hosts mention the 50% off sale on _Pro Pinball: Time Shock_ on Steam.
+
+* **Xeno Tilt** https://www.youtube.com/watch?v=wFi9fgur4g0&t=1228[20:28]: They discuss the modifications to Xenotilt's scoring system compared with Demon's Tilt, and express their desire for a dedicated cabinet mode.
+
+* **Zen Pinball FX VR** https://www.youtube.com/watch?v=wFi9fgur4g0&t=1503[25:03]: The hosts do a deep-dive reaction to the video about Zen Pinball FX VR, discussing hand tracking, potential cosmetic unlocks, room-scale VR, and the inclusion of Williams tables.
+
+* **Alice Goes to Wonderland Pinball Machine** https://www.youtube.com/watch?v=wFi9fgur4g0&t=3522[58:42]: They discuss the Alice Goes to Wonderland pinball machine by Wonderland Amusement, its features, target audience, and potential concerns about parts availability and pricing.
+
+* **Meta Quest 3 accessories that you need** https://www.youtube.com/watch?v=wFi9fgur4g0&t=5397[01:29:57]: The hosts discuss the Meta Quest 3, including storage options, the need for a link cable, and recommended accessories.
+
+* **UEVR on PC** https://www.youtube.com/watch?v=wFi9fgur4g0&t=5872[01:37:52]: They mention the improved user experience for setting up UEVR on PC for turing the flatscreen Pinball FX and Pinball M games into VR experiences.
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

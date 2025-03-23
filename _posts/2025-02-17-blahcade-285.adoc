@@ -1,17 +1,25 @@
 ---
 layout: post
-title:  "BlahCade 284: Happy 2025! Movies of 2024."
+title:  "BlahCade 285: Spin the Wheel of Topics"
 author: jared
 categories: [episodes]
-image: assets/images/284-title-card.jpg
+image: assets/images/285-title-card.jpg
 ---
 :experimental:
 
-It's the annual tradition of Chris giving his review of movies seen in the past year. 
+This go around we've got a show packed full of shorter pinball topics:
 
-But first, re-piping a house and the reveal from AtGames of what Zen titles are coming to ALP 4K through Aug of '25.
+* Zen being unusually quiet
 
-If linking to any portion of this video or featuring this video in another original piece of content, follow the CC-BY (Attribution) requirements of the video license.
+* A new Wikipidia page about Pinball FX
+
+* How to fight pinball doldrums
+
+* Tables you should give another chance
+
+* Zaccaria Pinball's new look! 
+
+Enjoy the mixed bag!
 
 == Chat on Discord
 
@@ -21,12 +29,12 @@ https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
 
 == Watch and listen
 
-video::U7dQObpjYTY[youtube, width=560, height=315]
+video::k43CpagaE00[youtube, width=560, height=315]
 
 And here's the podcast audio:
 
 ++++
-<iframe src="https://creators.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Happy-2025--Movies-of-2024-e30hsp6/a-abrk7k9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://creators.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Spin-the-wheel-of-topics-e30htnp/a-abrk8q2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ++++
 
 BlahCade is available everywhere good podcasts are hosted:
@@ -41,103 +49,22 @@ BlahCade is available everywhere good podcasts are hosted:
 
 == Show notes
 
-Here's a summary of the movie topics discussed in the video (summarized by Google Gemini):
+Here's a summary of the movie topics discussed in the video:
 
-=== Best of 2024:
+* **Pinball Controller Peripherals** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=153[02:33] The hosts discuss the challenges of creating affordable pinball controllers, referencing the PinSim and the upcoming Gibson pinball controller.
 
-* **Alien: Romulus** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2767[46:07] - Described as a perfect blend of all the Alien movies.
+* **Pinball FX Wikipedia Page** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=616[10:16] They highlight the creation of a dedicated Wikipedia page for Pinball FX, praising the contributors and suggesting additional information to include, such as table designers.
 
-* **Furiosa: A Mad Max Saga** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2611[43:31] - A prequel to Fury Road, considered excellent.
+* **Zen's Silence and VR Announcements** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=1001[16:41] The hosts talk about Zen's lack of communication and speculate on upcoming VR announcements, hoping for a comprehensive release plan and integration of Pinball M and FX.
 
-* **Dune: Part Two** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2532[42:12] - A seamless continuation of the first Dune film.
+* **Meta Quest 4 Rumors** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=1808[30:08] They discuss the potential purchase of a Meta Quest 3, weighing the pros and cons against waiting for the rumored Meta Quest 4.
 
-* **The Substance** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2458[40:58] - A body horror film with a thought-provoking subject matter.
+* **Pinball Doldrums** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=2174[36:14] The hosts share their experiences with feeling unmotivated to play pinball and offer advice on overcoming this.
 
-* **Deadpool and Wolverine** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2266[37:46] - Praised for successfully introducing Wolverine into the MCU.
+* **Revisiting Overlooked Tables** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=2643[44:03] They recommend specific pinball tables that may have been overlooked, including digital titles _Moon Knight_ and _Homeworld_, and Xenotilt. 
+Real-world titles such as _Ripley's Believe It or Not_ and _Black Knight: Sword of Rage_ were also mentioned.
 
-=== Worth Watching:
-
-* **No One Will Save You** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2841[47:21]
-
-* **Poor Things** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2863[47:43]
-
-* **Steve! (Martin) A Documentary in 2 Parts** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2886[48:06]
-
-* **Hit Man** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2894[48:14]
-
-* **Civil War** https://www.youtube.com/watch?v=U7dQObpjYTY&t=2966[49:26]
-
-* **Knox Goes Away** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3015[50:15]
-
-* **Challengers** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3040[50:40]
-
-* **Rebel Ridge** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3076[51:16]
-
-* **The Shadow Strays** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3103[51:43]
-
-* **Kingdom of the Planet of the Apes** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3174[52:54]
-
-* **Gladiator 2** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3231[53:51]
-
-=== Worst of 2024:
-
-* **The Beekeeper** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3433[57:13] - Criticized as a poor exploitation knockoff of John Wick.
-
-* **Rebel Moon (Parts 1 & 2)** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3455[57:35] - The R-rated versions were deemed unnecessary and overly long.
-
-* **Haunted Mansion** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3630[01:00:30] - Criticized for its style over substance and poor execution of the source material.
-
-* **Blue Beetle** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3811[01:03:31] - Described as full of Latino stereotypes and a poor imitation of Iron Man and Venom.
-
-* **Godzilla x Kong: The New Empire** https://www.youtube.com/watch?v=U7dQObpjYTY&t=3985[01:06:25] - Criticized for losing its sense of scale and absurd action sequences.
-
-* **Bad Boys: Ride or Die** https://www.youtube.com/watch?v=U7dQObpjYTY&t=4110[01:08:30] - Martin Lawrence's physical limitations and the film's inconsistent tone were criticized.
-
-* **Dragged Across Concrete** https://www.youtube.com/watch?v=U7dQObpjYTY&t=4291[01:11:31] - Couldn't finish due to slow pacing and painful dialogue.
-
-* **Aquaman and the Lost Kingdom** https://www.youtube.com/watch?v=U7dQObpjYTY&t=4386[01:13:06] - Couldn't finish due to lack of plot and poor humor.
-
-* **Madame Web** https://www.youtube.com/watch?v=U7dQObpjYTY&t=4591[01:16:31] - Described as terrible on every level, with wooden acting and nonsensical plot.
-
-=== Most Disappointing:
-
-* **The Fall Guy** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5075[01:24:35]
-
-* **Argylle** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5091[01:24:51]
-
-* **Monkey Man** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5116[01:25:16]
-
-* **The Killer** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5143[01:25:43]
-
-* **Beetlejuice Beetlejuice** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5174[01:26:14]
-
-=== Special Awards:
-
-* **Five Nights at Freddy's** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5213[01:26:53] - Surprisingly enjoyable.
-
-* **Maxine** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5292[01:28:12] - The host regretted watching this film.
-
-* **Inside Out 2** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5352[01:29:12] - The host didn't understand the hype.
-
-* **Road House** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5504[01:31:44] - Unnecessary remake.
-
-* **Borderlands** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5693[01:34:53] - Failed to live up to its potential.
-
-=== Other Media Mentioned (mostly by Jared):
-
-* **Squid Game** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5751[01:35:51]
-
-* **Alice in Borderland** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5851[01:37:31]
-
-* **Avatar 2** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5892[01:38:12]
-
-* **Roger Moore Documentary** https://www.youtube.com/watch?v=U7dQObpjYTY&t=5955[01:39:15]
-
-* **Secret Level** https://www.youtube.com/watch?v=U7dQObpjYTY&t=6005[01:40:05]
-
-* **Interstella 5555** https://www.youtube.com/watch?v=U7dQObpjYTY&t=6170[01:42:50]
-
-* **Wicked** https://www.youtube.com/watch?v=U7dQObpjYTY&t=6251[01:44:11]
+* **Zaccaria Pinball Update** https://www.google.com/url?sa=E&source=gmail&q=https://youtu.be/k43CpagaE00%26t=4285[01:11:25] The hosts review the recent update to Zaccaria Pinball, focusing on improvements to art style and callouts, particularly in VR.
 
 == Thanks for listening
 
