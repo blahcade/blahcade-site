@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "BlahCade 282: Were you finished? Allow me to retort."
+author: jared
+categories: [episodes,interviews]
+image: assets/images/280-title-card.jpg
+tags: [featured,sticky]
+---
+:experimental:
+
+Chris and Jared respond to a comment thread regarding the interview with Mel Kirk. 
+
+Also, they discuss what the highlights of the interview were in our opinion.
+
+If linking to any portion of this video or featuring this video in another original piece of content, follow the CC-BY (Attribution) requirements of the video license.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch and listen
+
+video::m9xMR76koro[youtube, width=560, height=315]
+
+And here's the podcast audio:
+
+++++
+<iframe src="https://creators.spotify.com/pod/show/blahcade-pinball-podcast/embed/episodes/Were-you-finished--Allow-me-to-retort-e30hm79/a-abrjvit" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+++++
+
+BlahCade is available everywhere good podcasts are hosted:
+
+* https://open.spotify.com/show/0Kw9Ccr7adJdDsF4mBQqSu[Spotify]
+
+* https://podcasts.apple.com/us/podcast/blahcade-podcast/id1039748922?uo=4[Apple Podcasts]
+
+* https://www.breaker.audio/blahcade-podcast[Breaker]
+
+* https://pca.st/jilmqg24[Pocket Casts]
+
+== Show notes
+
+Here's a summary of the topics discussed in the video (summarized by Google Gemini):
+
+* **New Pinball Machines:** Jared shares his excitement about acquiring two new pinball machines: a 1978 Williams Pokerino and a Bally's Lost World link:https://www.youtube.com/watch?v=m9xMR76koro&t=120[02.00].
+
+* **Back Glasses from Italy:** Jared discusses receiving new back glasses from Italy for his pinball machines link:https://www.youtube.com/watch?v=m9xMR76koro&t=592[09:52].
+
+* **AtGames 4K Pinball Cabinet Discussion:** Chris and Jared discuss the AtGames Legends Pinball 4K cabinet, clarifying its 4K capabilities https://www.youtube.com/watch?v=m9xMR76koro&t=790[13:10].
+
+* **Comparison of Visuals:** Chris compares the visual quality of pinball tables on the AtGames 4K cabinet versus OTG (On The Go) play https://www.youtube.com/watch?v=m9xMR76koro&t=3110[51:50].
+
+* **Zen Pinball VR:** Jared and Chris discuss the upcoming VR release from Zen https://www.youtube.com/watch?v=m9xMR76koro&t=4233[01:10:33].
+
+* **Pinball M Content:** They talk about the possibility of Williams titles being added to Pinball M  https://www.youtube.com/watch?v=m9xMR76koro&t=4272[01:11:12].
+
+* **Williams Table Pricing:** The hosts discuss the pricing strategy for Williams tables https://www.youtube.com/watch?v=m9xMR76koro&t=4683[01:18:03].
+
+* **Bansai Run:** Bansai Run has been announced as the second table for that Williams Volume 8 pack https://www.youtube.com/watch?v=m9xMR76koro&t=5021[01:23:41].
+
+* **Pinball FX Backglass Implementation:** Chris and Jared express their desire for proper backglass implementation in Pinball FX https://www.youtube.com/watch?v=m9xMR76koro&t=5047[01:24:07].
+
+* **Pinball Royale's Demise and Multiplayer Concept:** They mention the cancellation of Pinball Royale but note that a multiplayer concept is in development for 2025 https://www.youtube.com/watch?v=m9xMR76koro&t=5252[01:27:32].
+
+* **Upcoming Content and Holiday Break:** The hosts mention the upcoming release of Charlie Brown Christmas for AtGames and discuss their plans for future episodes https://www.youtube.com/watch?v=m9xMR76koro&t=5389[01:29:49].
+
+== Thanks for listening
+
+Thanks for watching or listening to this episode: we hope you enjoyed it.
+
+If you liked the episode, please consider leaving a review about the show on https://podcasts.apple.com/au/podcast/blahcade-podcast/id1039748922[Apple Podcasts^]. 
+Reviews matter, and we appreciate the time you invest in writing them.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
