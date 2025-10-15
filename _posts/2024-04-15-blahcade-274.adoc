@@ -4,7 +4,6 @@ title:  "BlahCade 274: Gottlieb Packs 1 and 2 review PLUS PinFX Universal TV Tab
 author: jared
 categories: [episodes]
 image: assets/images/274-title-card.jpg
-tags: [featured,sticky]
 ---
 :experimental:
 

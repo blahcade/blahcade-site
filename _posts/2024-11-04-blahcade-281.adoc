@@ -4,7 +4,6 @@ title:  "BlahCade 281: Mel Kirk talks Zen and Goings On with AtGames"
 author: jared
 categories: [episodes,interviews]
 image: assets/images/281-title-card.jpg
-tags: [featured,sticky]
 ---
 :experimental:
 

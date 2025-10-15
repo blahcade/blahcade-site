@@ -4,7 +4,6 @@ title:  "BlahCade 268: Pinball FX has 14 new tables!"
 author: jared
 categories: [episodes]
 image: assets/images/268-title-card.jpg
-tags: [featured, sticky]
 ---
 :experimental:
 

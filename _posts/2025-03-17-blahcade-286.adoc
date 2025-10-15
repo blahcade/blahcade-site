@@ -4,7 +4,6 @@ title:  "BlahCade 286: $1000 Pinball? Alice Goes To Wonderland"
 author: jared
 categories: [episodes]
 image: assets/images/286-title-card.jpg
-tags: [featured,sticky]
 ---
 :experimental:
 
