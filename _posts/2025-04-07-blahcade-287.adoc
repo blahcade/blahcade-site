@@ -41,10 +41,6 @@ BlahCade is available everywhere good podcasts are hosted:
 
 Here's a summary of the topics discussed in the video:
 
-Certainly! Below are the timestamps extracted from the provided podcast transcript segments, each followed by a crafted title and detailed summary to help you quickly grasp the content and flow of the discussion:
-
----
-
 **00:00 - 06:30**  
 **Title:** Introduction to VR Pinball and Quest 3 Discussion  
 **Summary:** The hosts introduce the VR-focused episode, discussing their initial impressions of using VR headsets like the Quest 3. They share personal anecdotes about the awkwardness of wearing VR in public and their journey deciding when and how to purchase the Quest 3 headset. They highlight the importance of storage size (128GB vs 512GB) and mention bonuses like gift cards and referral credits. Accessories and headset comfort are briefly introduced, setting the stage for deeper technical discussion.
