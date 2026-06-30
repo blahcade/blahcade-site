@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-ruby "latest"
+ruby "4.0.5"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -12,8 +12,7 @@ ruby "latest"
 
 # If you have any plugins, put them here!
 gem "jekyll-sass-converter", "~> 2.0"
-gem 'wdm', '>= 0.1.0'
-if Gem.win_platform?
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll-asciidoc'
     gem 'jekyll-feed'
