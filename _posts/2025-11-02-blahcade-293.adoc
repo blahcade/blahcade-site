@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "BlahCade 293: The Lost Halloween Episode!"
+author: jared
+categories: [episodes]
+image: assets/images/293-title-card.jpg
+---
+:experimental:
+
+== YouTube Summary
+
+The Lost Halloween episode that should have come out a few days ago but didn't (oops).
+
+Lots of pinball tidbits and a fair amount of talk about _Alien: Earth_.
+
+IMPORTANT: No more audio episodes are being produced because we are focusing our resources on producing the YouTube show.
+
+== Episode Summary (AI generated)
+
+Pop Culture & Production Design::
+* *South Park:* The hosts praise the current season's quick-turnaround production and sharp political commentary, noting how it continues to hit home globally.
+
+* *Alien: Earth:* Extensive praise is given to showrunner Noah Hawley for reviving the franchise's tension by introducing unknown, polymorphic creatures rather than relying solely on the overly familiar Xenomorph.
+
+* *Retro-Futuristic Aesthetic:* They highlight the meticulous 1970s production design (such as sunken conversation pits and specific brick dividers) used to match the retro-futuristic look of the original 1979 film.
+
+* *The Licensing Hangup:* Discussing why Zen's classic _Aliens_ and _Bethesda_ digital tables haven't easily moved to newer platforms, Chris explains it is likely a corporate bottleneck rather than a direct refusal.
+When Disney acquired 20th Century Fox and executed massive executive layoffs, the specific licensing contacts were lost, making contract renewals a very low priority inside Disney's massive ecosystem.
+
+Elvira’s 'Scared Stiff' & Platform Parity::
+* *The Big Halloween Drop:* Zen Studios officially announced Bally's classic 1996 horror table, _Scared Stiff_, for _Pinball FX_ (rather than the mature-rated _Pinball M_).
+
+* *The Modesty Cover Debate:* The community noted variations in Elvira's digital character model between versions, with some footage showing a modified "crop top" underneath her iconic plunging neckline.
+The hosts draw a comparison to the historical physical "modesty stickers" (like the spiderweb sticker used on _Elvira and the Party Monsters_) often applied to real arcade cabinets.
+
+* *Day-and-Date Success:* The hosts praise Zen's ongoing commitment to launching tables simultaneously across VR, AtGames cabinets, Steam, and consoles, which keeps the player community unified.
+
+Cabinet Limitations & The Android-to-VR Pipeline::
+* *AtGames Legends 4K Test Case:* _Scared Stiff_ heavily utilizes a physical interactive spinning wheel on its backglass. The hosts view this release as a major performance test case for the AtGames 4K cabinet architecture to see if it can cleanly handle high-bandwidth backglass animations.
+
+* *The Porting Pipeline:* Jared outlines what appears to be Zen's primary mobile/standalone deployment strategy:
+
+. Port and optimize a table for the Android-based AtGames cabinets first.
+
+. Transition that optimized architecture over to mobile spaces like _Zen Pinball World_.
+
+. Deploy natively into VR spaces (which share the same base standalone engine architecture) where assets can finally be sharpened.
+
+* *The VR Backbox Dilemma:* For wide-body or vertically interactive tables like _Banzai Run_ or _Safe Cracker_, the hosts discuss the visual challenges of tracking action on both the playfield and the high backglass in VR without causing eye strain, suggesting a smooth, dynamic camera zoom might be necessary.
+
+The Fate of Pinball M & Missing Roster Gaps::
+* *Ending the Pinball M Experiment?:* With production on mature horror content seemingly slowing down, Jared questions whether it is time for Zen to phase out the standalone _Pinball M_ client.
+Because its experimental features—like Quest Lines, Survival Mode, and Quick-to-Score mechanics—have successfully been integrated back into the core _Pinball FX_ engine, maintaining a separate app feels like "dead weight" hampered entirely by console rating boards (Sony, Microsoft, Nintendo).
+
+* *Missing Williams Packs:* The hosts note major volume gaps remaining on standalone platforms.
+While they have recently received Williams Volume 4 (_Hurricane_, _Red & Ted's Road Show_, _White Water_) and Volume 6 (_Funhouse_, _Dr. Dude_, _Space Station_), volumes 5 and 7 are still notably missing from the roster.
+
+* *The Visual Enhancement Nightmare:* Chris strongly advises turning off Zen’s 3D visual enhancements for classic tables like _Funhouse_ and _Road Show_, calling them distracting "visual nightmares," though admitting they work surprisingly well on the neon-centric _Space Station_.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch
+
+video::Ek3od3AR0bs[youtube, width=560, height=315]
+
+== Thanks for watching
+
+Thanks for watching this episode: we hope you enjoyed it.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

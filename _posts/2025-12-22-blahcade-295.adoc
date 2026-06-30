@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "BlahCade 295: Jared Needs A Gottlieb Intervention"
+author: jared
+categories: [episodes]
+image: assets/images/295-title-card.jpg
+---
+:experimental:
+
+== YouTube Summary
+
+Final episode of 2025, and we owe our subscribers a huge thank you!
+
+Also, we take a behind-the-scenes look at that AtGames moment with Mel from the recent interview.
+
+Jared has added more Gottlieb machines to his garage, which is a clear call for help!
+
+I WANT ONE!::
+Help support the show by purchasing X-Arcade gear through our affiliate link: https://shop.xgaming.com/?sca_ref=971
+
+IMPORTANT: No more audio episodes are being produced because we are focusing our resources on producing the YouTube show.
+
+== Episode summary (AI-generated)
+
+Milestone & Episode 300 Plans::
+* *1,000 Subscribers:* The hosts kick off the show by celebrating passing 1,000 subscribers on YouTube, reflecting on their purely organic growth since starting the channel back in 2012.
+
+* *Live Stream for Episode 300:* With Episode 300 right around the corner, they plan to host a live stream—a format they haven't done in a very long time.
+They are looking for audience feedback on whether it should be a casual Q&A session, a VR gameplay stream, or an open forum.
+
+Debriefing the Mel Kirk (Zen Studios) Interview::
+* *Reaction and Industry Focus:* They dissect the feedback from their recent 45-minute interview with Mel Kirk from Zen Studios.
+They note that other YouTubers and podcasts heavily fixated on a brief 5-minute segment regarding *AtGames*, completely overlooking several hints Mel dropped about future table releases.
+
+* *AtGames Tensions & Body Language:* Chris and Jared highlight Mel's visibly unhappy body language regarding AtGames.
+
+* *The New Underpowered TMNT Cabinet:* They discuss AtGames' new _Teenage Mutant Ninja Turtles_ HD+ cabinet.
+While it upgrades to the same Rockchip board found in the 4K cabinet and includes a DMD screen, they caution that the hardware remains technically underpowered.
+They point out that AtGames' press releases only specify bringing "select" Zen titles, noting that Williams tables are likely too resource-heavy to emulate smoothly on it.
+
+Jared's "Gottlieb Intervention" (New Physical Machine Additions::
+* *The New Additions:* Jared explains the episode's title by revealing that he bought two classic physical pinball machines: Gottlieb's *Haunted House* and *Black Hole*.
+
+* *Restoration Strategy:* Unlike his previous waterlogged "container jobs" imported from Africa, these machines are in decent physical shape.
+Jared explains that he plans to use Pascal Pi80 replacement boards rather than trying to fix original, finicky electronics.
+He also has to custom-build 12 new Wollftech displays over his Christmas break.
+
+* *Haunted House vs. Black Hole:* Chris admits he isn't a fan of _Haunted House_ due to its annoying mini-playfields, scissor flippers, and sound layout.
+However, they both marvel at the early 1980s engineering that allowed Gottlieb to run _Haunted House's_ complex 8-flipper, 3-level rule set on a single system board using logic-switching relays.
+
+Technical Cabinet Troubleshooting & Media Mini-Reviews::
+* *The Star Wars Cab Project:* Chris shares his frustration trying to update his 2017 physical _Star Wars_ pinball cabinet.
+Upon trying to update Steam, he discovered the computer inside runs a 32-bit version of Windows 10, which Steam is dropping support for.
+Upgrading to 64-bit is proving tricky due to potential driver incompatibilities with the cabinet's custom force-feedback/solenoid boards.
+
+* *Movie Review - Kill Bill: The Whole Bloody Affair:* Chris wraps up the episode sharing his mild disappointment seeing the combined cut of _Kill Bill_ in theaters.
+While the extended 7-minute anime backstory for O-Ren Ishii and the full-color House of Blue Leaves fight were cool, the second half of the film was completely unchanged, lacking the deeper narrative re-editing he had spent years hoping for.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch
+
+video::R8PYI2-J-yg[youtube, width=560, height=315]
+
+== Thanks for watching
+
+Thanks for watching this episode: we hope you enjoyed it.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

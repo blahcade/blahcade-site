@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "BlahCade 292: Pinball Titles We Love To Suck At"
+author: jared
+categories: [episodes]
+image: assets/images/292-title-card.jpg
+---
+:experimental:
+
+Two topics, the first being pinball we love to play despite being terrible at.
+
+Second topic is taking a look at the three tables in Zen's Williams Vol 9 pack; Pin*Bot, Taxi, and Who Dunnit.
+
+IMPORTANT: No more audio episodes are being produced because we are focusing our resources on producing the YouTube show.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch
+
+video::yyAZwVwMn0k[youtube, width=560, height=315]
+
+
+
+== Thanks for watching
+
+Thanks for watching this episode: we hope you enjoyed it.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?

@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "BlahCade 294: 2025 State of Zen Studios with Mel Kirk"
+author: jared
+categories: [episodes]
+image: assets/images/294-title-card.jpg
+---
+:experimental:
+
+== YouTube Summary
+
+Mel Kirk visits once again and chats with us about all things Zen from 2025, offering a sneak peek at what to expect in 2026.
+These interview episodes tend to be fan favorites, and you won't want to miss this one at all!
+
+I WANT ONE!::
+Help support the show by purchasing X-Arcade gear through our affiliate link: https://shop.xgaming.com/?sca_ref=971
+
+IMPORTANT: No more audio episodes are being produced because we are focusing our resources on producing the YouTube show.
+
+== Episode summary (AI generated)
+
+Celebrating 25 Years of Zen Studios::
+* *Milestone Anniversary:* Mel reflects on the rare privilege of a game studio reaching a 25-year run in the industry.
+
+* *The Production Pipeline:* He outlines how their workload is split into three massive operational buckets: Platform Development (launching on completely new spaces), Maintenance (continuously supporting SDK updates across 9 separate storefronts simultaneously), and New Content (designing entirely new tables from scratch).
+
+* *Simultaneous Launch Strategy:* A major highlight of their pipeline strategy has been transitioning to day-and-date simultaneous releases across all major platforms (from PS5 to Nintendo Switch and mobile), which has dramatically improved community morale by removing painful platform waiting periods.
+
+Corporate Restructuring: Finding a Home at THQ Nordic::
+* *The Limbo Period:* Mel gives some transparent insight into the corporate shuffling under the Embracer Group umbrella.
+Zen was originally placed under Saber Interactive.
+When Saber split from Embracer, they held a pending option to buy Zen alongside _Metro Exodus_ developer 4A Games.
+This left Zen operating in a highly unique, "nebulous space" while waiting to see if the buyout would materialize.
+
+* *The New Era:* Saber did not take Zen with them.
+Instead, Zen moved under *THQ Nordic*.
+Mel expresses immense satisfaction with this shift, highly praising THQ Nordic's CEO, Clemens, and noting that the parent company deeply believes in the pinball genre.
+
+The Future of Virtual Reality (FXVR)::
+* *Social Features (VR 2.0):* Addressing community requests for shared social rooms or watching others play, Mel warns that adding a true social multiplayer layer is a massive back-end infrastructure lift—effectively a full "VR 2.0" project rather than a simple patch.
+
+* *Backwards Compatibility & Legacy Content:* Zen's goal is to keep expanding FXVR natively rather than forcing users to buy entirely new standalone apps down the line.
+He confirms that bringing legacy tables over from older apps (like _Pinball VR Classic_) will target backwards compatibility so users won't have to re-purchase content.
+However, the dedicated _Star Wars Pinball VR_ app is considered feature-complete and won't be actively updated.
+
+* *Headset Exclusivity:* Responding to intense demand for SteamVR and PSVR2 support, Mel mentions that ports won't happen unless they can dedicate the resources to build them natively, as the studio wants to avoid releasing a rushed product.
+
+Controller Partnerships & Accessibility::
+* *X Arcade Collaboration:* The hosts discuss their experiences using _X Arcade_ controllers.
+Mel praises X Arcade as fantastic partners, teasing that more major announcements and deeper in-game presence are slated for 2026.
+
+* *Accessibility & Input Options:* Zen confirms they are actively listening to a long, internal development thread discussing Bluetooth controller support and accessibility options for players struggling with standard VR trigger mechanics.
+
+* *Legacy Integration:* Mel gives an absolute "yes" to the concept of bringing dedicated X Arcade integration backward into legacy standalone properties like _Star Wars VR_ if development time permits.
+
+AtGames, Pinball M, and 2026 Teases::
+* *AtGames Legends 4K Limitations:* Addressing why backglass animations (like _Scared Stiff_'s spinning wheel) remain low-spec or static on the AtGames platform, Mel candidly points out that the cabinet's hardware architecture is publicly known and, in Zen's opinion, too underpowered to run true 4K gaming with those high-bandwidth backglass features.
+
+* *Pinball M Resurgence:* After a quiet 2025 caused by a licensing hitch that stalled a major release, Mel promises that _Pinball M_ has a massive content drop coming in the first half of 2026.
+
+* *2026 Holy Grails & Wild Cards:* Zen is actively pursuing premier Williams titles that the community heavily expects, alongside tables that have never existed in digital format before.
+Mel hints at an unannounced "wild card" project currently in negotiation that, if greenlit, could stand as a monumental studio milestone on par with their original Marvel (2010), Star Wars (2013), or Williams (2018) acquisitions.
+
+== Chat on Discord
+
+Join us on our Discord server to chat about the show.
+
+https://discord.gg/c6HmDcQhpq[BlahCade Discord Server]
+
+== Watch
+
+video::_sMRL45eq8E[youtube, width=560, height=315]
+
+== Thanks for watching
+
+Thanks for watching this episode: we hope you enjoyed it.
+
+If you want to https://www.blahcadepinball.com/support-the-show.html[Say thanks^] for this episode, click the link to learn how to help the show.
+
+To make your digital pinball cabinet look amazing, why not use our https://www.blahcadepinball.com/backglass.html[Cabinet backbox art^] for your build?
